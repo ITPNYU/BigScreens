@@ -2,18 +2,12 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="lib/core.jar"/>
+	<classpathentry kind="lib" path="lib/core_2.0b3.jar"/>
+	<classpathentry kind="lib" path="lib/jna.jar"/>
+	<classpathentry kind="lib" path="lib/video/gstreamer-java.jar"/>
+	<classpathentry kind="lib" path="lib/video/video.jar"/>
+	<classpathentry kind="lib" path="lib/opengl/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="lib/opengl/jogl-all.jar"/>
 	<classpathentry kind="lib" path="lib/mpe.jar"/>
-	<classpathentry kind="lib" path="lib/opengl/gluegen-rt.jar">
-		<attributes>
-			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="BigScreensIACTemplateDropBox/lib/opengl/macosx"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="lib/opengl/jogl.jar">
-		<attributes>
-			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="BigScreensIACTemplateDropBox/lib/opengl/macosx"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="lib/opengl/opengl.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
