@@ -15,11 +15,11 @@ public class BigScreensTemplate extends PApplet {
 
 	// Set it to 1 for actual size, 0.5 for half size, etc.
 	// This is useful for testing MPE locally and scaling it down to fit to your screen
-	public static float scale = 1f;
+	public static float scale = 0.1f;
 
 	// if this is true, it will use the MPE library, otherwise just run stand-alone
 	public static boolean MPE = true;
-	public static boolean local = false;
+	public static boolean local = true;
 
 	// Client ID
 	// Should be adjusted only for "local" testing
@@ -75,7 +75,7 @@ public class BigScreensTemplate extends PApplet {
 				size((int)(client.getLWidth()*scale), (int)(client.getLHeight()*scale));
 				client.setLocalDimensions((int)(ID*client.getLWidth()*scale), 0, (int)(client.getLWidth()*scale), (int)(client.getLHeight()*scale));
 			} else {
-				size(client.getLWidth(), client.getLHeight(),OPENGL);
+				size(client.getLWidth(), client.getLHeight(),P2D);
 			}
 			// the size is determined by the client's local width and height
 			mWidth = client.getMWidth();
