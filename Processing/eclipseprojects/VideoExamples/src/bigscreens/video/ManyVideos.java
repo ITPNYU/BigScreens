@@ -27,40 +27,44 @@ public class ManyVideos extends PApplet {
 	public void setup() {
 		size(800,600);
 
-		movies = new Movie[50];
+		movies = new Movie[10];
 		for (int i = 0; i < movies.length; i++) {
 			movies[i] = new Movie(this,"fingers.mov");
-			println(i);
-			//movies[i].loop();
 		}
-		
-		for (int i = 0; i < movies.length; i++) {
-			movies[i].loop();
-			println(i);
 
-		}
+
 	}
 
 	public void movieEvent(Movie m) {
 		m.read();
 	}
 
+	int counter = 0;
+
 	public void draw() {
 		background(255);
-		
+
+		if (counter < movies.length) {
+			movies[counter].loop();
+			counter++;
+			println(counter);
+		}
+
+
+
 		randomSeed(1);
 		for (int i = 0; i < movies.length; i++) {
 			float x = random(width);
 			float y = random(height);
 			image(movies[i],x,y,64,64);
-			
+
 		}
-		
-		
+
+
 	}
-	
-	
-	
-	
+
+
+
+
 
 }
