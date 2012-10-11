@@ -16,16 +16,16 @@ public class VideoPlayer extends PApplet {
 	//--------------------------------------
 	static public void main(String args[]) {
 		// Windowed
-		PApplet.main(new String[] {"bigscreens.video.VideoPlayer" });
+		// PApplet.main(new String[] {"bigscreens.video.VideoPlayer" });
 		// FullScreen Exclusive Mode
-		// PApplet.main(new String[] {"--present","--exclusive", "bigscreens.video.VideoPlayer" });
+		PApplet.main(new String[] {"--present", "bigscreens.video.VideoPlayer" });
 	}
 	
 	Movie m;
 
 	//--------------------------------------
 	public void setup() {
-		size(800,600);
+		size(displayWidth,displayHeight,P2D);
 		m = new Movie(this,"fingers.mov");
 		m.play();
 	}

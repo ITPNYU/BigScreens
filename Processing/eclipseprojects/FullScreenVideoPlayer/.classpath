@@ -8,5 +8,6 @@
 	<classpathentry kind="lib" path="lib/video/video.jar"/>
 	<classpathentry kind="lib" path="lib/opengl/gluegen-rt.jar"/>
 	<classpathentry kind="lib" path="lib/opengl/jogl-all.jar"/>
+	<classpathentry kind="lib" path="lib/oscP5.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
