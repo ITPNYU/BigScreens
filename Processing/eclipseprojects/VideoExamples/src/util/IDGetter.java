@@ -1,9 +1,10 @@
 /**
- * Simple Template for the Big Screens Class, Fall 2011
- * <https://github.com/shiffman/Most-Pixels-Ever>
+ * Fall 2012 Big Screens Examples
+ * https://github.com/ITPNYU/BigScreens
  * 
- * This class is designed auto-detect the ID number based on IP address for using MPE at IAC or ITP
+ * Note this project uses Processing 2.0b3
  */
+
 
 package util;
 

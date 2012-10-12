@@ -1,9 +1,10 @@
 /**
- * Simple Template for the Big Screens Class, Fall 2011
- * <https://github.com/shiffman/Most-Pixels-Ever>
+ * Fall 2012 Big Screens Examples
+ * https://github.com/ITPNYU/BigScreens
  * 
- * Note this project uses Processing 1.5.1
+ * Note this project uses Processing 2.0b3
  */
+
 
 package bigscreens.video.osc;
 

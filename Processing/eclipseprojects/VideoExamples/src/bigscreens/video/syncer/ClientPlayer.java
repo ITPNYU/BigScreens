@@ -1,9 +1,11 @@
 /**
- * Simple Template for the Big Screens Class, Fall 2011
+ * Simple Template for the Big Screens Class, Fall 2012
  * <https://github.com/shiffman/Most-Pixels-Ever>
  * 
- * Note this project uses Processing 1.5.1
+ * Note this project uses Processing 2.0b3
  */
+
+
 
 package bigscreens.video.syncer;
 

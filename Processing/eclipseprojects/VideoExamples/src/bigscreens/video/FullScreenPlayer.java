@@ -1,5 +1,5 @@
 /**
- * Simple Template for the Big Screens Class, Fall 2011
+ * Fall 2012 Big Screens Examples
  * <https://github.com/shiffman/Most-Pixels-Ever>
  * 
  * Note this project uses Processing 1.5.1

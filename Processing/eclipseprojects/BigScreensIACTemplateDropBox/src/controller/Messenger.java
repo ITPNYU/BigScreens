@@ -1,9 +1,10 @@
 /**
- * Simple Template for the Big Screens Class, Fall 2011
+ * Simple Template for the Big Screens Class, Fall 2012
  * <https://github.com/shiffman/Most-Pixels-Ever>
  * 
- * This shows how to use the ASyncClient to broadcast messages into the MPE Server
+ * Note this project uses Processing 2.0b3
  */
+
 
 package controller;
 
