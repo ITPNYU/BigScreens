@@ -27,9 +27,17 @@ public class ManyVideos extends PApplet {
 	public void setup() {
 		size(800,600);
 
-		movies = new Movie[10];
+		movies = new Movie[20];
 		for (int i = 0; i < movies.length; i++) {
-			movies[i] = new Movie(this,"fingers.mov");
+			if (i % 2 == 0) {
+				movies[i] = new Movie(this,"fingers.mov");
+			} else {
+				movies[i] = new Movie(this,"station.mov");
+
+			}
+			movies[i].loop();
+			println(i);
+			
 		}
 
 
@@ -39,16 +47,10 @@ public class ManyVideos extends PApplet {
 		m.read();
 	}
 
-	int counter = 0;
 
 	public void draw() {
 		background(255);
 
-		if (counter < movies.length) {
-			movies[counter].loop();
-			counter++;
-			println(counter);
-		}
 
 
 
