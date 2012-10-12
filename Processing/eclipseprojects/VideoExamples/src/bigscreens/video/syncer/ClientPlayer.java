@@ -49,7 +49,7 @@ public class ClientPlayer extends PApplet {
 		//println("Here comes a message: ");
 		//println("Address pattern: " + msg.addrPattern());
 		float t = msg.get(0).floatValue(); 
-		System.out.println("Jumping to " + t);
+		//System.out.println("Jumping to " + t);
 		m.jump(t);
 	}
 
