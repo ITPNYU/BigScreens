@@ -33,7 +33,7 @@ public class MasterPlayer extends PApplet {
 	public void setup() {
 		size(320,240);
 		m = new Movie(this,"fingers.mov");
-		m.play();
+		m.loop();
 
 		// In theory we could also listen on port 12001 but no need to in this scenario
 		oscP5 = new OscP5(this,12001);
