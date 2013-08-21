@@ -1,10 +1,9 @@
 /**
- * Simple Template for the Big Screens Class, Fall 2012
+ * Simple Template for the Big Screens Class, Fall 2013
  * <https://github.com/shiffman/Most-Pixels-Ever>
  * 
- * Note this project uses Processing 2.0b3
+ * Note this project uses Processing 2.1
  */
-
 
 package controller;
 
@@ -12,46 +11,75 @@ import mpe.client.*;
 import processing.core.*;
 
 public class Messenger extends PApplet {
+    //--------------------------------------
 
-	//--------------------------------------
-	AsyncClient client;
-	PFont font;
+    TCPClient client;
+    PFont font;
+    
+	/////////////////////////////////////////////////////////////////////////////////////
+	///////////////////////////WHAT MODE ARE YOU RUNNING IN?/////////////////////////////
+	/////////////////////////////////////////////////////////////////////////////////////
+    enum Mode {
+    	LOCAL, REALDEAL
+    }
 
-	boolean message = false;
+	// Where are you?
+	// We need to know in order to connect to server
+	Mode mode = Mode.LOCAL;
+	
+    //--------------------------------------
+    static public void main(String args[]) {
+        PApplet.main(new String[] { "controller.Messenger" });
+    }
 
-	//--------------------------------------
-	public void setup() {
-		// set up the client
-		// For testing locally
-		// client = new AsyncClient("localhost",9003);
-		
-		// At NYU
-		client = new AsyncClient("128.122.151.64",9003);
-		
-		// At IAC
-		// client = new AsyncClient("192.168.130.241",9003);
-		
-		size(255, 255);
-
+    //--------------------------------------
+    public void setup() {
+        size(255,255);
+        
 		smooth();
 		frameRate(20);
 		font = createFont("Arial", 18);
-	}
+        
+		// set up the client				
+        String path = "mpefiles/" + (mode == Mode.REALDEAL ? "6screens" : "local") + "/asynch.xml";
 
-	//--------------------------------------
-	public void draw() {
-		background(255);
-		String msg = mouseX + ",255," + mouseY;
-		client.broadcast(msg);
+        // make a new Client using an XML file
+        client = new TCPClient(this, "mpefiles/local/asynch.xml");
+     
+        // IMPORTANT, YOU MUST START THE CLIENT!
+        client.start();
+        
+        //println(client.isAsynchronous());
+        //println(client.isReceiver());
+    }
+    
+    // Change colors values based on mouse position
+    public void draw() {
+    	int r = (int) mouseX;
+    	int g = (int) (mouseX/2 + mouseY/2);
+    	int b = (int) mouseY;
+		background(r,g,b);
 		textFont(font);
+		String msg = r + "," + g + "," + b;    	
 		fill(0);
-		text("Broadcasting: " + msg,25,height/2);
-	}
-
-	
-
-	//--------------------------------------
-	static public void main(String args[]) {
-		PApplet.main(new String[] { "controller.Messenger" });
-	}
+		textAlign(CENTER);
+		text("Broadcasting: " + msg,width/2,height/2);
+		if(frameCount%2 == 0.0f)
+			client.broadcast(msg);					
+    }
+    
+    //--------------------------------------
+    // asynchreceive must be set to true in
+    // asynch.xml to receive data here
+    public void dataEvent(TCPClient c) {
+    	println("Raw message: " + c.getRawMessage());
+    	if (c.messageAvailable()) {
+    		String[] msgs = c.getDataMessage();
+    		for (int i = 0; i < msgs.length; i++) {
+    			println("Parsed message: " + msgs[i]);
+    		}
+    	}
+    	
+    }
 }
+

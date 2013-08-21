@@ -1,17 +1,38 @@
 /**
- * Simple Template for the Big Screens Class, Fall 2012
+ * Simple Template for the Big Screens Class, Fall 2013
  * <https://github.com/shiffman/Most-Pixels-Ever>
  * 
- * Note this project uses Processing 2.0b3
+ * Note this project uses Processing 2.1
  */
 
 package mpe.examples;
 
 import mpe.client.*;
 import processing.core.*;
-import processing.opengl.*;
 
 public class BigScreensTemplate extends PApplet {
+	
+	
+	///////////////////////////////////////////////////////////////////////////////////
+	///////////////////////////////////////////////////////////////////////////////////
+	/////////////////////////WHAT MODE ARE YOU RUNNING IN?/////////////////////////////
+	///////////////////////////////////////////////////////////////////////////////////
+	///////////////////////////////////////////////////////////////////////////////////
+	
+	public static enum Mode {
+		LOCAL, MPE, CUSTOM
+	}
+	
+	public static Mode mode = Mode.CUSTOM;
+	
+	// Client ID (0: Left, 1: Middle, 2: Right)
+	// Should be adjusted only for "local" testing
+	//--------------------------------------
+	int ID = 0;
+		
+
+	// Only fiddle with this if you choose Mode.CUSTOM
+	//--------------------------------------
 
 	// Set it to 1 for actual size, 0.5 for half size, etc.
 	// This is useful for testing MPE locally and scaling it down to fit to your screen
@@ -19,57 +40,76 @@ public class BigScreensTemplate extends PApplet {
 
 	// if this is true, it will use the MPE library, otherwise just run stand-alone
 	public static boolean MPE = true;
-	public static boolean local = true;
-
-	// Client ID
-	// Should be adjusted only for "local" testing
-	//--------------------------------------
-	int ID = 0;
+	public static boolean local = true;	
 	
+
 	TCPClient client;
 
+	// "Real" dimensions of screen
+	final int tWidth = 11520;
+	final int tHeight = 1080;
+	
 	// These we'll use for master width and height instead of Processing's built-in variables
 	int mWidth;
 	int mHeight;
+	
+	///////////////////////////////////////////////////////////////////////////////////
+	///////////////////////////////////////////////////////////////////////////////////
+	////////////////////////////////YOUR VARIABLES/////////////////////////////////////
+	///////////////////////////////////////////////////////////////////////////////////
+	///////////////////////////////////////////////////////////////////////////////////
 
-	float x = 0;
-	float xspeed = 10.0f;
-	float w = 50f;
+	float x;
+	float xspeed;
+	float w;
 
-	float yoffset = 0f;
-	float dyoffset = 1.0f;
+	float yoffset;
+	float dyoffset;
 
-	float r = 255;
-	float g = 255;
-	float b = 255;
+	float r;
+	float g;
+	float b;
 
 
 	//--------------------------------------
 	static public void main(String args[]) {
+		
+		//Set mode settings
+		if(mode == Mode.LOCAL) {
+			MPE = false;
+			local = true;
+			scale = .15f;			
+		}
+		else if(mode == Mode.MPE) {
+			MPE = true;
+			local = false;
+			scale = 1.0f;
+		}
+		
 		// Windowed
 		if (local) {
 			PApplet.main(new String[] {"mpe.examples.BigScreensTemplate" });
 		// FullScreen Exclusive Mode
 		} else {
-			PApplet.main(new String[] {"--present","--exclusive", "mpe.examples.BigScreensTemplate" });
+			PApplet.main(new String[] {"--present","--exclusive", "--bgcolor=#000000", "mpe.examples.BigScreensTemplate" });
 		}
 	}
 
 	//--------------------------------------
 	public void setup() {
-
+		
+					
 		// If we are using the library set everything up
 		if (MPE) {
 			// make a new Client using an INI file
-			// sketchPath() is used so that the INI file is local to the sketch
 			String path = "mpefiles/";
 			if (local) {
-				path += "local/mpe" + ID + ".ini";
+				path += "local/mpe" + ID + ".xml";
 			} else {
 				ID = IDGetter.getID();
-				path += "6screens/mpe" + ID + ".ini";
+				path += "6screens/mpe" + ID + ".xml";
 			}
-			client = new TCPClient(path, this);
+			client = new TCPClient(this, path);
 			// Not rendering with OPENGL for local testing
 			if (local) {
 				size((int)(client.getLWidth()*scale), (int)(client.getLHeight()*scale));
@@ -84,22 +124,55 @@ public class BigScreensTemplate extends PApplet {
 		} else {
 			// Otherwise with no library, force size
 			size(parseInt(11520*scale),parseInt(1080*scale));
-			mWidth = 11520;
-			mHeight = 1080;
+			mWidth = tWidth;
+			mHeight = tHeight;
 		}
-
-		// the random seed must be identical for all clients
-		randomSeed(1);
-
-		smooth();
-		background(255);
+		
+		smooth();		
+		resetEvent(client);
 
 		if (MPE) {
 			// IMPORTANT, YOU MUST START THE CLIENT!
 			client.start();
 		}
-	}
+		
+		///////////////////////////////////////////////////////////////////////////////////
+		///////////////////////////////////////////////////////////////////////////////////
+		///////////////////////////////////YOUR SETUP//////////////////////////////////////
+		///////////////////////////////////////////////////////////////////////////////////
+		///////////////////////////////////////////////////////////////////////////////////
 
+	}
+	
+	///////////////////////////////////////////////////////////////////////////////////
+	///////////////////////////////////////////////////////////////////////////////////
+	//////////////////////////////INIT YOUR VARIABLES//////////////////////////////////
+	///////////////////////////////////////////////////////////////////////////////////
+	///////////////////////////////////////////////////////////////////////////////////
+	
+	//--------------------------------------
+	// Start over!
+	// Happens automatically when new client connects to mpe server
+	public void resetEvent(TCPClient c) {
+		// random and noise seed must be identical for all clients
+		randomSeed(1);
+		noiseSeed(1);
+
+		// re-initialize all of your variables
+		x = 0;
+		xspeed = 10.0f;
+		w = 50f;
+
+		yoffset = 0f;
+		dyoffset = 1.0f;
+
+		r = 255;
+		g = 255;
+		b = 255;
+
+		background(255);		
+	}
+		
 	//--------------------------------------
 	// Keep the motor running... draw() needs to be added in auto mode, even if
 	// it is empty to keep things rolling.
@@ -115,13 +188,37 @@ public class BigScreensTemplate extends PApplet {
 			frameEvent(null);
 		}
 	}
+	
+	//--------------------------------------
+	// Separate event for receiving data
+	// Or a controller app
+//	public void dataEvent(TCPClient c) {
+//		String[] msg = c.getDataMessage();
+//		String colors = msg[0];
+//		float[] vals = parseFloat(colors.split(","));
+//		r = vals[0];
+//		g = vals[1];
+//		b = vals[2];
+//	}
 
 	//--------------------------------------
 	// Triggered by the client whenever a new frame should be rendered.
 	// All synchronized drawing should be done here when in auto mode.
 	public void frameEvent(TCPClient c) {
+		
+		// clear the screen
+		if (!MPE || local) {
+			scale(scale);
+		}
+
+		///////////////////////////////////////////////////////////////////////////////////
+		///////////////////////////////////////////////////////////////////////////////////
+		////////////////////////////////////YOUR CODE//////////////////////////////////////
+		///////////////////////////////////////////////////////////////////////////////////
+		///////////////////////////////////////////////////////////////////////////////////
 
 		// Receiving a message for background color
+		// It is also possible to receive data inside frameEvent
 		if (MPE && c.messageAvailable()) {
 			String[] msg = c.getDataMessage();
 			String colors = msg[0];
@@ -129,11 +226,6 @@ public class BigScreensTemplate extends PApplet {
 			r = vals[0];
 			g = vals[1];
 			b = vals[2];
-		}
-
-		// clear the screen
-		if (!MPE || local) {
-			scale(scale);
 		}
 		
 		background(r,g,b);
