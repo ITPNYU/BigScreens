@@ -1,15 +1,14 @@
 /**
- * Fall 2012 Big Screens Examples
+ * Fall 2013 Big Screens Examples
  * https://github.com/ITPNYU/BigScreens
  * 
- * Note this project uses Processing 2.0b3
+ * Note this project uses Processing 2.1
  */
 
 
 package bigscreens.video.osc;
 
 import processing.core.*;
-import processing.opengl.*;
 import processing.video.Movie;
 
 import oscP5.*;

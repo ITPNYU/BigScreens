@@ -1,8 +1,8 @@
 /**
- * Simple Template for the Big Screens Class, Fall 2012
+ * Simple Template for the Big Screens Class, Fall 2013
  * <https://github.com/shiffman/Most-Pixels-Ever>
  * 
- * Note this project uses Processing 2.0b3
+ * Note this project uses Processing 2.1
  */
 
 
@@ -12,7 +12,6 @@ package bigscreens.video.syncer;
 import oscP5.OscMessage;
 import oscP5.OscP5;
 import processing.core.*;
-import processing.opengl.*;
 import processing.video.Movie;
 
 public class ClientPlayer extends PApplet {

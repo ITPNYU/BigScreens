@@ -1,8 +1,8 @@
 /**
- * Fall 2012 Big Screens Examples
+ * Fall 2013 Big Screens Examples
  * https://github.com/ITPNYU/BigScreens
  * 
- * Note this project uses Processing 2.0b3
+ * Note this project uses Processing 2.1
  */
 
 
@@ -12,7 +12,6 @@ import netP5.NetAddress;
 import oscP5.OscMessage;
 import oscP5.OscP5;
 import processing.core.*;
-import processing.opengl.*;
 import processing.video.Movie;
 
 public class MasterPlayer extends PApplet {

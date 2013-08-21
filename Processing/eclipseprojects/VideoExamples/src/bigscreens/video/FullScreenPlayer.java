@@ -1,14 +1,13 @@
 /**
- * Fall 2012 Big Screens Examples
+ * Fall 2013 Big Screens Examples
  * <https://github.com/shiffman/Most-Pixels-Ever>
  * 
- * Note this project uses Processing 1.5.1
+ * Note this project uses Processing 2.1
  */
 
 package bigscreens.video;
 
 import processing.core.*;
-import processing.opengl.*;
 import processing.video.Movie;
 
 public class FullScreenPlayer extends PApplet {
@@ -25,7 +24,7 @@ public class FullScreenPlayer extends PApplet {
 
 	//--------------------------------------
 	public void setup() {
-		size(displayWidth,displayHeight,P2D);
+		size(displayWidth,displayHeight);
 		m = new Movie(this,"fingers.mov");
 		m.play();
 	}

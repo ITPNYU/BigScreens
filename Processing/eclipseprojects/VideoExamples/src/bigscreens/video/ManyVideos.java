@@ -9,7 +9,6 @@
 package bigscreens.video;
 
 import processing.core.*;
-import processing.opengl.*;
 import processing.video.Movie;
 
 public class ManyVideos extends PApplet {
