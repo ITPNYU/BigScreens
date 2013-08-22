@@ -23,7 +23,7 @@ public class BigScreensTemplate extends PApplet {
 		LOCAL, MPE, CUSTOM
 	}
 	
-	public static Mode mode = Mode.CUSTOM;
+	public static Mode mode = Mode.LOCAL;
 	
 	// Client ID (0: Left, 1: Middle, 2: Right)
 	// Should be adjusted only for "local" testing
@@ -36,7 +36,7 @@ public class BigScreensTemplate extends PApplet {
 
 	// Set it to 1 for actual size, 0.5 for half size, etc.
 	// This is useful for testing MPE locally and scaling it down to fit to your screen
-	public static float scale = 0.1f;
+	public static float scale = 0.15f;
 
 	// if this is true, it will use the MPE library, otherwise just run stand-alone
 	public static boolean MPE = true;
