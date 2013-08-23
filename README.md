@@ -1,7 +1,7 @@
 BigScreens
 ==========
 
-[Syllabus](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2013)
+[Syllabus](https://github.com/ITPNYU/BigScreens/blob/master/Big-Screens-2013-Syllabus.md)
 
 Basic Examples and template files for Processing, OF, AfterEffects the Big Screens class can be found in this repo.
 
