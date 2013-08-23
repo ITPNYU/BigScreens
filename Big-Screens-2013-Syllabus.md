@@ -26,7 +26,7 @@
 
 - Things that take up space. Architecture as a medium.
 - Things that take up time. Big Screens and Performance.
-- Past projects
+- [Past projects and Other Video Walls](http://itp.nyu.edu/varwiki/BigScreens/TheOthers)
 - Overview of IAC video wall system
 - Overview of Most Pixels Ever library
 
