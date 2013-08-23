@@ -50,6 +50,7 @@
 - Tutorial: [User and data inputs through MPE Messaging](http://itp.nyu.edu/varwiki/BigScreens/MPEMessaging)
 - Tutorial: [ASyncClient](https://github.com/shiffman/Most-Pixels-Ever-Processing/wiki/AsyncClient-Tutorial)
 - Tutorial: [Watchout Rendering / After Effects](http://itp.nyu.edu/varwiki/BigScreens/Rendering)
+- Workshop: Storyboarding
 
 [Sign-up here](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2013-Projects)
 All examples are in [this GitHub repo] (https://github.com/ITPNYU/BigScreens)
