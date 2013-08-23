@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+  <location>ITP</location>
+  <user>bigscreens</user>
+  <ide>XCODE</ide>
+  <path>e.g. MyProjectFolder:Folder:Folder</path>
+  <project>ProjectLauncher</project>
+  <screens>
+    <screen>false</screen>
+    <screen>false</screen>
+    <screen>true</screen>
+  </screens>
+  <numScreens>3</numScreens>
+</settings>
