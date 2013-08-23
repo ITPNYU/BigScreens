@@ -74,7 +74,7 @@ All examples are in [this GitHub repo] (https://github.com/ITPNYU/BigScreens)
 
 ## Class 12: Dress Rehearsal, Friday Nov 22 6:30-8PM
 
-# The Show!: Friday Dec 6
+# The Show! Friday Dec 6
 
 
 ## Class description
