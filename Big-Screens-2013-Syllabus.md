@@ -1,3 +1,5 @@
+# Big Screens 2013 Syllabus
+
 - Fall 2013, Fridays, 12:30pm - 3:00pm
 - Mimi Yin, mimi.yin@nyu.edu
 - [Office Hours Signup](https://itp.nyu.edu/inwiki/Signup/Mimi)
