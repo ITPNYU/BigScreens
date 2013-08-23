@@ -36,7 +36,7 @@
 - [Set up your Dropbox Folder and put your homework in it](http://itp.nyu.edu/varwiki/BigScreens/Dropbox)
 - Set up a blog / site for your project (you may add a category to an existing blog). Each week, you should post documentation of project progress to your site. [Link to it from here.](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2013-Projects)
 
-## Class 2: Show and Tell at IAC! Friday, Sep 13, 12:30 - 3:00 pm
+## Class 2: Show and Tell at IAC! Friday, Sep 13, 12:30 - 3pm
 
 10 minutes per project
 
