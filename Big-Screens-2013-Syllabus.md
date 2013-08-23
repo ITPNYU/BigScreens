@@ -52,8 +52,7 @@
 - Tutorial: [Watchout Rendering / After Effects](http://itp.nyu.edu/varwiki/BigScreens/Rendering)
 - Workshop: Storyboarding
 
-[Sign-up here](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2013-Projects)
-All examples are in [this GitHub repo] (https://github.com/ITPNYU/BigScreens)
+[Sign-up here](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2013-Projects) | All examples are in [this GitHub repo] (https://github.com/ITPNYU/BigScreens).
 
 ##### Homework: 
 - Technical Proposal (More details to come.)
