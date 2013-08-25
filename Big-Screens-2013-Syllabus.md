@@ -1,6 +1,6 @@
 # Big Screens 2013 Syllabus
 
-- Fall 2013, Fridays, 12:30pm - 3:00pm
+- Fall 2013, Fridays, 12:30-3PM
 - Mimi Yin, mimi.yin@nyu.edu
 - [Office Hours Signup](https://itp.nyu.edu/inwiki/Signup/Mimi)
 
@@ -22,7 +22,7 @@
 
 # Syllabus
 
-### Class 1: Meet at ITP, Friday, Sep 6, 12:30pm - 3:00pm
+### Class 1: Meet at ITP, Friday, Sep 6, 12:30-3PM
 
 - Things that take up space. Architecture as a medium.
 - Things that take up time. Big Screens and Performance.
@@ -36,7 +36,7 @@
 - [Set up your Dropbox Folder and put your homework in it](http://itp.nyu.edu/varwiki/BigScreens/Dropbox)
 - Set up a blog / site for your project (you may add a category to an existing blog). Each week, you should post documentation of project progress to your site. [Link to it from here.](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2013-Projects)
 
-## Class 2: Show and Tell at IAC! Friday, Sep 13, 12:30 - 3pm
+## Class 2: Show and Tell at IAC! Friday, Sep 13, 12:30-3PM
 
 10 minutes per project
 
@@ -50,7 +50,6 @@
 - Tutorial: [User and data inputs through MPE Messaging](http://itp.nyu.edu/varwiki/BigScreens/MPEMessaging)
 - Tutorial: [ASyncClient](https://github.com/shiffman/Most-Pixels-Ever-Processing/wiki/AsyncClient-Tutorial)
 - Tutorial: [Watchout Rendering / After Effects](http://itp.nyu.edu/varwiki/BigScreens/Rendering)
-- Workshop: Storyboarding
 
 [Sign-up here](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2013-Projects) | All examples are in [this GitHub repo] (https://github.com/ITPNYU/BigScreens).
 
@@ -64,9 +63,9 @@
 
 ### Class 7: Friday, Oct 18
 
-## Class 8: Critique at ITP, Friday, Oct 25, 12:30 pm - 3:00 pm
+## Class 8: Critique at ITP, Friday, Oct 25, 12:30-3PM
 
-## Class 9: Critique at ITP, Friday, Nov 1, 12:30 pm - 3:00 pm
+## Class 9: Critique at ITP, Friday, Nov 1, 12:30-3PM
 
 ### Class 10: Friday, Nov 8
 
@@ -75,6 +74,8 @@
 ## Class 12: Dress Rehearsal, Friday Nov 22 6:30-8PM
 
 # The Show! Friday Dec 6
+
+## Class 14: Wrap-up at ITP, Friday Dec 13 12:30-3PM
 
 
 ## Class description
