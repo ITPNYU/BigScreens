@@ -75,7 +75,7 @@
 
 # The Show! Friday Dec 6
 
-## Class 14: Wrap-up at ITP, Friday Dec 13 12:30-3PM
+### Class 14: Wrap-up at ITP, Friday Dec 13 12:30-3PM
 
 
 ## Class description
