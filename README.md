@@ -7,5 +7,5 @@ Basic Examples and template files for Processing, OF, AfterEffects the Big Scree
 
 For more examples:
 - [More MPE-Processing examples and MPE Server here.] (https://github.com/shiffman/Most-Pixels-Ever-Processing)
-- [Most-Pixels-Ever-Openframeworks](https://github.com/Flightphase/Most-Pixels-Ever)
+- [Most-Pixels-Ever-Openframeworks](https://github.com/obviousjim/ofxMostPixelsEver)
 - [Most-Pixels-Ever-Cinder](https://github.com/wdlindmeier/Most-Pixels-Ever-Cinder)
