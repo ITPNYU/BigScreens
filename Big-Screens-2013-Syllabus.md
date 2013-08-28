@@ -68,8 +68,10 @@
 ### Class 7: Friday, Oct 18: TBD
 
 ## Class 8: Critique @IAC, Friday, Oct 25, 12:30-3PM
+- Sign up for prep Thursday, Oct 24
 
 ## Class 9: Critique @IAC, Friday, Nov 1, 12:30-3PM
+- Sign up for prep Thursday, Oct 31
 
 ### Class 10: @IAC: Thurs-Fri, Nov 7-8
 
