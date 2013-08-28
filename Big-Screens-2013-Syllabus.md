@@ -40,9 +40,10 @@
 
 10 minutes per project
 
-### Class 3: Friday Sep 20
+### Class 3: @IAC: Thurs, Fri Sep 19-20
+[Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2013-Projects)
 
-## Class 4: Tutorials! Meet at ITP, Friday, Sep 28
+## Class 4: Tutorials! Meet at ITP, Friday, Sep 27
 
 - Tutorial: [Processing in Eclipse](https://github.com/shiffman/Most-Pixels-Ever/wiki/Eclipse-Tutorial)
 - Tutorial: [Dropbox and Eclipse](http://itp.nyu.edu/varwiki/BigScreens/DropBoxStuff)
@@ -57,21 +58,29 @@
 - Technical Proposal (More details to come.)
 - Prepare a first prototype of your project running across the entire video wall. Test first at ITP before coming to IAC. Make sure you are signed up for a time to work at IAC for next week:
 
-### Class 5: Friday, Oct 4
+### Class 5: @IAC & @ITP: Friday, Oct 4
+- 1/2 the projects will work on the wall @IAC
+- 1/2 the projects will meet at ITP and get your projects running in the lounge.
 
-### Class 6: Friday, Oct 11
+### Class 6: @IAC & @ITP: Friday, Oct 11
+- 1/2 the projects will work on the wall @IAC
+- 1/2 the projects will meet at ITP to present work in the lounge for feedback.
 
 ### Class 7: Friday, Oct 18
 
-## Class 8: Critique at ITP, Friday, Oct 25, 12:30-3PM
+## Class 8: Critique @IAC, Friday, Oct 25, 12:30-3PM
 
-## Class 9: Critique at ITP, Friday, Nov 1, 12:30-3PM
+## Class 9: Critique @IAC, Friday, Nov 1, 12:30-3PM
 
-### Class 10: Friday, Nov 8
+### Class 10: @IAC: Thurs-Fri, Nov 7-8
 
-### Class 11: Friday, Nov 15
+### Class 11: @IAC: Thurs Nov 14, @ITP Friday, Nov 15
+Choice to either go to IAC to work on the wall Thursday or sign up for office hours @ITP on Friday. Either way, goal is to have a game plan for your final work session at IAC the following week.
 
-## Class 12: Dress Rehearsal, Friday Nov 22 6:30-8PM
+### Class 12: @IAC: Thurs-Fri Nov 21-22 6:30-8PM
+
+## Dress Rehearsal, Friday Nov 22 6:30-8PM
+Projects should be !!DONE!! at this point!. As this is your last opportunity to work on the wall.
 
 # The Show! Friday Dec 6
 
