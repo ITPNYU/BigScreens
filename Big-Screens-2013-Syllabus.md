@@ -40,7 +40,7 @@
 
 10 minutes per project
 
-### Class 3: @IAC: Thurs, Fri Sep 19-20
+### Class 3: @IAC: Thurs-Fri, Sep 19-20
 [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2013-Projects)
 
 ## Class 4: Tutorials! Meet at ITP, Friday, Sep 27
@@ -55,7 +55,6 @@
 [Sign-up here](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2013-Projects) | All examples are in [this GitHub repo] (https://github.com/ITPNYU/BigScreens).
 
 ##### Homework: 
-- Technical Proposal (More details to come.)
 - Prepare a first prototype of your project running across the entire video wall. Test first at ITP before coming to IAC. Make sure you are signed up for a time to work at IAC for next week:
 
 ### Class 5: @IAC & @ITP: Friday, Oct 4
@@ -66,7 +65,7 @@
 - 1/2 the projects will work on the wall @IAC
 - 1/2 the projects will meet at ITP to present work in the lounge for feedback.
 
-### Class 7: Friday, Oct 18
+### Class 7: Friday, Oct 18: TBD
 
 ## Class 8: Critique @IAC, Friday, Oct 25, 12:30-3PM
 
