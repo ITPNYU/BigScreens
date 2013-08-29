@@ -64,7 +64,7 @@ public class Messenger extends PApplet {
 		fill(0);
 		textAlign(CENTER);
 		text("Broadcasting: " + msg,width/2,height/2);
-		if(frameCount%2 == 0.0f)
+		if(frameCount > 1)
 			client.broadcast(msg);					
     }
     
