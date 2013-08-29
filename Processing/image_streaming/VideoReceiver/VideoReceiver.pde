@@ -1,5 +1,7 @@
 import java.awt.image.*; 
 import javax.imageio.*;
+import java.net.*;
+import java.io.*;
 
 
 // Port we are receiving.

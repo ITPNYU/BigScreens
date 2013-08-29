@@ -2,6 +2,9 @@ import processing.video.*;
 
 import javax.imageio.*;
 import java.awt.image.*; 
+import java.net.*;
+import java.io.*;
+
 
 // This is the port we are sending to
 int clientPort = 9100; 

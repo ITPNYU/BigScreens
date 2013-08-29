@@ -5,6 +5,8 @@
 
 import java.awt.image.*; 
 import javax.imageio.*;
+import java.net.*;
+import java.io.*;
 
 PImage video;
 ReceiverThread thread;
