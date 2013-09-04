@@ -37,12 +37,13 @@
 - Set up a blog / site for your project (you may add a category to an existing blog). Each week, you should post documentation of project progress to your site. [Link to it from here.](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2013-Projects)
 
 ## Class 2: Show and Tell at IAC! Friday, Sep 13, 12:30-3PM
+- Short Tour of the space with Vincent Luciani
+- Show and Tell of your shorts
 
 ##### Homework: 
-- Collect 100 (yes 100) images at 11520x1080 pixels to look at on the full video wall the following week.
-- Make use of the 
+- Collect 100 (yes 100) images at 11520x1080 pixels to look at on the full video wall the following week. Put them in your dropbox folder.
+- You'll be reviewing them in small groups of 2-3 teams at a time
 
-10 minutes per project
 
 ### Class 3: @IAC: Thurs-Fri, Sep 19-20
 [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2013-Projects)
