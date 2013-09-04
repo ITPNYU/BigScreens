@@ -28,7 +28,17 @@
 - Things that take up time. Big Screens and Performance.
 - [Past projects and Other Video Walls](http://itp.nyu.edu/varwiki/BigScreens/TheOthers)
 - Overview of IAC video wall system
-- Overview of Most Pixels Ever library
+
+####Logistics and Resources
+- Syllabus and schedule.
+- What's in this git repo?
+- High level overview of technologies used for Big Screens.
+- Lightning round: What have you been thinking about?
+
+####Looking at examples and discussion! 
+- Past projects. 
+- Timing and Narrative Arc. 
+- Homework and Storygraphing.
 
 ##### Homework: 
 - Make something that lasts 3 minutes for 3840x1080 pixels. We will look at it on the wall at IAC the following week. Be prepared to talk about it in terms of temporal arc: Beginning - Middle - End.
