@@ -24,16 +24,18 @@
 
 ### Class 1: Meet at ITP, Friday, Sep 6, 12:30-3PM
 
+####What exactly is this class about?
 - Things that take up space. Architecture as a medium.
 - Things that take up time. Big Screens and Performance.
 - [Past projects and Other Video Walls](http://itp.nyu.edu/varwiki/BigScreens/TheOthers)
 - Overview of IAC video wall system
 
 ####Logistics and Resources
+- Lightning round: What have you been thinking about?
 - Syllabus and schedule.
 - What's in this git repo?
 - High level overview of technologies used for Big Screens.
-- Lightning round: What have you been thinking about?
+
 
 ####Looking at examples and discussion! 
 - Past projects. 
