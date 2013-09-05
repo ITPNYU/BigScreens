@@ -69,10 +69,9 @@
 - Tutorial: [ASyncClient](https://github.com/shiffman/Most-Pixels-Ever-Processing/wiki/AsyncClient-Tutorial)
 - Tutorial: [Watchout Rendering / After Effects](http://itp.nyu.edu/varwiki/BigScreens/Rendering)
 
-[Sign-up here](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2013-Projects) | All examples are in [this GitHub repo] (https://github.com/ITPNYU/BigScreens).
-
 ### Class 5: @@ITP: Friday, Oct 4
 - Workshops TBD.
+- [Sign-up here](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2013-Projects) | All examples are in [this GitHub repo] (https://github.com/ITPNYU/BigScreens).
 
 ##### Homework: 
 - Prepare a first prototype of your project running across the entire video wall. Test first at ITP before coming to IAC. Make sure you are signed up for a time to work at IAC for next week:
