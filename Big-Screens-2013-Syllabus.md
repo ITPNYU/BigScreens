@@ -65,6 +65,9 @@
 
 ## Class 4: Tutorials! Meet at ITP, Friday, Sep 27
 
+- Present proposals and any early sketches, drafts.
+- Conversation with the Residents.
+
 - Tutorial: [Processing in Eclipse](https://github.com/shiffman/Most-Pixels-Ever/wiki/Eclipse-Tutorial)
 - Tutorial: [Dropbox and Eclipse](http://itp.nyu.edu/varwiki/BigScreens/DropBoxStuff)
 - Tutorial: openFrameWorks for video playback OFVideoPlayer
