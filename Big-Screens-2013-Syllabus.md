@@ -43,10 +43,13 @@
 - Homework and Storygraphing.
 
 ##### Homework: 
-- Make something that lasts 3 minutes for 3840x1080 pixels. We will look at it on the wall at IAC the following week. Be prepared to talk about it in terms of temporal arc: Beginning - Middle - End. Plot out what you want people to be feeling, experiencing at 0s, 5s, 15s, 1 minute 30s, etc...
+- Set up a blog / site for your project (you may add a category to an existing blog). Each week, you should post documentation of project progress to your site. [Link to it from here.](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2013-Projects)
+- Make something that lasts 3 minutes for 3840x1080 pixels. We will look at it on the wall at IAC the following week. 
+-- Scaling up video isn't a problem. Remember the bottom 140 pixels will be cut-off. 
+-- Upload it to your dropbox folder.
+-- Post it to your blog with a few words to describe what you want people to be feeling, experiencing at 0s, 5s, 15s...1 minute 30s...
 - [Technical Specs for IAC](http://itp.nyu.edu/varwiki/BigScreens/FirstTime-F12)
 - [Set up your Dropbox Folder and put your homework in it](http://itp.nyu.edu/varwiki/BigScreens/Dropbox)
-- Set up a blog / site for your project (you may add a category to an existing blog). Each week, you should post documentation of project progress to your site. [Link to it from here.](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2013-Projects)
 
 ## Class 2: Show and Tell at IAC! Friday, Sep 13, 12:30-3PM
 - Short Tour of the space with Vincent Luciani
