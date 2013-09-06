@@ -51,6 +51,8 @@
 - [Technical Specs for IAC](http://itp.nyu.edu/varwiki/BigScreens/FirstTime-F12)
 - [Set up your Dropbox Folder and put your homework in it](http://itp.nyu.edu/varwiki/BigScreens/Dropbox)
 
+- [Notes from class](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2013-Week-1-Notes)
+
 ## Class 2: Show and Tell at IAC! Friday, Sep 13, 12:30-3PM
 - Short Tour of the space with Vincent Luciani
 - Show and Tell of your shorts
