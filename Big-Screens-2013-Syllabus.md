@@ -47,7 +47,7 @@
 - Make something that lasts 3 minutes for 3840x1080 pixels. We will look at it on the wall at IAC the following week. 
   - Scaling up video isn't a problem. Remember the bottom 140 pixels will be cut-off. 
   - Upload it to your dropbox folder.
-  - Post it to your blog with a few words to describe what you want people to be feeling, experiencing at 0s, 5s, 15s...1 minute 30s...
+  - Post to your blog with a graph of your arc and few words to describe what you want people to be feeling, experiencing at 0s, 5s, 15s...1 minute 30s...
 - [Technical Specs for IAC](http://itp.nyu.edu/varwiki/BigScreens/FirstTime-F12)
 - [Set up your Dropbox Folder and put your homework in it](http://itp.nyu.edu/varwiki/BigScreens/Dropbox)
 
