@@ -63,7 +63,10 @@
 
 
 ### Class 3: @IAC: Thurs-Fri, Sep 19-20
-[Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2013-Projects)
+- [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2013-Projects)
+- You'll have 2.5 hours in the space.
+- Goal is to end up with beginnings of a visual storyboard for your project.
+- Bring a camera and document the images you liked best and post them to your blog.
 
 ## Class 4: Tutorials! Meet at ITP, Friday, Sep 27
 
