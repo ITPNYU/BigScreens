@@ -59,7 +59,7 @@
 
 ##### Homework: 
 - Collect 100 (yes 100) images at 11520x1080 pixels to look at on the full video wall the following week. Put them in your dropbox folder.
-- You'll be reviewing them in small groups of 2-3 teams at a time
+- You'll be reviewing them in small groups of 2 teams at a time
 
 
 ### Class 3: @IAC: Thurs-Fri, Sep 19-20
@@ -68,6 +68,10 @@
 ## Class 4: Tutorials! Meet at ITP, Friday, Sep 27
 
 - Present proposals and any early sketches, drafts.
+  - Storygraph
+  - Storyboard
+  - Stills, Raw video footage, After Effects snippets, Processing/OF/Cinder/HTML5 sketches
+  - 
 - Conversation with the Residents.
 
 - Tutorial: [Processing in Eclipse](https://github.com/shiffman/Most-Pixels-Ever/wiki/Eclipse-Tutorial)
