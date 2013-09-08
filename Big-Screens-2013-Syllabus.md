@@ -59,12 +59,11 @@
 
 ##### Homework: 
 - Collect 100 (yes 100) images at 11520x1080 pixels to look at on the full video wall the following week. Put them in your dropbox folder.
-- You'll be reviewing them in small groups of 2 teams at a time
 
 
 ### Class 3: @IAC: Thurs-Fri, Sep 19-20
 - [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2013-Projects)
-- You'll have 2.5 hours in the space.
+- You'll have 2 hours in the space.
 - Goal is to end up with beginnings of a visual storyboard for your project.
 - Bring a camera and document the images you liked best and post them to your blog.
 
