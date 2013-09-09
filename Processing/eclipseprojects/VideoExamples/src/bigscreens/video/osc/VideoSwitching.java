@@ -2,7 +2,7 @@
  * Fall 2013 Big Screens Examples
  * https://github.com/ITPNYU/BigScreens
  * 
- * Note this project uses Processing 2.1
+ * Note this project uses Processing 2.0.1
  */
 
 

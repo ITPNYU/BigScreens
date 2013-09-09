@@ -1,8 +1,8 @@
 /**
  * Simple Template for the Big Screens Class, Fall 2013
- * <https://github.com/shiffman/Most-Pixels-Ever>
+ * <https://github.com/ITPNYU/BigScreens>
  * 
- * Note this project uses Processing 2.1
+ * Note this project uses Processing 2.0.1
  */
 
 package mpe.examples;
