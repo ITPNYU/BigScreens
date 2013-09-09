@@ -10,10 +10,11 @@ package controller;
 import mpe.client.*;
 import processing.core.*;
 
+@SuppressWarnings("serial")
 public class Messenger extends PApplet {
     //--------------------------------------
 
-    TCPClient client;
+	TCPClient client;
     PFont font;
     
 	/////////////////////////////////////////////////////////////////////////////////////

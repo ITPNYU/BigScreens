@@ -10,6 +10,7 @@ package mpe.examples;
 import mpe.client.*;
 import processing.core.*;
 
+@SuppressWarnings("serial")
 public class BigScreensTemplate extends PApplet {
 	
 	
@@ -91,7 +92,7 @@ public class BigScreensTemplate extends PApplet {
 			PApplet.main(new String[] {"mpe.examples.BigScreensTemplate" });
 		// FullScreen Exclusive Mode
 		} else {
-			PApplet.main(new String[] {"--present","--exclusive", "--bgcolor=#000000", "mpe.examples.BigScreensTemplate" });
+			PApplet.main(new String[] {"--present", "--bgcolor=#000000", "mpe.examples.BigScreensTemplate" });
 		}
 	}
 
@@ -101,7 +102,7 @@ public class BigScreensTemplate extends PApplet {
 					
 		// If we are using the library set everything up
 		if (MPE) {
-			// make a new Client using an INI file
+			// make a new Client using an XML file
 			String path = "mpefiles/";
 			if (local) {
 				path += "local/mpe" + ID + ".xml";
