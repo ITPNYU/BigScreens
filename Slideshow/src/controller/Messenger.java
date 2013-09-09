@@ -46,7 +46,7 @@ public class Messenger extends PApplet {
         String path = "mpefiles/" + (mode == Mode.REALDEAL ? "6screens" : "local") + "/asynch.xml";
 
         // make a new Client using an XML file
-        client = new TCPClient(this, "mpefiles/local/asynch.xml");
+        client = new TCPClient(this, path);
      
         // IMPORTANT, YOU MUST START THE CLIENT!
         client.start();
