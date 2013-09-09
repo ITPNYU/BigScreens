@@ -264,7 +264,9 @@ public class ProjectLauncher extends PApplet {
 		else {
 			String commands = command == Command.LSRVR ? "cd ~/; java -jar mpeServer.jar -verbose -screens"
 					+ settings.numScreens
-					: "pkill -9 -f mpeServer";
+					// Brute-force method as pkill wasn't introduced on MacOS until Mountain Lion
+					: "killAll java";
+					//: "pkill -9 -f mpeServer";
 			String host = settings.loc == Location.IAC ? iac[1] : itp[1];
 			String[] args = { user, host, password, commands };
 			for (String arg : args)
