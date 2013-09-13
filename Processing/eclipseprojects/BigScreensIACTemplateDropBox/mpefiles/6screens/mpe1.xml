@@ -17,7 +17,7 @@
 		<width>11520</width>
 		<height>1080</height>
 	</master_dimensions>
-	<offset_window>true</offset_window>
+	<offset_window>false</offset_window>
 	<verbose>false</verbose>
 	<simulation fps="30">false</simulation>
 </settings>
