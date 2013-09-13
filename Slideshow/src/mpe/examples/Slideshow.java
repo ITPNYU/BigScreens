@@ -1,8 +1,8 @@
 /**
  * Simple Template for the Big Screens Class, Fall 2013
- * <https://github.com/shiffman/Most-Pixels-Ever>
+ * <https://github.com/ITPNYU/BigScreens>
  * 
- * Note this project uses Processing 2.1
+ * Note this project uses Processing 2.0.1
  */
 
 package mpe.examples;
@@ -26,28 +26,28 @@ public class Slideshow extends PApplet {
 		LOCAL, MPE, CUSTOM
 	}
 	
-	public static Mode mode = Mode.CUSTOM;
+	public static Mode mode = Mode.MPE;
 	
 	// Client ID (0: Left, 1: Middle, 2: Right)
 	// Should be adjusted only for "local" testing
 	//--------------------------------------
-	int ID = 2;
-		
-
+	int ID = 0;
+	
+	
 	// Only fiddle with this if you choose Mode.CUSTOM
 	//--------------------------------------
-
+	
 	// Set it to 1 for actual size, 0.5 for half size, etc.
 	// This is useful for testing MPE locally and scaling it down to fit to your screen
 	public static float scale = 0.15f;
-
+	
 	// if this is true, it will use the MPE library, otherwise just run stand-alone
 	public static boolean MPE = true;
 	public static boolean local = true;	
 	
-
+	
 	TCPClient client;
-
+	
 	// "Real" dimensions of screen
 	final int tWidth = 11520;
 	final int tHeight = 1080;
@@ -61,11 +61,11 @@ public class Slideshow extends PApplet {
 	////////////////////////////////YOUR VARIABLES/////////////////////////////////////
 	///////////////////////////////////////////////////////////////////////////////////
 	///////////////////////////////////////////////////////////////////////////////////
-
+	
 	int index;
 	int lastImage;
 	ArrayList<PImage> images;
-
+	
 	//--------------------------------------
 	static public void main(String args[]) {
 		
@@ -84,19 +84,19 @@ public class Slideshow extends PApplet {
 		// Windowed
 		if (local) {
 			PApplet.main(new String[] {"mpe.examples.Slideshow" });
-		// FullScreen Exclusive Mode
+			// FullScreen Exclusive Mode
 		} else {
-			PApplet.main(new String[] {"--present","--exclusive", "--bgcolor=#000000", "mpe.examples.Slideshow" });
+			PApplet.main(new String[] {"--present","--bgcolor=#000000", "mpe.examples.Slideshow" });
 		}
 	}
-
+	
 	//--------------------------------------
 	public void setup() {
 		
-					
+		
 		// If we are using the library set everything up
 		if (MPE) {
-			// make a new Client using an INI file
+			// make a new Client using an XML file
 			String path = "mpefiles/";
 			if (local) {
 				path += "local/mpe" + ID + ".xml";
@@ -110,7 +110,7 @@ public class Slideshow extends PApplet {
 				size((int)(client.getLWidth()*scale), (int)(client.getLHeight()*scale));
 				client.setLocalDimensions((int)(ID*client.getLWidth()*scale), 0, (int)(client.getLWidth()*scale), (int)(client.getLHeight()*scale));
 			} else {
-				size(client.getLWidth(), client.getLHeight(),P2D);
+				size(client.getLWidth(), client.getLHeight());
 			}
 			// the size is determined by the client's local width and height
 			mWidth = client.getMWidth();
@@ -118,14 +118,14 @@ public class Slideshow extends PApplet {
 			
 		} else {
 			// Otherwise with no library, force size
-			size(parseInt(11520*scale),parseInt(1080*scale));
+			size(parseInt(11520*scale),parseInt(1080*scale), P2D);
 			mWidth = tWidth;
 			mHeight = tHeight;
 		}
 		
 		smooth();		
 		resetEvent(client);
-
+		
 		if (MPE) {
 			// IMPORTANT, YOU MUST START THE CLIENT!
 			client.start();
@@ -148,7 +148,7 @@ public class Slideshow extends PApplet {
 		///////////////////////////////////YOUR SETUP//////////////////////////////////////
 		///////////////////////////////////////////////////////////////////////////////////
 		///////////////////////////////////////////////////////////////////////////////////
-
+		
 		// random and noise seed must be identical for all clients
 		randomSeed(1);
 		noiseSeed(1);
@@ -158,17 +158,17 @@ public class Slideshow extends PApplet {
 		lastImage = 0;
 		images = new ArrayList<PImage>();
 	}
-		
+	
 	//--------------------------------------
 	// Keep the motor running... draw() needs to be added in auto mode, even if
 	// it is empty to keep things rolling.
 	public void draw() {
-
+		
 		// If we are on the 6 screens we want to preset the frame's location
 		if (MPE && local) {
 			frame.setLocation(ID*width,0);
 		}
-
+		
 		// If we're not using the library frameEvent() will not be called automatically
 		if (!MPE) {
 			frameEvent(null);
@@ -181,53 +181,48 @@ public class Slideshow extends PApplet {
 	public void dataEvent(TCPClient c) {
 		String[] msg = c.getDataMessage();
 		int command = Integer.valueOf(msg[0]);
-				
+		
 		switch(command) {
-		case 0:
-			selectFolder("Select folder to load images:", "folderSelected");
-			break;		
-		case 1:
-			index++;
-			println("Advancing to image " + index);
-			break;
-		case -1:
-			index--;
-			println("Going back to image " + index);
-			break;
+			case -1:
+				selectFolder("Select folder to load images:", "folderSelected");
+				break;
+			default:
+				index = command;
 		}
 		
 		if(index < 0)
 			index = lastImage;
 		else if(index > lastImage)
 			index = 0;
-			
+		
 	}
 	
 	public void folderSelected(File selection) {
 		if (selection == null) {
 		    println("Window was closed or the user hit cancel.");
-			} 
+		} 
 		else {
-			  File [] files = selection.listFiles();
-			  images = new ArrayList<PImage>();
-			  for (int i = 0; i < files.length; i++) {
+			File [] files = selection.listFiles();
+			images = new ArrayList<PImage>();
+			for (int i = 0; i < files.length; i++) {
 			    String filename = files[i].getName().toLowerCase();
 			    String path = files[i].getAbsolutePath();
 			    if (filename.matches(".+\\.(png|jpg|jpeg|gif|tga)$")) {
-			      try {
-			        images.add(loadImage(path));
-			      }
-			      catch(Exception e) {
-			        println("No image at: " + i);
-			      }
+					try {
+						images.add(loadImage(path));
+					}
+					catch(Exception e) {
+						println("No image at: " + i);
+					}
 			    }
-			  }
+			}
 			lastImage = images.size()-1;
+			client.broadcast(String.valueOf(images.size()));
 			println("Loaded " + (lastImage+1) + " images from: " + selection.getAbsolutePath());
-		  }
+		}
 	}
 	
-
+	
 	//--------------------------------------
 	// Triggered by the client whenever a new frame should be rendered.
 	// All synchronized drawing should be done here when in auto mode.
@@ -237,7 +232,7 @@ public class Slideshow extends PApplet {
 		if (!MPE || local) {
 			scale(scale);
 		}
-
+		
 		///////////////////////////////////////////////////////////////////////////////////
 		///////////////////////////////////////////////////////////////////////////////////
 		////////////////////////////////////YOUR CODE//////////////////////////////////////
@@ -251,6 +246,6 @@ public class Slideshow extends PApplet {
 			image(currentImage, 0, 0, mWidth, mHeight);
 		}
 	}
-
-
+	
+	
 }
