@@ -115,6 +115,7 @@ Choice to either go to IAC to work on the wall Thursday or sign up for office ho
 Projects should be !!DONE!! at this point!. As this is your last opportunity to work on the wall.
 
 # The Show! Friday Dec 6
+The show will run twice through with speakers in between. Doors open at 6PM. 1st set usually starts 6:30PM.
 
 ### Class 14: Wrap-up at ITP, Friday Dec 13 12:30-3PM
 
