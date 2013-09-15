@@ -73,7 +73,6 @@
   - Storygraph
   - Storyboard
   - Stills, Raw video footage, After Effects snippets, Processing/OF/Cinder/HTML5 sketches
-  - 
 - Conversation with the Residents.
 
 - Tutorial: [Processing in Eclipse](https://github.com/shiffman/Most-Pixels-Ever/wiki/Eclipse-Tutorial)
