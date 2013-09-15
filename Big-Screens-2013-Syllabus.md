@@ -50,7 +50,6 @@
   - Post to your blog with a graph of your arc and few words to describe what you want people to be feeling, experiencing at 0s, 5s, 15s...1 minute 30s...
 - [Technical Specs for IAC](http://itp.nyu.edu/varwiki/BigScreens/FirstTime-F12)
 - [Set up your Dropbox Folder and put your homework in it](http://itp.nyu.edu/varwiki/BigScreens/Dropbox)
-
 - [Notes from class](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2013-Week-1-Notes)
 
 ## Class 2: Show and Tell at IAC! Friday, Sep 13, 12:30-3PM
