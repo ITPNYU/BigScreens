@@ -119,7 +119,7 @@ The show will run twice through with speakers in between. Doors open at 6PM. 1st
 
 ## Class description
 
-This class is dedicated to experimenting with interactivity on large-scale screens. Students will develop one project over the course of the semester, culminating with a showing at InterActiveCorp’s 120 X 10-foot video wall at their corporate headquarters on 18th and the West Side Highway. A mock-up of the system will be available at ITP for testing. Class time will be divided between independent project development, critique, technical demonstrations, and field trips to IAC. Group projects are encouraged and students should be comfortable programming in Java and Processing.
+This class is dedicated to experimenting with interactivity on large-scale screens. Students will develop one project over the course of the semester, culminating with a showing at InterActiveCorp’s 120 X 11-foot video wall at their corporate headquarters on 18th and the West Side Highway. A mock-up of the system will be available at ITP for testing. Class time will be divided between independent project development, critique, technical demonstrations, and field trips to IAC. Group projects are encouraged and students should be comfortable programming in Java and Processing.
 Reading
 
 ### Requirements:
