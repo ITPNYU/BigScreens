@@ -65,6 +65,7 @@
 - You'll have 2 hours in the space.
 - Goal is to end up with beginnings of a visual storyboard for your project.
 - Bring a camera and document the images you liked best and post them to your blog.
+- HW: Prepare 5 minute presentation for next week. [Guidelines](https://github.com/ITPNYU/BigScreens/wiki/Proposal-Guidelines)
 
 ## Class 4: Tutorials! Meet at ITP, Friday, Sep 27
 
