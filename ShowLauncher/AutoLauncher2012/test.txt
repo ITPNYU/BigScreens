@@ -1,0 +1,3 @@
+localhost
+8000
+Liza,Liza,/liza/player.app,180,true

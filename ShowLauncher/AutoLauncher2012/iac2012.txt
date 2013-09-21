@@ -1,0 +1,13 @@
+192.168.130.240,192.168.130.241,192.168.130.242
+8000
+Opening,Opening,00_opening/titles/titles.app,180,false
+perceptual epic, Jason and Karolina,01_jasonkarolina/player.app,180,true
+terra nova,evan and oya,02_terranova/TerraNova5.app,180,true
+mixed signals, Sarah,03_ameliasarah/player.app,180,true
+wonderland,jihyun and lisa,04_wonderland/wonder.app,180,true
+787412, alex amik roopa,05_alexamikroopa/tesla.app,180,true
+drawing,adria and DI,06_adriadi/drawing.app,180,true
+naturopolis,melissa and kim,07_melissakim/player.app,180,true
+animata,tony and mehan,08_tonymehan/Drawer.app,180,true
+Splat, Musketeers,09_musketeers/titles/titles.app,180,false
+rohann,rohann,10_rohann/rohann.app,180,true

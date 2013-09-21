@@ -1,0 +1,12 @@
+192.168.130.240,192.168.130.241,192.168.130.242
+8000
+!Credits,Credits,/credits/player.app,120,false
+!Red Video, Red Video,/red/player.app,120,false
+Boxes 1, Boxes 1,/boxes/boxes.app,600,false
+Twitter,Twitter,/twitter/twitter.app,300,false
+Timeline,Timeline,/juri/juri.app,600,false
+Floorplan,Floorplan,/floorplan/floorplan.app,180,false
+Boxes 2, Boxes 2,/boxes2/boxes.app,600,false
+Twitter,Twitter,/twitter/twitter.app,300,false
+Timeline,Timeline,/juri/juri.app,600,false
+Floorplan,Floorplan,/floorplan/floorplan.app,180,false

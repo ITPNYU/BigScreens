@@ -1,0 +1,14 @@
+192.168.130.240,192.168.130.241,192.168.130.242
+8000
+Opener,Opener,/opener/opener.app,180,false
+Women in Love,Sara,/sara/sara.app,180,true
+The Drop,Nicholas,/nicholas/nicholas.app,180,true
+Machinema,Adi & Filippo,/adi/adi.app,180,true
+Project 21,Anthony,/anthony/final_dec4_999.app,180,true
+Climb Up,Asli,/asli/Climb.app,180,true
+Dancing Moment,Soojung,/soojung/soojung.app,180,true
+Cover it Green,Sue,/sue/seperated/green19.maxpat,180,true
+Bottles,Lina,/lina/lina.app,180,true
+Momentary,Eyal & Elizabeth,/eyal/eyal.app,180,true
+Big Screams,Elie,/elie/BigScreams.app,180,true
+Moonlight,Jayoung,/jayoung/test1.app,180,true

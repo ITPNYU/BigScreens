@@ -1,0 +1,15 @@
+192.168.130.240,192.168.130.241,192.168.130.242
+8000
+Opener,Opener,/opening/opening.app,180,false
+Seasonally Affected,Calli,/calli/11_28/calli.app,180,false
+Meantime,Eric,/eric/MikaBigScreens.app,180,false
+dys-tort,Krystal,/krystal/krystal.app,180,false
+_____,Aiwen & Neil,/aiwen/aiwen.app,180,true
+boom shakalaka,Lucas & Jason,/lucas/2ndFullScreenTest.app,180,false
+Submergica,Molly,/molly/titles/titles.app,180,false
+Replica,Jeff & Alex,/jeff/v1/CamRedux_v1.app,180,true	
+Knock Knock!,Sooyun & Fu,/sooyun/DoorKnockingIAC.app,180,true
+Gastronomica,Nisma & Minette,/nisma/titles/titles.app,180,false
+Meandrica,Patrick & Morgen,/patrick_morgen/player.app,180,false
+de:formed,Tamar & Nik,/tamar/BS_DeFormed.app,180,false
+New York Story,YoonJu,/yoonju/bigscreen2/BigScreensTemplate.app,180,false

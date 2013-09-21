@@ -1,0 +1,15 @@
+192.168.130.240,192.168.130.241,192.168.130.242
+8000
+Opening, Rune Molly/opening/opening_final.app,180,false
+BDR,matthew paragini,/bdr/player.app,180,true
+pool,antonius valentina,/pool/pool.app,180,true
+conditions,anna genevieve doug,/conditions/titles/titles.app,180,false
+Beluga,mimi guang,/beluga/Water.app,180,true
+stopover,diana kate emily,/dollhouse/player.app,180,true
+procedure,gabriella catherine,/procedure/procedure.app,180,true
+milka,margaret miguel,/milka/player.app,180,true
+pinatas,gabriela nelson,/pinatas/Pinatas.app,180,true
+train,arielle,/train/titles/titles.app,180,false
+liza,liza,/liza/player.app,180,true
+avery,avery,/avery/player.app,180,true
+Symmetry,koo nara,/koo/koo.app,180,true
