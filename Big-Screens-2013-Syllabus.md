@@ -83,6 +83,11 @@
 - Tutorial: [ASyncClient](https://github.com/shiffman/Most-Pixels-Ever-Processing/wiki/AsyncClient-Tutorial)
 - Tutorial: [Watchout Rendering / After Effects](http://itp.nyu.edu/varwiki/BigScreens/Rendering)
 
+#### Homework:
+- Try logging into the screens in the lounge | [Directions](http://itp.nyu.edu/varwiki/BigScreens/LoggingIntoScreens)
+- Download [Eclipse (Juno) for Java Developers](http://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/junosr1) | Try the [Processing in Eclipse Tutorial](http://processing.org/tutorials/eclipse/)
+- Download [XCode](https://developer.apple.com/xcode/) | [OpenFrameworks Tutorial](http://www.openframeworks.cc/tutorials/introduction/001_chapter1.html)
+
 ### Class 5: @ITP: Friday, Oct 4
 - Workshops TBD.
 - [Sign-up here](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2013-Projects) | All examples are in [this GitHub repo] (https://github.com/ITPNYU/BigScreens).
