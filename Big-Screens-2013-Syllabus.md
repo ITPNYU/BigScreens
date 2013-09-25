@@ -65,7 +65,7 @@
 - You'll have 2 hours in the space.
 - Goal is to end up with beginnings of a visual storyboard for your project.
 - Bring a camera and document the images you liked best and post them to your blog.
-- 
+
 #### Homework:
 - Prepare 5 minute presentation for next week. [Guidelines](https://github.com/ITPNYU/BigScreens/wiki/Guidelines-for-Week-4-Project-Proposal-Presentations)
 
