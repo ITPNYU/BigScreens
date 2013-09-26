@@ -21,7 +21,7 @@ public class Messenger extends PApplet {
 	///////////////////////////WHAT MODE ARE YOU RUNNING IN?/////////////////////////////
 	/////////////////////////////////////////////////////////////////////////////////////
     enum Mode {
-    	LOCAL, REALDEAL
+    	LOCAL, ITP, IAC
     }
 
 	// Where are you?
@@ -41,9 +41,11 @@ public class Messenger extends PApplet {
 		frameRate(20);
 		font = createFont("Arial", 18);
         
-		// set up the client				
-        String path = "mpefiles/" + (mode == Mode.REALDEAL ? "6screens" : "local") + "/asynch.xml";
-        
+		// set up the client
+				String path = "mpefiles/"
+						+ (mode == Mode.LOCAL ? "local" : "6screens" )
+						+ "/asynch" + (mode == Mode.ITP ? "ITP" : "") + ".xml";
+				
         // make a new Client using an XML file
         client = new TCPClient(this, path);
      

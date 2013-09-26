@@ -17,36 +17,36 @@ public class Messenger extends PApplet {
 	PFont font;
 	
 	/////////////////////////////////////////////////////////////////////////////////////
-	///////////////////////////WHAT MODE ARE YOU RUNNING IN?/////////////////////////////
-	/////////////////////////////////////////////////////////////////////////////////////
-	enum Mode {
-		LOCAL, REALDEAL
-	}
+		///////////////////////////WHAT MODE ARE YOU RUNNING IN?/////////////////////////////
+		/////////////////////////////////////////////////////////////////////////////////////
+		enum Mode {
+			LOCAL, ITP, IAC
+		}
 	
-	// Where are you?
-	// We need to know in order to connect to server
-	Mode mode = Mode.REALDEAL;
+		// Where are you?
+		// We need to know in order to connect to server
+		Mode mode = Mode.ITP;
 	
-	int dir = -1;
-	int max = 15;
+		int dir = -1;
+		int max = 9;
 	
-	// --------------------------------------
-	static public void main(String args[]) {
-		PApplet.main(new String[] { "controller.Messenger" });
-	}
+		// --------------------------------------
+		static public void main(String args[]) {
+			PApplet.main(new String[] { "controller.Messenger" });
+		}
 	
-	// --------------------------------------
-	public void setup() {
-		size(480, 320);
-		
-		smooth();
-		frameRate(20);
-		font = createFont("Arial", 18);
-		
-		// set up the client
-		String path = "mpefiles/"
-		+ (mode == Mode.REALDEAL ? "6screens" : "local")
-		+ "/asynch.xml";
+		// --------------------------------------
+		public void setup() {
+			size(480, 320);
+	
+			smooth();
+			frameRate(20);
+			font = createFont("Arial", 18);
+	
+			// set up the client
+			String path = "mpefiles/"
+					+ (mode == Mode.LOCAL ? "local" : "6screens" )
+					+ "/asynch" + (mode == Mode.ITP ? "ITP" : "") + ".xml";
 		
 		// make a new Client using an XML file
 		client = new TCPClient(this, path);
