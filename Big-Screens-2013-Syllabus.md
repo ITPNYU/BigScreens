@@ -86,6 +86,7 @@
 #### Homework: Get your feet wet with the Technology
 - Try logging into the screens in the lounge | [Directions](http://itp.nyu.edu/varwiki/BigScreens/LoggingIntoScreens)
 - Download [Eclipse (Juno) for Java Developers](http://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/junosr1) | Try the [Processing in Eclipse Tutorial](http://processing.org/tutorials/eclipse/)
+   - [How to tell if your Mac is 32-bit or 64-bit](http://support.apple.com/kb/HT3696)
 - Download [XCode](https://developer.apple.com/xcode/) | [OpenFrameworks Tutorial](http://www.openframeworks.cc/tutorials/introduction/001_chapter1.html)
 - Take a look at the [AfterEffects templates](https://github.com/ITPNYU/BigScreens/tree/master/AE) in this repo.
 
