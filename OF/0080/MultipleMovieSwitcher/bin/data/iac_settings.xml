@@ -4,7 +4,7 @@
 		<port>12345</port>
 	</client1>
 	<client2>
-		<address>192.168.130.242</address>
+		<address>192.168.130.241</address>
 		<port>12345</port>
 	</client2>
 	<movie>fingers.mov</movie>
@@ -18,5 +18,5 @@
         <movieY>0</movieY>
 	</dimensions>
 	<go_fullscreen>true</go_fullscreen>
-    <loop>true</loop>
+    <loop>false</loop>
 </settings>

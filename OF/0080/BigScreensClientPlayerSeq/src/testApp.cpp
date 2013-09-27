@@ -20,7 +20,7 @@ void testApp::setup(){
 	// Load movie
 	movie.loadMovie(movieFile);
 	movie.play();
-	movie.idleMovie();
+	movie.update();
 	
 	
 	ofBackground( 0, 0, 0 );
@@ -30,7 +30,7 @@ void testApp::setup(){
 //--------------------------------------------------------------
 void testApp::update(){
 	if (started) {
-		movie.idleMovie();
+		movie.update();
 	}
 	
 	

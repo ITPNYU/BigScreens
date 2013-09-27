@@ -38,7 +38,7 @@ void testApp::setup(){
 
 //--------------------------------------------------------------
 void testApp::update(){
-	movies[index].idleMovie();
+	movies[index].update();
 	float p = movies[0].getPosition();
 	
 	if (movies[index].getIsMovieDone()) {

@@ -1,6 +1,14 @@
 <settings>
-	<port>12345</port>
+	<client1>
+		<address>128.122.151.65</address>
+		<port>12345</port>
+	</client1>
+	<client2>
+		<address>128.122.151.83</address>
+		<port>12345</port>
+	</client2>
 	<movie>fingers.mov</movie>
+	<howoften>100</howoften>
 	<dimensions>
 		<width>3840</width>
 		<height>1080</height>
