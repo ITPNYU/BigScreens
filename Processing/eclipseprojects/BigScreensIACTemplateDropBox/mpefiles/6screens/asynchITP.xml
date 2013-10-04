@@ -2,7 +2,7 @@
 	<id>555</id>
 	<name>an asynch client</name>  <!-- optional -->
 	<server>
-		<ip>192.168.130.241</ip>
+		<ip>128.122.151.65</ip>
 		<port>9002</port> 
 	</server>
 	<asynchronous>true</asynchronous>
