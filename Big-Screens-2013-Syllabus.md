@@ -109,12 +109,12 @@
 - Sign up for prep Thursday, Oct 24
 
 ## Class 9: Critique @IAC, Friday, Nov 1, 12:30-3PM
-- Sign up for prep Thursday, Oct 31
+- Sign up for prep Thursday, Oct 31 (Possible Mon/Tues 28/29 instead)
 
 ### Class 10: @IAC: Thurs-Fri, Nov 7-8
 
 ### Class 11: @IAC: Thurs Nov 14, @ITP Friday, Nov 15
-Choice to either go to IAC to work on the wall Thursday or sign up for office hours @ITP on Friday. Either way, goal is to have a game plan for your final work session at IAC the following week.
+- Possibly Mon & Tues (Nov 11/12) instead of Thurs/Fri
 
 ### Class 12: @IAC: Thurs-Fri Nov 21-22 6:30-8PM
 
