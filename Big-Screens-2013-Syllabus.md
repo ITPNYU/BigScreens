@@ -114,7 +114,7 @@
 ### Class 10: @IAC: Thurs-Fri, Nov 7-8
 
 ### Class 11: @IAC: Thurs Nov 14, @ITP Friday, Nov 15
-- Possibly Mon & Tues (Nov 11/12) instead of Thurs/Fri
+- Possibly Mon and Tues (Nov 11/12) instead of Thurs @IAC
 
 ### Class 12: @IAC: Thurs-Fri Nov 21-22 6:30-8PM
 
