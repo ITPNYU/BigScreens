@@ -3,13 +3,13 @@
 //--------------------------------------------------------------
 void testApp::setup(){
 
-	looping = false;
+	looping = true;
 	started = false;
 	fullscreen = false;
 	count = 0;
 	
 	// Load initial settings
-	loadSettings("settings.xml");
+	loadSettings("iac_settings.xml");
 	ofSetVerticalSync(true);
 	
 	// open an outgoing connection to HOST:PORT

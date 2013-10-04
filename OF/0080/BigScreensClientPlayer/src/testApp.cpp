@@ -10,7 +10,7 @@ void testApp::setup(){
     looping = false;
 	ofSetVerticalSync(true);
 	
-    loadSettings("settings.xml");
+    loadSettings("iac_settings.xml");
 
 	
 	// Set up OSC
