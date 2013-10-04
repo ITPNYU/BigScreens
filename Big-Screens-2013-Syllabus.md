@@ -100,6 +100,8 @@
 ### Class 6: @IAC & @ITP: Friday, Oct 11
 - 1/2 the projects will work on the wall @IAC
 - 1/2 the projects will meet at ITP and get your projects running in the lounge.
+- If you are going to IAC, make sure you get your project running in the lounge first!!!
+- [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2013-Projects)
 
 ### Class 7: @IAC: Friday, Oct 18
 - 1/2 the projects will work on the wall @IAC
