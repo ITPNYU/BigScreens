@@ -124,7 +124,7 @@ public class BigScreensTemplate extends PApplet {
 			
 		} else {
 			// Otherwise with no library, force size
-			size(parseInt(11520*scale),parseInt(1080*scale));
+			size(parseInt(tWidth*scale),parseInt(tHeight*scale));
 			mWidth = tWidth;
 			mHeight = tHeight;
 		}
