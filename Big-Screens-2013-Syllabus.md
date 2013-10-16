@@ -106,12 +106,13 @@
 ### Class 7: @IAC: Friday, Oct 18
 - 1/2 the projects will work on the wall @IAC
 - 1/2 the projects will meet at ITP to present work in the lounge for feedback.
+- [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2013-Projects)
 
-## Class 8: Critique @IAC, Friday, Oct 25, 12:30-3PM
-- Sign up for prep Thursday, Oct 24
+## Class 8: @IAC, Friday, Oct 25
+- [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2013-Projects)
 
 ## Class 9: Critique @IAC, Friday, Nov 1, 12:30-3PM
-- Sign up for prep Thursday, Oct 31 (Possible Mon/Tues 28/29 instead)
+- Sign up for prep Thursday, Oct 31
 
 ### Class 10: @IAC: Thurs-Fri, Nov 7-8
 
