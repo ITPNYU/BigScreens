@@ -3,7 +3,7 @@
 //--------------------------------------------------------------
 void testApp::setup(){
 
-	looping = true;
+	looping = false;
 	started = false;
 	fullscreen = false;
 	count = 0;
