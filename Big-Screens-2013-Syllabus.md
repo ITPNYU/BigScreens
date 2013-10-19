@@ -107,7 +107,9 @@
 - 1/2 the projects will work on the wall @IAC
 - 1/2 the projects will meet at ITP to present work in the lounge for feedback.
 - [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2013-Projects)
-- HW: Nail down your production plan for [mid-terms](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2013-Midterms).
+
+##### Homework:
+- Nail down your production plan for [mid-terms](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2013-Midterms).
 
 ## Class 8: @IAC, Friday, Oct 25
 - [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2013-Projects)
