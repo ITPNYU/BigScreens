@@ -109,7 +109,7 @@
 - [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2013-Projects)
 
 ##### Homework:
-- Nail down your production plan for mid-terms: [Guidelines](https://github.com/ITPNYU/BigScreens/wiki/Midterm-Critique:-What's-the-Point%3F).
+- Nail down your production plan for mid-terms: [Guidelines](https://github.com/ITPNYU/BigScreens/wiki/Midterm-Critique:-What's-the-Point).
 
 ## Class 8: @IAC, Friday, Oct 25
 - [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2013-Projects)
