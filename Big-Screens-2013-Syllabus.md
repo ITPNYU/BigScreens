@@ -69,7 +69,7 @@
 #### Homework:
 - Prepare 5 minute presentation for next week. [Guidelines](https://github.com/ITPNYU/BigScreens/wiki/Guidelines-for-Week-4-Project-Proposal-Presentations)
 
-## Class 4: Tutorials! Meet at ITP, Friday, Sep 27
+## Class 4: Project Proposals! Meet at ITP, Friday, Sep 27
 
 - Present proposals and any early sketches, drafts.
   - Storygraph
@@ -90,7 +90,7 @@
 - Download [XCode](https://developer.apple.com/xcode/) | [OpenFrameworks Tutorial](http://www.openframeworks.cc/tutorials/introduction/001_chapter1.html)
 - Take a look at the [AfterEffects templates](https://github.com/ITPNYU/BigScreens/tree/master/AE) in this repo.
 
-### Class 5: @ITP: Friday, Oct 4
+## Class 5: Tutorials! @ITP: Friday, Oct 4
 - Workshops TBD.
 - [Sign-up here](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2013-Projects) | All examples are in [this GitHub repo] (https://github.com/ITPNYU/BigScreens).
 
