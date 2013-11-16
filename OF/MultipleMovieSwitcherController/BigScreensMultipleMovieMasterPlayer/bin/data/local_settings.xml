@@ -1,0 +1,25 @@
+<settings>
+	<client1>
+		<address>127.0.0.1</address>
+		<port>12345</port>
+	</client1>
+	<client2>
+		<address>127.0.0.1</address>
+		<port>12346</port>
+	</client2>
+       <port>12347</port>
+       <movie>movie0.mov</movie>
+       <movie>movie1.mov</movie>
+       <movie>movie2.mov</movie>
+	<howoften>100</howoften>
+	<dimensions>
+		<width>320</width>
+		<height>240</height>
+        <movieWidth>320</movieWidth>
+        <movieHeight>240</movieHeight>
+        <movieX>0</movieX>
+        <movieY>0</movieY>
+	</dimensions>
+	<go_fullscreen>false</go_fullscreen>
+    <loop>true</loop>
+</settings>
