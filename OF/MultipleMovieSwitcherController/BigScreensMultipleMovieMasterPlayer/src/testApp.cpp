@@ -42,7 +42,12 @@ void testApp::setup(){
 
 //--------------------------------------------------------------
 void testApp::update(){
+    for(int i = 0; i < NUM_MOVIES; i++) {
+        movies[i].setPaused(state != i);
+        cout << "Movie " << i << " is" << (movies[i].isPaused() ? " not" : "") << " playing.\n";
+    }
 	movies[state].update();
+    
 	float p = movies[state].getPosition();
 	//printf("%f\n",p);
 	

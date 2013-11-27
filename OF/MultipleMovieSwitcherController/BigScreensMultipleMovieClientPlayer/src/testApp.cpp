@@ -35,6 +35,12 @@ void testApp::setup(){
 
 //--------------------------------------------------------------
 void testApp::update(){
+    // Load movie
+    for(int i = 0; i < NUM_MOVIES; i++) {
+        movies[i].setPaused(state != i);
+        cout << "Movie " << i << " is" << (movies[i].isPaused() ? " not" : "") << " playing.\n";
+    }
+    
 	if (started) {
 		movies[state].update();
 	}

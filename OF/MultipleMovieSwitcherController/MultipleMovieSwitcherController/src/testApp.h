@@ -4,7 +4,7 @@
 #include "ofxOsc.h"
 #include "ofxXmlSettings.h"
 
-#define HOST "128.122.151.65"
+#define HOST "192.168.130.241"
 #define PORT 12345
 #define NUM_MOVIES 3
 
