@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>22BC3521-94B6-4871-9E53-11530CAE2A93</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BigScreensMasterPlayer</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>35EF5137-98FE-49F7-B8DF-DCCA93B66E57</key>
+		<string>https://github.com/ITPNYU/BigScreens.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>OF/0080/BigScreensMultipleMovieMasterPlayer/BigScreensMasterPlayer.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>35EF5137-98FE-49F7-B8DF-DCCA93B66E57</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ITPNYU/BigScreens.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>35EF5137-98FE-49F7-B8DF-DCCA93B66E57</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>35EF5137-98FE-49F7-B8DF-DCCA93B66E57</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BigScreens</string>
+		</dict>
+	</array>
+</dict>
+</plist>
