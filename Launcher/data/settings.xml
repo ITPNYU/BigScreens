@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+  <location>ITP</location>
+  <user>bigscreens</user>
+  <ide>ECLIPSE</ide>
+  <path>ios:Parlor.xcodeproj</path>
+  <project>Anicca</project>
+  <screens>
+    <screen>true</screen>
+    <screen>true</screen>
+    <screen>true</screen>
+  </screens>
+  <numScreens>0</numScreens>
+</settings>
