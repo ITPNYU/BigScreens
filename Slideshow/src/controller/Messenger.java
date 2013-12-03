@@ -28,7 +28,9 @@ public class Messenger extends PApplet {
 		Mode mode = Mode.ITP;
 	
 		int dir = -1;
-		int max = 9;
+		int max = -1;
+		
+		String command = "";
 	
 		// --------------------------------------
 		static public void main(String args[]) {
@@ -68,36 +70,27 @@ public class Messenger extends PApplet {
 		text("Press UP to load images. RIGHT to advance. LEFT to go back.",
 			 width / 2, height / 3);
 		
+		text("Broadcasting: " + command, width / 2, height / 2);
+		text("Showing " + (dir+1) + " of " + (max+1) + " images.", width/2, (2*height)/3);
 	}
 	
 	// --------------------------------------
 	// asynchreceive must be set to true in
 	// asynch.xml to receive data here
 	public void dataEvent(TCPClient c) {
-		println("Raw message: " + c.getRawMessage());
+		//println("Raw message: " + c.getRawMessage());
 		if (c.messageAvailable()) {
 			String[] msgs = c.getDataMessage();
-			for (int i = 0; i < msgs.length; i++) {
-				println("Parsed message: " + msgs[i]);
+			String [] data = msgs[0].split(",");
+			if(data[0].equals("total")) {
+				max = Integer.parseInt(data[1])-1;
+				dir = 0;
+				println("Loaded " + (max+1) + " images."); 
 			}
-		}
-		
+		}		
 	}
 	
 	void broadcast() {
-		String command = "";
-		switch (dir) {
-			case 0:
-				command = "LOAD IMAGES";
-				break;
-			case 1:
-				command = "MOVE FORWARD";
-				break;
-			case -1:
-				command = "MOVE BACKWARD";
-				break;
-		}
-		text("Broadcasting: " + command, width / 2, height / 2);
 		if (frameCount > 1)
 			client.broadcast(String.valueOf(dir));
 	}
@@ -105,16 +98,19 @@ public class Messenger extends PApplet {
 	public void keyPressed() {
     	if(key == CODED) {
     		if(keyCode == RIGHT) {
+    			command = "MOVE FORWARD";
     			dir++;
-    			if(dir >= max)
+    			if(dir > max)
     				dir = 0;
     		}
     		else if(keyCode == LEFT) {
+    			command = "MOVE BACKWARD";
     			dir--;
     			if(dir < 0)
-    				dir = (max-1);
+    				dir = max;
     		}
     		else if(keyCode == UP) {
+    			command = "LOAD IMAGES";
     			dir = -1;
     		}
     		

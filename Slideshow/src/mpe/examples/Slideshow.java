@@ -217,7 +217,7 @@ public class Slideshow extends PApplet {
 			    }
 			}
 			lastImage = images.size()-1;
-			client.broadcast(String.valueOf(images.size()));
+			client.broadcast("total," + String.valueOf(images.size()));
 			println("Loaded " + (lastImage+1) + " images from: " + selection.getAbsolutePath());
 		}
 	}
@@ -244,7 +244,7 @@ public class Slideshow extends PApplet {
 		if(images.size() > 0) {
 			PImage currentImage = images.get(index);
 			image(currentImage, 0, 0, mWidth, mHeight);
-		}
+		}		
 	}
 	
 	

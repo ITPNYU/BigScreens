@@ -1,0 +1,11 @@
+<settings>
+	<id>555</id>
+	<name>an asynch client</name>  <!-- optional -->
+	<server>
+		<ip>128.122.151.65</ip>
+		<port>9002</port> 
+	</server>
+	<asynchronous>true</asynchronous>
+	<asynchreceive>true</asynchreceive>
+	<verbose>false</verbose>
+</settings>
