@@ -33,8 +33,8 @@ public class ProjectLauncher extends PApplet {
 
 		settings = new Settings(this);
 
-		iac = loadStrings("../data/iac.txt");
-		itp = loadStrings("../data/itp.txt");
+		iac = loadStrings("data/iac.txt");
+		itp = loadStrings("data/itp.txt");
 
 		PFont font = createFont("arial", 16);
 		cp5 = new MyControlP5(this);
