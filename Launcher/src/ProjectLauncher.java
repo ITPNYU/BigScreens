@@ -246,17 +246,23 @@ public class ProjectLauncher extends PApplet {
 		if (command == Command.LAUNCH || command == Command.QUIT) {
 			for (int i = 0; i < settings.screens.length; i++) {
 				String host = settings.loc == Location.IAC ? iac[i] : itp[i];
-				if (settings.screens[i]) {
-					String commands = "osascript ~/Dropbox/BigScreens2013/utils/launcher.scpt "
-							+ command.toString()
-							+ (command == Command.LAUNCH ? " " + settings.ide
-									+ " " + settings.project + " "
-									+ settings.path : "");
-					String[] args = { user, host, password, commands };
-					for (String arg : args)
-						println(arg);
-					Exec.execute(args);
+				String commands = "";
+				if (command == Command.QUIT && settings.ide == Ide.ECLIPSE) {
+					commands = "pkill -9 -f " + settings.project;
 				}
+				else {
+					if (settings.screens[i]) {
+						commands = "osascript ~/Dropbox/BigScreens2013/utils/launcher.scpt "
+								+ command.toString()
+								+ (command == Command.LAUNCH ? " " + settings.ide
+										+ " " + settings.project + " "
+										+ settings.path : "");
+					}
+				}
+				String[] args = { user, host, password, commands };
+				for (String arg : args)
+					println(arg);
+				Exec.execute(args);
 			}
 		}
 		// or launch/quit server

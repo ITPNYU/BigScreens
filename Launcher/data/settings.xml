@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <settings>
-  <location>ITP</location>
+  <location>IAC</location>
   <user>bigscreens</user>
   <ide>ECLIPSE</ide>
   <path>ios:Parlor.xcodeproj</path>
