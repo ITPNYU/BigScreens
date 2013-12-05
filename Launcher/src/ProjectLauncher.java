@@ -287,6 +287,8 @@ public class ProjectLauncher extends PApplet {
 					}
 				}
 				
+				computer = "/" + computer + "/";
+				
 				if (settings.screens[i]) {
 					if (command == Command.QUIT) {
 						commands = "pkill -9 -f " + settings.project;
