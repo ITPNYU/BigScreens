@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <settings>
-  <location>IAC</location>
-  <user>bigscreens</user>
+  <location>ITP</location>
+  <user>Big Screens</user>
   <ide>ECLIPSE</ide>
-  <path>ios:Parlor.xcodeproj</path>
+  <path>Dropbox/show2013/</path>
   <project>Anicca</project>
   <screens>
     <screen>true</screen>

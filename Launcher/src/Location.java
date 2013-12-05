@@ -1,5 +1,5 @@
 
 
 public enum Location {
-	IAC, ITP
+	IAC, ITP, LOCAL
 }

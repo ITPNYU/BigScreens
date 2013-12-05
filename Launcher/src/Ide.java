@@ -1,5 +1,5 @@
 
 
 public enum Ide {
-		ECLIPSE, XCODE;
+		ECLIPSE, XCODE, APP;
 	}
