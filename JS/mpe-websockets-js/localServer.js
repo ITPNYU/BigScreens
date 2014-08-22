@@ -58,7 +58,7 @@ var io = require('socket.io').listen(httpServer);
 var screens = {};
 
 // Keep track of how many screens have completed each frame
-var numSynced = 0;
+var synced = {};
 
 // Utility function for getting size of screens obj
 var sizeOf = function(obj) {
@@ -105,10 +105,20 @@ io.sockets.on('connection',
 		// Frame event - syncing up all Sync clients
 		socket.on('done', function(data){
 			if(isVerbose) console.log("Screen " + data.id + " finished frame " + data.frameCount);
-			numSynced++;
-			if(numSynced >= sizeOf(screens)) {
+			synced[data.id] = true;
+
+			var allSynced = function() {
+				for(var screenId in synced) {
+					if(!synced[screenId]) {
+						return false;
+					}
+				}
+				return true;
+			}
+
+			if(allSynced()) {
 				if(isVerbose) console.log("Tally ho! All screens ready to go.");
-				numSynced = 0;
+				synced = {};
 				broadcastToScreens('frameEvent', data.frameCount+1);	
 			}
 		});
