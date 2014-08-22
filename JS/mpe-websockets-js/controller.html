@@ -1,0 +1,85 @@
+<html>
+	<head>
+		<script type="text/javascript" src="/socket.io/socket.io.js"></script>
+		<script type="text/javascript" src="settings.js"></script>
+		<script type="text/javascript" src="p5.min.js"></script>
+		<script type="text/javascript">
+		
+			// Connect to local server
+			var local = io.connect(IP);
+			local.on('connect', function() {
+				console.log("Connected to local server.");
+				local.emit('controller');
+			});	
+
+			// Connect to cloud server
+			var cloud = io.connect(REMOTE_IP);
+			cloud.on('connect', function(){
+				console.log("Connected to cloud server.");
+				cloud.emit('controller');
+			});	
+
+			// Send controller's erase event to both screens and users via servers
+			var sendErase = function() {
+				local.emit('erase');
+				cloud.emit('erase');
+			}
+
+			// Controller's color is white
+			var col;
+			function setup() {
+				
+				col = color(255,255,255);
+
+				// Scale the canvas of the controller to the screens
+				createCanvas(window.innerWidth, window.innerWidth*(HEIGHT/TOTAL_WIDTH));
+
+				//Listen for mouse events from users
+				cloud.on('mouse', function(data){
+					// Scale mouse positions to dimensions of this canvas
+					ink(data.startX*width, data.startY*height, data.endX*width, data.endY*height, data.color);
+				});
+			}
+
+			// Draw on mouse dragged
+			function mouseMoved() {
+				ink(pmouseX, pmouseY, mouseX, mouseY, col);
+				// Give relative mouse positions
+				local.emit('mouse', { startX: pmouseX/width, startY : pmouseY/height, endX: mouseX/width, endY : mouseY/height, color : col.rgba });
+				eraseable = true;
+			}
+
+
+			// Erase on mouse clicked
+			function mouseClicked() {
+				erase();
+				sendErase();
+			}
+
+			// "Erase"
+			var erase = function() {
+				background(0);
+			};
+
+			// Draw
+			var ink = function(startX, startY, endX, endY, color) {
+				stroke(color);
+				line(startX, startY, endX, endY);
+			};
+
+
+		</script>
+		<style>
+			body {
+				background: white;
+				margin: 0;
+				padding: 0;
+			}
+			canvas {
+				background: black;
+			}
+		</style>		
+	</head>
+	<body>
+	</body>
+</html>

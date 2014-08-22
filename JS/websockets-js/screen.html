@@ -1,0 +1,65 @@
+<html>
+	<head>
+		<script type="text/javascript" src="/socket.io/socket.io.js"></script>
+		<script type="text/javascript" src="settings.js"></script>
+		<style>
+			body {
+				background: black;
+				width: 100vw;
+				height: 100vh;
+				margin: 0;
+				padding: 0;
+				text-align: center;
+			}			
+			input {
+				width: 10vw;
+				height: 10vh;
+				font-size: 1vw;
+				color : black;
+				position: absolute;
+				top: 45vh;
+				text-align: center;
+			}
+		</style>	
+	</head>
+	<body>
+		<input id="template" value="Bongiorno">
+		<script type="text/javascript">
+			////////////////WHICH SCREEN ARE YOU?//////////////
+			var screenId = window.location.pathname.match(/\d+$/)[0];
+
+			/////////////////CONNECT TO SERVERS///////////////
+			var socket = io.connect(IP);
+			socket.on('connect', function(){
+				console.log("Connected to local server.");
+				socket.emit('screen', screenId);
+			});
+
+			// Listen for new users joining this screen
+			socket.on('add', function(userId){
+				console.log("Add user " + userId);
+				var user = document.getElementById('template').cloneNode();
+				document.body.appendChild(user);
+				user.id = userId;
+				user.value = userId;
+				user.style.left = Math.random()*100 + 'vw';				
+				user.style.top = Math.random()*100 + 'vh';
+			});
+
+			// Listen for pokes from users in front of this screen
+			socket.on('poked', function(userId){
+				console.log("Poke user " + userId);
+				var user = document.getElementById(userId);
+				user.style.left = Math.random()*100 + 'vw';				
+				user.style.top = Math.random()*100 + 'vh';
+			});
+
+			// Listen for users leaving this screen
+			socket.on('remove', function(userId){
+				console.log("Remove user " + userId);
+				document.body.removeChild(document.getElementById(userId));
+			});
+
+		</script>
+	</body>
+</html>

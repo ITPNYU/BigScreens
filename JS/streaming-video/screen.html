@@ -1,0 +1,71 @@
+<html>
+	<head>
+		<script src="http://cdn.peerjs.com/0.3/peer.min.js"></script>		
+		<script type="text/javascript" src="/socket.io/socket.io.js"></script>
+		<script type="text/javascript" src="p5.min.js"></script>
+		<script type="text/javascript" src="p5.dom.js"></script>
+		<script type="text/javascript" src="settings.js"></script>
+		<script type="text/javascript" src="scale.js"></script>
+		<script type="text/javascript" src="stream.js"></script>
+		<style>
+			body {
+				background: black;
+				margin: 0;
+				padding: 0;
+				overflow: hidden;
+			}	
+			video {
+				position: relative;
+				transform-origin: 0 0;
+			}		
+		</style>	
+	</head>
+	<body>
+		<video id="myvideo" width="960" height="720" muted></video>
+		<script type="text/javascript">
+			////////////////WHICH SCREEN ARE YOU?//////////////
+			var id = window.location.pathname.match(/\d+$/)[0];
+
+			/////////////////CONNECT TO SERVERS///////////////
+			var socket = io.connect(IP);
+			socket.on('connect', function(){
+				console.log("Connected to server.");
+				socket.emit('screen', id);
+			});
+
+			// Stream Video
+			var peer_id = null;
+
+			// Register for an API Key:	http://peerjs.com/peerserver
+			var peer = new Peer({key: '1h5ritm7owxko6r'});
+
+			// Get an ID from the PeerJS server		
+			peer.on('open', function(id) {
+			  console.log('My peer ID is: ' + id);
+			  peer_id = id;
+			  if (socket != null) {
+				socket.emit('peer_id', peer_id);
+			  }
+			});
+
+			// Listen for "call" from camera
+			peer.on('call', function(incoming_call) {
+				console.log("Incoming!");
+				incoming_call.answer(null);
+				// Listen for incoming data
+				incoming_call.on('stream', function(remoteStream) { 
+					var videoElement = document.getElementById('myvideo');
+					videoElement.src = window.URL.createObjectURL(remoteStream) || remoteStream;
+					
+					// Scale and place the video across 3 screens
+					videoElement.style.left = -id*WIDTH + 'px';
+					var scale = 'scale(' + (TOTAL_WIDTH/videoElement.width) + ',' + (HEIGHT/videoElement.height) + ')';
+					videoElement.style['transform'] = scale;
+					videoElement.style['-webkit-transform'] = scale;
+					videoElement.style['-ms-transform'] = scale;
+					videoElement.play(); 
+				});
+			});	
+		</script>		
+	</body>
+</html>

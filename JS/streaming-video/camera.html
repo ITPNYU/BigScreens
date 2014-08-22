@@ -1,0 +1,70 @@
+<html>
+	<head>
+		<script src="http://cdn.peerjs.com/0.3/peer.min.js"></script>		
+		<script type="text/javascript" src="/socket.io/socket.io.js"></script>
+		<script type="text/javascript" src="settings.js"></script>
+		<script type="text/javascript">
+		
+			var socket = null;
+			
+			// We'll use a global variable to hold on to our id from PeerJS
+			var peer_id = null;
+
+			// Register for an API Key:	http://peerjs.com/peerserver
+			var peer = null; // new Peer({key: 'YOU API KEY'});			
+			
+			/* Get User Media */
+			var my_stream = null;
+
+			var initCamera = function() {
+				window.URL = window.URL || window.webkitURL || window.mozURL || window.msURL;
+				navigator.getUserMedia = navigator.getUserMedia || navigator.webkitGetUserMedia || navigator.mozGetUserMedia;
+				if (navigator.getUserMedia) {
+					navigator.getUserMedia({video: true, audio: true}, function(stream) {
+								my_stream = stream;
+								var videoElement = document.getElementById('myvideo');
+								videoElement.src = window.URL.createObjectURL(stream) || stream;
+								videoElement.play();
+								
+								peer = new Peer({key: '1h5ritm7owxko6r'});
+
+								// Get an ID from the PeerJS server		
+								peer.on('open', function(id) {
+								  console.log('My peer ID is: ' + id);
+								  peer_id = id;
+
+									// Connect to socket server
+									socket = io.connect(IP);
+
+									socket.on('connect', function() {
+										console.log("Connected");
+									});
+			
+									socket.on('peer_id', function(data) {
+										console.log("Got a peer: " + data);
+										var call = peer.call(data, my_stream);
+									});				
+								});								
+								
+							}, function(err) {
+								console.log('Failed to get local stream' ,err);
+					});
+				}			
+			}
+			
+			document.addEventListener("DOMContentLoaded", initCamera, false);
+				
+		</script>
+		<style>
+			body {
+				background: black;
+				margin: 0;
+				padding: 0;
+				text-align: center;
+			}			
+		</style>		
+	</head>
+	<body>
+		<video id="myvideo" width="480" height="320" muted></video>
+	</body>
+</html>

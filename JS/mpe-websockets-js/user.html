@@ -1,0 +1,62 @@
+<html>
+	<head>
+		<script type="text/javascript" src="/socket.io/socket.io.js"></script>
+		<script type="text/javascript" src="p5.min.js"></script>
+		<script type="text/javascript" src="settings.js"></script>
+		<script type="text/javascript">
+			
+			// Connect to remote server
+			var socket = io.connect(REMOTE_IP);
+
+			// Listen for connection
+			socket.on('connect', function() {
+				console.log("Connected");
+				// Hard-coded userId, you can define what you like here
+				socket.emit('user', 'howdydo' + (Math.random()*100));
+			});	
+
+			// Pick random color for user
+			var col;
+			function setup() {
+				col = color(random(255), random(255), random(255));
+				// Scale the canvas of the controller to the screens
+				createCanvas(window.innerWidth, window.innerWidth*(HEIGHT/TOTAL_WIDTH));
+
+				// Listen for erase event
+				socket.on('erase', function(){
+					console.log("Erase!");
+					erase();
+				})
+			}
+
+			function mouseMoved() {
+				stroke(col);
+				line(pmouseX, pmouseY, mouseX, mouseY);
+
+				// Give relative mouse positions
+				socket.emit('mouse', { startX: pmouseX/width, startY : pmouseY/height, endX: mouseX/width, endY : mouseY/height, color : col.rgba });
+			}
+
+			function mouseClicked() {
+				erase();
+			}
+
+			var erase = function() {
+				background(0);
+			};		
+
+		</script>
+		<style>
+			body {
+				background: white;
+				margin: 0;
+				padding: 0;
+			}
+			canvas {
+				background: black;
+			}
+		</style>		
+	</head>
+	<body>
+	</body>
+</html>

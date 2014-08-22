@@ -1,0 +1,59 @@
+<html>
+	<head>
+		<script type="text/javascript" src="/socket.io/socket.io.js"></script>
+		<script type="text/javascript" src="settings.js"></script>
+		<style>
+			body {
+				background: red;
+				margin: 0;
+				padding: 0;
+				text-align: center;
+
+			}
+			button {
+				margin: 25vh 5vw;
+				width: 20vw;
+				height: 50vh;
+				max-height: 200px;
+				background: black;
+				color: white;
+				font-size: 3vw;
+				border: none;
+				cursor: pointer;
+			}
+		</style>		
+	</head>
+	<body>
+		<button onclick="poke()">USER</button>
+		<script type="text/javascript">			
+			// Which screen are you in front of?
+			var screenId = window.location.pathname.match(/\d+$/)[0];
+
+			// Connect to cloud server
+			var socket = io.connect(IP);
+
+			// identifier for this client
+			var id = { screenId : screenId, userId : "Bob" + Math.random()*100 };
+
+			// Listen for connection
+			socket.on('connect', function() {
+				console.log("Connected");
+				// Hard-coded userId, you can define what you like here
+				socket.emit('user', id);
+			});	
+
+			// Listen for ready
+			socket.on('ready', function(){
+				document.getElementsByTagName('body')[0].style.background = 'green';
+			});
+
+			socket.on('down', function(){
+				document.getElementsByTagName('body')[0].style.background = 'red';				
+			})
+
+			function poke() {
+				socket.emit('poke', id);
+			}
+		</script>
+	</body>
+</html>

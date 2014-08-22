@@ -1,0 +1,115 @@
+<html>
+	<head>
+		<script src="http://cdn.peerjs.com/0.3/peer.min.js"></script>		
+		<script type="text/javascript" src="/socket.io/socket.io.js"></script>
+		<script type="text/javascript" src="p5.min.js"></script>
+		<script type="text/javascript" src="p5.dom.js"></script>
+		<script type="text/javascript" src="settings.js"></script>
+		<script type="text/javascript" src="sync.js"></script>
+		<style>
+			body {
+				background: black;
+				margin: 0;
+				padding: 0;
+				overflow: hidden;
+			}			
+		</style>	
+	</head>
+	<body>
+		<script type="text/javascript">
+			////////////////WHICH SCREEN ARE YOU?//////////////
+			var id = window.location.pathname.match(/\d+$/)[0];
+
+			/////////////////CONNECT TO SERVERS///////////////
+			var local = io.connect(IP);
+			local.on('connect', function(){
+				console.log("Connected to local server.");
+				local.emit('screen', id);
+			});
+			var remote = io.connect(REMOTE_IP);
+			remote.on('connect', function(){
+				console.log("Connected to remote server.");
+				remote.emit('screen', id);
+			});		
+		</script>
+
+		<!-- ////////////////////////////////////////////////////////////
+		/////////////////////////////////////////////////////////////////
+		/////////////////////////////////////////////////////////////////
+		////////////////////////// YOUR SKETCH //////////////////////////
+		/////////////////////////////////////////////////////////////////
+		/////////////////////////////////////////////////////////////////
+		///////////////////////////////////////////////////////////// -->
+		<script type="text/javascript">
+			var x, y;
+			var video;
+			var frame;
+			function setup() {
+				createCanvas(TOTAL_WIDTH, HEIGHT);
+
+				// mpe-ize this socket client by throttling frameEvents
+				sync(local);
+
+				// Listen for mouse events from remote server
+				remote.on('mouse', function(data){
+					ink(data.startX, data.startY, data.endX, data.endY, data.color);
+				})
+
+				// Listen for erase events from remote server
+				remote.on('erase', function(){
+					erase();
+				})
+
+				// Listen for data events from your controller
+				local.on('mouse', function(data) {
+					ink(data.startX, data.startY, data.endX, data.endY, data.color);
+				});
+
+				local.on('erase', function(){
+					console.log('ERASE');
+					erase();
+				});
+			}
+
+			// Re-initialize all of your variables
+			var reset = function() {
+				erase();
+				x = WIDTH-100;
+				y = 0;
+			}
+
+			// The same as draw as far as we're concerned
+			var frameEvent =function() {
+				noStroke();
+				fill(255);
+				rect(WIDTH, height/2, 50, 50);
+
+				x+=5;
+				y+=5;
+				if(y > height) {
+					y = 0;
+				}
+				else if( x > width) {
+					x = 0;
+				}
+
+				strokeWeight(10);
+				stroke(255, 0, 0);
+				line(0, y, width, y);
+				line(x, 0, x, height);
+			}
+
+			// Draw
+			var ink = function(startX, startY, endX, endY, color) {
+				stroke(color);
+				strokeWeight(10);
+				line(startX*TOTAL_WIDTH, startY*HEIGHT, endX*TOTAL_WIDTH, endY*HEIGHT);
+			};
+
+			// Erase background
+			var erase = function() {
+				background(0, 0, 0);
+			};
+		</script>
+	</body>
+</html>

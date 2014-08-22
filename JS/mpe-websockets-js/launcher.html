@@ -1,0 +1,60 @@
+<html>
+	<head>
+		<script type="text/javascript" src="settings.js"></script>
+		<script type="text/javascript">
+
+			// Keep track of screens
+			var screens = [];
+
+			// Open screens
+			var launch = function() {
+				for(var i = 0; i < NUM_SCREENS-1; i++) {
+				 	console.log("LAUNCHING SCREEN", i, WIDTH*SCALE, HEIGHT*SCALE);
+					var screen = window.open(IP + 'screen' + i, '_blank',  'width=' + ((WIDTH*SCALE) + XMARGIN) + ', height=' + ((HEIGHT*SCALE) + YMARGIN) + ', location=no, menubar=no, resizable=no, scrollbars=no, status=no, titlebar=no, toolbar=no, top=50px, left=' + (((WIDTH*SCALE) + XMARGIN)*i) + 'px');
+
+					// Keep track of opened screen in screens array
+	 				screens.push(screen);
+	 			}
+ 			}
+ 			function quit() {
+ 				// Close each screen
+ 				screens.forEach(function(screen){
+ 					screen.close();
+ 				})
+ 				// Empty out screens array
+ 				screens = [];
+ 			}
+
+ 			function refresh() {
+ 				// Refresh each screen
+ 				screens.forEach(function(screen, s){
+ 					console.log("REFRESHING SCREEN " + s);
+ 					screen.location.reload(true);
+ 				});
+ 			}
+		</script>
+
+		<style>
+			body {
+				background: black;
+				text-align: center;
+			}
+			button {
+				margin: 25vh 5vw;
+				width: 20vw;
+				height: 50vh;
+				max-height: 200px;
+				background: white;
+				color: black;
+				font-size: 3vw;
+				border: none;
+				cursor: pointer;
+			}
+		</style>
+	</head>
+	<body>
+		<button onclick="launch()">OPEN</button>
+		<button onclick="quit()">CLOSE</button>
+		<button onclick="refresh()">REFRESH</button>
+	</body>
+</html>
