@@ -2,11 +2,7 @@
 	<head>
 		<script src="http://cdn.peerjs.com/0.3/peer.min.js"></script>		
 		<script type="text/javascript" src="/socket.io/socket.io.js"></script>
-		<script type="text/javascript" src="p5.min.js"></script>
-		<script type="text/javascript" src="p5.dom.js"></script>
 		<script type="text/javascript" src="settings.js"></script>
-		<script type="text/javascript" src="scale.js"></script>
-		<script type="text/javascript" src="stream.js"></script>
 		<style>
 			body {
 				background: black;
@@ -58,8 +54,8 @@
 					videoElement.src = window.URL.createObjectURL(remoteStream) || remoteStream;
 					
 					// Scale and place the video across 3 screens
-					videoElement.style.left = -id*WIDTH + 'px';
-					var scale = 'scale(' + (TOTAL_WIDTH/videoElement.width) + ',' + (HEIGHT/videoElement.height) + ')';
+					videoElement.style.left = -id*window.innerWidth + 'px';
+					var scale = 'scale(' + (window.innerWidth*NUM_SCREENS/videoElement.width) + ',' + (window.innerHeight/videoElement.height) + ')';
 					videoElement.style['transform'] = scale;
 					videoElement.style['-webkit-transform'] = scale;
 					videoElement.style['-ms-transform'] = scale;

@@ -32,7 +32,7 @@ var sync = function(socket) {
 
 	// Place screen
 	setTimeout(function(){
-		var body = document.getElementsByTagName('body')[0];
+		var body = document.body;
 		body.style.width = TOTAL_WIDTH + 'px';
 		body.style.height = HEIGHT + 'px';
 		var scale = 'scale(' + SCALE + ',' + SCALE + ')';
