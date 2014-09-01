@@ -1,3 +1,9 @@
+/**
+* Built upon Shawn Van Every's 
+* microstories example for Live Web
+* http://itp.nyu.edu/~sve204/liveweb_fall2014/syllabus.html
+*/
+
 // Get on the internet and listen for requests
 var http = require('http');
 var fs = require('fs'); // File system module

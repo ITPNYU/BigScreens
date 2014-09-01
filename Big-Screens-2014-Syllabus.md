@@ -87,7 +87,6 @@
 
 ### Class 4: Project Development @IAC: Thurs-Fri, Sep 25-26 
 - [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2014-Projects)
-- You'll have an hour each in the space.
 - Goal is to end up with the beginnings of a visual storyboard for your project, which you'll present in 2 weeks time.
 - Bring a camera and document the images you liked best and post them to your blog so you can reference them in your proposal.
 
