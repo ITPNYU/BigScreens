@@ -1,4 +1,4 @@
-# Big Screens 2013 Syllabus
+# Big Screens 2014 Syllabus
 
 - Fall 2014, Fridays, 12:30-3PM
 - Mimi Yin, mimi.yin@nyu.edu
