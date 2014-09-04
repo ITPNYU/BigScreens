@@ -42,6 +42,8 @@
 - Past Projects
 - Time, Space and the Time-Space Continuum 
 
+[Notes from class](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2014-Week-1-Notes)
+
 ##### Homework: 
 - Set up a blog / site for your project (you may add a category to an existing blog). Each week, you should post documentation of project progress to your site. [Link to it from here.](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2014-Projects)
 - Start collecting images and artifacts for Week 4. Bring 3-5 of them to class.
@@ -73,7 +75,6 @@
   - Upload it to your dropbox folder. Keep it under 2GB!
 - [Technical Specs for IAC](http://itp.nyu.edu/varwiki/BigScreens/FirstTime-F12)
 - [Set up your Dropbox Folder and put your homework in it](http://itp.nyu.edu/varwiki/BigScreens/Dropbox)
-- [Notes from class](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2014-Week-1-Notes)
 
 ## Class 3: Tour and Shorts @IAC Friday, Sep 19, 12:30-3PM
 - Short Tour of the space with Vincent Luciani
