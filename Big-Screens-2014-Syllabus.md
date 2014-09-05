@@ -47,6 +47,7 @@
 ##### Homework: 
 - Set up a blog / site for your project (you may add a category to an existing blog). Each week, you should post documentation of project progress to your site. [Link to it from here.](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2014-Projects)
 - Start collecting images and artifacts for Week 4. Bring 3-5 of them to class.
+- Set-up your dropbox folder (1 per team) and share it with mimi.yin@nyu.edu
 
 
 ## Class 2: Improv Storyboarding and Intro Tech Part I @ITP Friday, Sep 12, 12:30-3PM
