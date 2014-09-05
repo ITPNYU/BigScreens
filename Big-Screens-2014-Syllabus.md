@@ -69,7 +69,6 @@
 
 
 ##### Homework: 
-- Analyze a 1 minute video here:
 - Make something that lasts 1 minute for 3840x1080 pixels. We will look at it on the wall at IAC the following week. 
   - Scaling the size of the video 2x isn't a problem. Remember the bottom 140 pixels will be cut-off. 
   - Upload it to your dropbox folder. Keep it under 2GB!
