@@ -1,6 +1,6 @@
 # Big Screens 2014 Syllabus
 
-- Fall 2014, Fridays, 12:30-3PM
+- Fall 2014, Fridays, 12:10-2:40PM
 - Mimi Yin, mimi.yin@nyu.edu
 - [Office Hours Signup](https://itp.nyu.edu/inwiki/Signup/Mimi)
 
@@ -22,7 +22,7 @@
 
 # Syllabus
 
-### Class 1: Meet at ITP, Friday, Sep 5, 12:30-3PM
+### Class 1: Meet at ITP, Friday, Sep 5, 12:10-2:40PM
 
 ####What exactly is this class about?
 - Things that take up space. Architecture as a medium.
@@ -50,7 +50,7 @@
 - Set-up your dropbox folder (1 per team) and share it with mimi.yin@nyu.edu
 
 
-## Class 2: Improv Storyboarding and Intro Tech Part I @ITP Friday, Sep 12, 12:30-3PM
+## Class 2: Improv Storyboarding and Intro Tech Part I @ITP Friday, Sep 12, 12:10-2:40PM
 
 - Tutorial: [Logging into Screens](http://itp.nyu.edu/varwiki/BigScreens/LoggingIntoScreens)
 
@@ -76,12 +76,12 @@
 - [Technical Specs for IAC](http://itp.nyu.edu/varwiki/BigScreens/FirstTime-F12)
 - [Set up your Dropbox Folder and put your homework in it](http://itp.nyu.edu/varwiki/BigScreens/Dropbox)
 
-## Class 3: Tour and Shorts @IAC Friday, Sep 19, 12:30-3PM
+## Class 3: Tour and Shorts @IAC Friday, Sep 19, 12:10-2:40PM
 - Short Tour of the space with Vincent Luciani
 - Present your piece.
 
 ##### Homework: 
-- Prepare up to 100 fullscreen images for IAC next week.
+- Prepare 100 fullscreen images for IAC next week.
 - Exploratory or as storyboard(s).
 - Organize them into folders of 10 images each.
 - Come with a draft proposal for what range of technologies you're thinking of using.
@@ -121,10 +121,10 @@
 ##### Homework:
 - Nail down your production plan for mid-terms: [Guidelines](https://github.com/ITPNYU/BigScreens/wiki/Midterm-Critique:-What's-the-Point).
 
-## Class 9: Critique @IAC, Friday, Oct 31, 12:30-3PM
+## Class 9: Critique @IAC, Friday, Oct 31, 12:10-2:40PM
 - [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2014-Projects)
 
-## Class 10: Critique @IAC, Friday, Nov 7, 12:30-3PM
+## Class 10: Critique @IAC, Friday, Nov 7, 12:10-2:40PM
 - Sign up for prep Thursday, Oct 31
 
 ### Class 11: @IAC: Friday, Nov 14
@@ -137,7 +137,7 @@ Projects should be !!DONE!! at this point!. As this is your last opportunity to 
 # The Show! Friday Dec 5
 The show will run twice through with speakers in between. Doors open at 6PM. 1st set usually starts 6:30PM.
 
-### Class 14: Wrap-up at ITP, Friday Dec 12 12:30-3PM
+### Class 14: Wrap-up at ITP, Friday Dec 12 12:10-2:40PM
 
 
 ## Class description
