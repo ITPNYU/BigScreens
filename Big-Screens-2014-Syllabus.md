@@ -85,6 +85,7 @@
 - Exploratory or as storyboard(s).
 - Organize them into folders of 10 images each.
 - Come with a draft proposal for what range of technologies you're thinking of using.
+- [Tech Specs and Approaches To Consider](https://github.com/ITPNYU/BigScreens/wiki/100-Images:-Approaches-To-Consider)
 
 ### Class 4: Project Development @IAC: Thurs-Fri, Sep 25-26 
 - [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2014-Projects)
