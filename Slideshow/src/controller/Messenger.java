@@ -25,7 +25,7 @@ public class Messenger extends PApplet {
 	
 		// Where are you?
 		// We need to know in order to connect to server
-		Mode mode = Mode.ITP;
+		Mode mode = Mode.IAC;
 	
 		int dir = -1;
 		int max = -1;

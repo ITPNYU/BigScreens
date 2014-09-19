@@ -180,7 +180,16 @@ public class Slideshow extends PApplet {
 	// Or a controller app
 	public void dataEvent(TCPClient c) {
 		String[] msg = c.getDataMessage();
-		int command = Integer.valueOf(msg[0]);
+		String [] data = msg[0].split(",");
+	
+		// Ignore total
+		if(data[0].equals("total")) {
+			return;
+		}
+		
+		int command = Integer.valueOf(data[0]);	
+		
+		println("COMMAND: " + command);
 		
 		switch(command) {
 			case -1:
@@ -189,6 +198,8 @@ public class Slideshow extends PApplet {
 			default:
 				index = command;
 		}
+		
+		println("CURRENT IMAGE: " + index);
 		
 		if(index < 0)
 			index = lastImage;
