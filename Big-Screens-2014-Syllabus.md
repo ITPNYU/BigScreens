@@ -93,7 +93,7 @@
 - Bring a camera and document the images you liked best and post them to your blog so you can reference them in your proposal.
 
 #### Homework: Project Proposal & Get your feet wet with the "Technology"
-- Work on Project Proposal | [Guidelines](https://github.com/ITPNYU/BigScreens/wiki/Guidelines-fo-Project-Proposal-Presentations)
+- Prepare 5 minute presentation of your First Draft | [Guidelines](https://github.com/ITPNYU/BigScreens/wiki/Guidelines-for-First-Draft)
 - Try logging into the screens in the lounge | [Directions](http://itp.nyu.edu/varwiki/BigScreens/LoggingIntoScreens)
 - Tutorial: [Dropbox and Eclipse](http://itp.nyu.edu/varwiki/BigScreens/DropBoxStuff)
 - Download [Eclipse (Juno) for Java Developers](http://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/junosr1) | Try the [Processing in Eclipse Tutorial](http://processing.org/tutorials/eclipse/)
@@ -104,15 +104,13 @@
 
 ## Class 5: Tutorials! @ITP Friday, Oct 3
 - Workshops TBD.
+- Present First Draft | [Guidelines](https://github.com/ITPNYU/BigScreens/wiki/Guidelines-for-First-Draft)
 - [Sign-up here](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2014-Projects) | All examples are in [this GitHub repo] (https://github.com/ITPNYU/BigScreens).
 
 ##### Homework: 
-- Finish Project Proposal | [Guidelines](https://github.com/ITPNYU/BigScreens/wiki/Guidelines-fo-Project-Proposal-Presentations)
 - Prepare a first prototype of your project running across the entire video wall.
-- [Guidelines](https://github.com/ITPNYU/BigScreens/wiki/Guidelines-for-Week-4-Project-Proposal-Presentations)
 
 ### Class 6: @ITP Thurs Oct 9, @IAC Friday, Oct 10
-- 5 minute presentation of your Project Proposal | [Guidelines](https://github.com/ITPNYU/BigScreens/wiki/Guidelines-fo-Project-Proposal-Presentations)
 - Test first iteration of your project on the screens in the ITP Lounge.
 - Fill in the blanks with still images, found videos, old sketches.
 - [Sign-up here](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2014-Projects) | All examples are in [this GitHub repo] (https://github.com/ITPNYU/BigScreens).
