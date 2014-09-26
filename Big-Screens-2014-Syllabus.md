@@ -50,7 +50,7 @@
 - Set-up your dropbox folder (1 per team) and share it with mimi.yin@nyu.edu
 
 
-## Class 2: Improv Storyboarding and Intro Tech Part I @ITP Friday, Sep 12, 12:10-2:40PM
+### Class 2: Improv Storyboarding and Intro Tech Part I @ITP Friday, Sep 12, 12:10-2:40PM
 
 - Tutorial: [Logging into Screens](http://itp.nyu.edu/varwiki/BigScreens/LoggingIntoScreens)
 
@@ -76,7 +76,7 @@
 - [Technical Specs for IAC](http://itp.nyu.edu/varwiki/BigScreens/FirstTime-F12)
 - [Set up your Dropbox Folder and put your homework in it](http://itp.nyu.edu/varwiki/BigScreens/Dropbox)
 
-## Class 3: Tour and Shorts @IAC Friday, Sep 19, 12:10-2:40PM
+### Class 3: Tour and Shorts @IAC Friday, Sep 19, 12:10-2:40PM
 - Short Tour of the space with Vincent Luciani
 - Present your piece.
 
@@ -111,7 +111,7 @@
 - Prepare a first prototype of your project running across the entire video wall.
 - [Guidelines](https://github.com/ITPNYU/BigScreens/wiki/Guidelines-for-Week-4-Project-Proposal-Presentations)
 
-## Class 6: @ITP Thurs Oct 9, @IAC Friday, Oct 10
+### Class 6: @ITP Thurs Oct 9, @IAC Friday, Oct 10
 - 5 minute presentation of your Project Proposal | [Guidelines](https://github.com/ITPNYU/BigScreens/wiki/Guidelines-fo-Project-Proposal-Presentations)
 - Test first iteration of your project on the screens in the ITP Lounge.
 - Fill in the blanks with still images, found videos, old sketches.
