@@ -92,7 +92,8 @@
 - Goal is to end up with the beginnings of a visual storyboard for your project, which you'll present in 2 weeks time.
 - Bring a camera and document the images you liked best and post them to your blog so you can reference them in your proposal.
 
-#### Homework: Get your feet wet with the "Technology"
+#### Homework: Project Proposal & Get your feet wet with the "Technology"
+- Work on Project Proposal | [Guidelines](https://github.com/ITPNYU/BigScreens/wiki/Guidelines-fo-Project-Proposal-Presentations)
 - Try logging into the screens in the lounge | [Directions](http://itp.nyu.edu/varwiki/BigScreens/LoggingIntoScreens)
 - Tutorial: [Dropbox and Eclipse](http://itp.nyu.edu/varwiki/BigScreens/DropBoxStuff)
 - Download [Eclipse (Juno) for Java Developers](http://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/junosr1) | Try the [Processing in Eclipse Tutorial](http://processing.org/tutorials/eclipse/)
@@ -106,31 +107,36 @@
 - [Sign-up here](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2014-Projects) | All examples are in [this GitHub repo] (https://github.com/ITPNYU/BigScreens).
 
 ##### Homework: 
+- Finish Project Proposal | [Guidelines](https://github.com/ITPNYU/BigScreens/wiki/Guidelines-fo-Project-Proposal-Presentations)
 - Prepare a first prototype of your project running across the entire video wall.
 - [Guidelines](https://github.com/ITPNYU/BigScreens/wiki/Guidelines-for-Week-4-Project-Proposal-Presentations)
 
-## Class 6: ITP, Friday, Oct 10
-- Present first sketch on the 6 screens in the ITP Lounge.
+## Class 6: @ITP Thurs Oct 9, @IAC, Friday, Oct 10
+- 5 minute presentation of your Project Proposal | [Guidelines](https://github.com/ITPNYU/BigScreens/wiki/Guidelines-fo-Project-Proposal-Presentations)
+- Test first iteration of your project on the screens in the ITP Lounge.
 - Fill in the blanks with still images, found videos, old sketches.
+- [Sign-up here](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2014-Projects) | All examples are in [this GitHub repo] (https://github.com/ITPNYU/BigScreens).
 
-### Class 7: @IAC: Friday, Oct 17
+### Class 7: @ITP Thurs Oct 16, @IAC: Friday, Oct 17
 - [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2014-Projects)
 
-### Class 8: @IAC: Friday, Oct 24
+### Class 8: @IAC: Thursday Oct 23, Friday, Oct 24
 - [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2014-Projects)
 
 ##### Homework:
 - Nail down your production plan for mid-terms: [Guidelines](https://github.com/ITPNYU/BigScreens/wiki/Midterm-Critique:-What's-the-Point).
 
-## Class 9: Critique @IAC, Friday, Oct 31, 12:10-2:40PM
+## Class 9: @ITP Thurs Oct 30, Critique @IAC, Friday, Oct 31, 12:10-2:40PM
 - [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2014-Projects)
 
-## Class 10: Critique @IAC, Friday, Nov 7, 12:10-2:40PM
-- Sign up for prep Thursday, Oct 31
+## Class 10: @ITP Thurs Nov 6, Critique @IAC, Friday, Nov 7, 12:10-2:40PM
+- [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2014-Projects)
 
-### Class 11: @IAC: Friday, Nov 14
+### Class 11: @ITP Thurs Nov 13, @IAC: Friday, Nov 14
+- [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2014-Projects)
 
-### Class 12: @IAC: Friday, Nov 21
+### Class 12: @ITP Thurs Nov 20, @IAC: Friday, Nov 21
+- [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2014-Projects)
 
 ## Dress Rehearsal, Friday Nov 21 6:30-8PM
 Projects should be !!DONE!! at this point!. As this is your last opportunity to work on the wall.
