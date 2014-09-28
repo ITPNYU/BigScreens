@@ -95,6 +95,7 @@
 #### Homework: Project Proposal & Get your feet wet with the "Technology"
 - Prepare 5 minute presentation of your First Draft | [Guidelines](https://github.com/ITPNYU/BigScreens/wiki/Guidelines-for-First-Draft)
 - Try logging into the screens in the lounge | [Directions](http://itp.nyu.edu/varwiki/BigScreens/LoggingIntoScreens)
+- Cinder MPE: [Github Repo](https://github.com/wdlindmeier/Most-Pixels-Ever-Cinder)
 - Tutorial: [Dropbox and Eclipse](http://itp.nyu.edu/varwiki/BigScreens/DropBoxStuff)
 - Download [Eclipse (Juno) for Java Developers](http://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/junosr1) | Try the [Processing in Eclipse Tutorial](http://processing.org/tutorials/eclipse/)
    - [How to tell if your Mac is 32-bit or 64-bit](http://support.apple.com/kb/HT3696)
