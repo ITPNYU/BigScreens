@@ -9,7 +9,7 @@
 ### Resources
 - Sign up for [Big Screens Google Group](https://groups.google.com/a/itp.nyu.edu/group/bigscreens/) (Mandatory)
 - [Logging into Screens](http://itp.nyu.edu/varwiki/BigScreens/LoggingIntoScreens)
-- [Rendering Specs](http://itp.nyu.edu/varwiki/BigScreens/Rendering)
+- [Video Specs](https://github.com/ITPNYU/BigScreens/wiki/Video-Specs)
 - [Column Layout](http://itp.nyu.edu/varwiki/BigScreens/Columns)
 - [All other Big Screen wikis](http://itp.nyu.edu/varwiki/BigScreens/BigScreens)
 
