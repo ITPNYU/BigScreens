@@ -133,7 +133,7 @@ public class StreamingVideoPlayer extends PApplet {
 
 	public void draw() {
 		
-		// Display movie for first 10 seconds and after 20 seconds
+		// Display movie for 2 seconds, every 3 seconds
 		if (m.time()%3 < 2) {
 			image(m,0,0,width,height);
 		}
