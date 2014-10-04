@@ -1,0 +1,60 @@
+<html>
+	<head>
+		<script type="text/javascript" src="/socket.io/socket.io.js"></script>
+		<script type="text/javascript" src="settings.js"></script>
+		<style>
+			body {
+				background: black;
+				width: 100vw;
+				height: 100vh;
+				margin: 0;
+				padding: 0;
+				text-align: center;
+			}	
+		</style>	
+	</head>
+	<body>
+		<video id="video"></video>
+		<script type="text/javascript">
+			////////////////WHICH SCREEN ARE YOU?//////////////
+			var screenId = window.location.pathname.match(/\d+$/)[0];
+
+			// Load the video
+			var video = document.getElementById('video');
+			video.src = screenId + '.mov';
+			video.width = window.innerWidth;
+			video.height = window.innerHeight;
+			video.loop = IS_LOOPING;
+			video.pause();
+
+			/////////////////CONNECT TO SERVERS///////////////
+			var socket = io.connect(IP);
+			socket.on('connect', function(){
+				console.log("Connected to local server.");
+				socket.emit('screen', screenId);
+			});
+
+			// Wait for server to say GO!
+			socket.on('ready', function(){
+				video.play();
+				if(screenId == MASTER_CLIENT_ID) {
+					setInterval(function(){
+						console.log("SYNCING FROM MASTER", video.currentTime);
+						// Listen for sync command from server
+						socket.emit('sync', video.currentTime);
+				video.play();
+
+					}, 5000);
+				}
+				else {
+					// Listen for sync command from server
+					socket.on('sync', function(currentTime){
+						video.currentTime = currentTime;
+						console.log("RECEIVING SYNC ON CLIENT", currentTime, video.currentTime);
+				video.play();
+					});
+				}
+			});
+		</script>
+	</body>
+</html>
