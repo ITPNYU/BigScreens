@@ -116,7 +116,7 @@
 - Fill in the blanks with still images, found videos, old sketches.
 - [Sign-up here](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2014-Projects) | All examples are in [this GitHub repo] (https://github.com/ITPNYU/BigScreens).
 
-### Class 7: @ITP Thurs Oct 16, @IAC Friday, Oct 17
+### Class 7: @ITP Friday, Oct 17
 - [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2014-Projects)
 
 ### Class 8: @IAC Thurs Oct 23, Friday Oct 24
