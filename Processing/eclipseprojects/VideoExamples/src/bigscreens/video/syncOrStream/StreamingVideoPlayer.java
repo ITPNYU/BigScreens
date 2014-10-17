@@ -17,6 +17,7 @@ public class StreamingVideoPlayer extends PApplet {
 
 	Movie m;
 	OscP5 oscP5;
+	boolean started;
 	
 	// IP Addresses for Client Video Players
 	NetAddress client1;
@@ -38,7 +39,7 @@ public class StreamingVideoPlayer extends PApplet {
 	public static Mode mode = Mode.LOCAL;
 	
 	// Change the ID to test locally
-	static public int ID = 0;
+	static public int ID = 1;
 	
 	// There are 3 screens
 	int NUM_SCREENS = 3;
@@ -75,13 +76,14 @@ public class StreamingVideoPlayer extends PApplet {
 		// Load files based on ID of client (0:Left, 1:Middle, 2:Right)
 		switch(ID) {
 		case 0:
-			filename = "left.mov";
+			filename = "fingers.mov";
 			break;
 		case 1:
-			filename = "middle.mov";
+			started = true;
+			filename = "fingers.mov";
 			break;
 		case 2:
-			filename = "right.mov";
+			filename = "fingers.mov";
 			break;
 		}
 		
@@ -134,7 +136,7 @@ public class StreamingVideoPlayer extends PApplet {
 	public void draw() {
 		
 		// Display movie for 2 seconds, every 3 seconds
-		if (m.time()%3 < 2) {
+		if (m.time()%3 < 2 && started) {
 			image(m,0,0,width,height);
 		}
 		// Otherwise, show the stream
@@ -155,6 +157,9 @@ public class StreamingVideoPlayer extends PApplet {
 			OscMessage msg = new OscMessage("/time");
 			msg.add(m.time());
 			oscP5.send(msg, client1); 
+			if(mode == Mode.SCREENS) {
+				oscP5.send(msg, client2); 				
+			}
 		}
 		
 		if (mode == Mode.LOCAL) {
@@ -167,6 +172,9 @@ public class StreamingVideoPlayer extends PApplet {
 		//println("Address pattern: " + msg.addrPattern());
 		float t = msg.get(0).floatValue(); 
 		System.out.println("Screen: " + ID + " is jumping to " + t);
+		if(!started) {
+			started = true;
+		}
 		m.jump(t);
 	}
 
