@@ -125,13 +125,13 @@
 ##### Homework:
 - Nail down your production plan for mid-terms: [Guidelines](https://github.com/ITPNYU/BigScreens/wiki/Midterm-Critique:-What's-the-Point).
 
-## Class 9: @ITP Thurs Oct 30, Crit @IAC Fri Oct 31, 12:10-2:40PM
+## Class 9: @ITP Thurs Oct 30, Crit @IAC Fri Oct 31, 12-2PM
 - [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2014-Projects)
 
 ## Class 10: @ITP Thurs Nov 6, Crit @IAC Fri Nov 7, 12:10-2:40PM
 - [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2014-Projects)
 
-### Class 11: @ITP Thurs Nov 13, @IAC Friday, Nov 14
+### Class 11: @ITP Thurs Nov 13, @ITP Friday, Nov 14
 - [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2014-Projects)
 
 ### Class 12: @ITP Thurs Nov 20, @IAC Friday, Nov 21
