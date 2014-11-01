@@ -13,7 +13,7 @@ import oscP5.OscP5;
 import processing.core.*;
 import processing.video.Movie;
 
-public class StreamingVideoPlayer extends PApplet {
+public class StreamingVideoPlayers extends PApplet {
 
 	Movie m;
 	OscP5 oscP5;
@@ -39,7 +39,7 @@ public class StreamingVideoPlayer extends PApplet {
 	public static Mode mode = Mode.LOCAL;
 	
 	// Change the ID to test locally
-	static public int ID = 1;
+	static public int ID = 0;
 	
 	// There are 3 screens
 	int NUM_SCREENS = 3;
@@ -58,13 +58,13 @@ public class StreamingVideoPlayer extends PApplet {
 		if(mode == Mode.LOCAL) {
 			scale = .34f;
 			// Windowed
-			PApplet.main(new String[] {bigscreens.video.syncOrStream.StreamingVideoPlayer.class.getName() });
+			PApplet.main(new String[] {bigscreens.video.syncOrStream.StreamingVideoPlayers.class.getName() });
 
 		}
 		else {
 			ID = IDGetter.getID();
 			// FullScreen Exclusive Mode
-			PApplet.main(new String[] {"--present", bigscreens.video.syncOrStream.StreamingVideoPlayer.class.getName() });
+			PApplet.main(new String[] {"--present", bigscreens.video.syncOrStream.StreamingVideoPlayers.class.getName() });
 		}
 	}
 
@@ -96,25 +96,29 @@ public class StreamingVideoPlayer extends PApplet {
 			// Assign different IP address depending on mode
 			if(mode == Mode.LOCAL) {
 				// Where we are sending out message
-				client1 = new NetAddress("127.0.0.1",12345);
-				client2 = new NetAddress("127.0.0.1",12345);
+				client1 = new NetAddress("127.0.0.1",12001);
+				client2 = new NetAddress("127.0.0.1",12002);
 			}
 			else {
 				// Where we are sending out message
-				client1 = new NetAddress("192.168.130.240",12345);
-				client2 = new NetAddress("192.168.130.242",12345);			
+				client1 = new NetAddress("192.168.130.240",12001);
+				client2 = new NetAddress("192.168.130.242",12002);			
 			}
 		}
 		
 		// Assign ports for syncing movie and streaming video
 		int mPort, sPort; 
 		switch(ID) {
-		case 1:
+		case 0:
 			sPort = 9001;
 			mPort = 12001;
 			break;
+		case 2:
+			sPort = 9003;
+			mPort = 12002;
+			break;
 		default:
-			sPort = 9001;
+			sPort = 9002;
 			mPort = 12345;
 			break;
 		}
@@ -135,38 +139,38 @@ public class StreamingVideoPlayer extends PApplet {
 
 	public void draw() {
 		
+		// Draw backround
+		background(0);
+		
 		// Display movie for 2 seconds, every 3 seconds
 		if (m.time()%3 < 2 && started) {
 			image(m,0,0,width,height);
 		}
 		// Otherwise, show the stream
-		else {
+		else if(started) {
 			if (thread.available()) {
 				s = thread.getImage();
 			}
 			
-		  // Stretch streaming video across all screens
-		  float sWidth = width*NUM_SCREENS;
-		  float mult = sWidth/s.width;
-		  float sHeight = mult*s.height;
-		  // Display the middle sliver of the image
-		  image(s,-ID*width,-sHeight*.42f, sWidth, sHeight);
+			// Stretch streaming video across all screens
+			float mult = width/(float)s.width;
+			float sHeight = mult*s.height;
+			// Display the middle sliver of the image
+			image(s,0, 0, width, sHeight);
 		}
 		
 		if (ID == MASTER_ID && frameCount % 30 == 0) {
 			OscMessage msg = new OscMessage("/time");
 			msg.add(m.time());
 			oscP5.send(msg, client1); 
-			if(mode == Mode.SCREENS) {
-				oscP5.send(msg, client2); 				
-			}
+			oscP5.send(msg, client2); 
 		}
 		
 		if (mode == Mode.LOCAL) {
 			frame.setLocation(ID*width,0);
 		}
 	}
-
+	
 	public void oscEvent(OscMessage msg) {
 		//println("Here comes a message: ");
 		//println("Address pattern: " + msg.addrPattern());

@@ -7,7 +7,7 @@ import java.io.*;
 
 
 // This is the port we are sending to
-int clientPort = 9100; 
+int clientPort = 9001; 
 // This is our object that sends UDP out
 DatagramSocket ds; 
 // Capture object
@@ -74,4 +74,3 @@ void broadcast(PImage img) {
     e.printStackTrace();
   }
 }
-
