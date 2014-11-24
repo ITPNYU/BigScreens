@@ -13,6 +13,7 @@ import oscP5.OscP5;
 import processing.core.*;
 import processing.video.Movie;
 
+@SuppressWarnings("serial")
 public class StreamingVideoPlayer extends PApplet {
 
 	Movie m;
@@ -58,13 +59,13 @@ public class StreamingVideoPlayer extends PApplet {
 		if(mode == Mode.LOCAL) {
 			scale = .34f;
 			// Windowed
-			PApplet.main(new String[] {bigscreens.video.syncOrStream.StreamingVideoPlayer.class.getName() });
+			PApplet.main(new String[] {"bigscreens.video.syncOrStream.StreamingVideoPlayer"});
 
 		}
 		else {
 			ID = IDGetter.getID();
 			// FullScreen Exclusive Mode
-			PApplet.main(new String[] {"--present", bigscreens.video.syncOrStream.StreamingVideoPlayer.class.getName() });
+			PApplet.main(new String[] {"--present", "--bgcolor=#000000", "bigscreens.video.syncOrStream.StreamingVideoPlayer" });
 		}
 	}
 
@@ -73,17 +74,26 @@ public class StreamingVideoPlayer extends PApplet {
 	public void setup() {				
 		size(parseInt(displayWidth*scale),parseInt(displayHeight*scale));
 		
+		// Assign ports for syncing movie and streaming video
+		int mPort, sPort; 
+
 		// Load files based on ID of client (0:Left, 1:Middle, 2:Right)
 		switch(ID) {
 		case 0:
-			filename = "fingers.mov";
-			break;
-		case 1:
-			started = true;
-			filename = "fingers.mov";
+			filename = "data/fingers.mov";
+			mPort = 12001;
+			sPort = 9001;
 			break;
 		case 2:
-			filename = "fingers.mov";
+			filename = "data/fingers.mov";
+			mPort = 12003;
+			sPort = 9003;
+			break;
+		default:
+			started = true;
+			filename = "data/fingers.mov";
+			mPort = 12002;
+			sPort = 9002;
 			break;
 		}
 		
@@ -106,19 +116,6 @@ public class StreamingVideoPlayer extends PApplet {
 			}
 		}
 		
-		// Assign ports for syncing movie and streaming video
-		int mPort, sPort; 
-		switch(ID) {
-		case 1:
-			sPort = 9001;
-			mPort = 12001;
-			break;
-		default:
-			sPort = 9001;
-			mPort = 12345;
-			break;
-		}
-		
 		// osc object for syncing movies
 		oscP5 = new OscP5(this,mPort);
 		
@@ -136,7 +133,7 @@ public class StreamingVideoPlayer extends PApplet {
 	public void draw() {
 		
 		// Display movie for 2 seconds, every 3 seconds
-		if (m.time()%3 < 2 && started) {
+		if (m.time() < 2 && started) {
 			image(m,0,0,width,height);
 		}
 		// Otherwise, show the stream

@@ -297,7 +297,7 @@ public class ProjectLauncher extends PApplet {
 						commands = "open \"" + settings.path + computer + settings.project + "\"/";
 					}
 					else {
-						commands = "osascript ~/Dropbox/BigScreens2013/utils/launcher.scpt "
+						commands = "osascript ~/launcher.scpt "
 							+ command.toString()
 							+ (command == Command.LAUNCH ? " " + settings.ide
 									+ " " + settings.project + " "

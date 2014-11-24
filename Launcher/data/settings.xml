@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <settings>
-  <location>ITP</location>
-  <user>Big Screens</user>
+  <location>LOCAL</location>
+  <user>hamstar</user>
   <ide>ECLIPSE</ide>
   <path>Dropbox/show2013/</path>
-  <project>Anicca</project>
+  <project>ManyVideos</project>
   <screens>
+    <screen>false</screen>
     <screen>true</screen>
-    <screen>true</screen>
-    <screen>true</screen>
+    <screen>false</screen>
   </screens>
   <numScreens>0</numScreens>
 </settings>
