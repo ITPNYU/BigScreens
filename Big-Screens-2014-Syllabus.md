@@ -57,7 +57,7 @@
 #### Resources
 - Scale mock-up of screen
 - openFrameWorks for video playback OFVideoPlayer
-- [Watchout Rendering / After Effects](http://itp.nyu.edu/varwiki/BigScreens/Rendering)
+- [Watchout Rendering / After Effects](https://github.com/ITPNYU/BigScreens/wiki/Video-Specs)
 - Cinder/MPE
 - Java/Processing/MPE
    - [Processing in Eclipse](https://github.com/shiffman/Most-Pixels-Ever/wiki/Eclipse-Tutorial)
