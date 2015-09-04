@@ -49,7 +49,7 @@
 - Set up a blog / site for your project (you may add a category to an existing blog). Each week, you should post documentation of project progress to your site. [Link to it from here.](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2015-Projects)
 - Set-up your dropbox folder (1 per team) and share it with mimi.yin@nyu.edu
 - Analyze something, post your analysis to your blog.
-- Come to class next week with 1-3 lines of inquiry, 10 pieces of source material for each line of inquiry, 3 structures.
+- Come to class next week with 1 line of inquiry, 10 pieces of source material, 1 structure.
 
 ### Class 2: Storygraphing @ITP Friday, Sep 11, 3:20-5:50PM
 - Present analyses.
