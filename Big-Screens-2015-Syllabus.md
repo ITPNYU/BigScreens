@@ -33,9 +33,6 @@
 ####Logistics and Resources
 - Lightning round: What have you been thinking about?
 - Syllabus and schedule.
-- What's in this git repo?
-- High level overview of technologies used for Big Screens.
-
 
 ####What is Big Screens? 
 - Big Screens as a medium.
