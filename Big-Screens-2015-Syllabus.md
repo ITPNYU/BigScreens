@@ -37,15 +37,15 @@
 ####What is Big Screens? 
 - Big Screens as a medium.
 - Past Projects
-- Time, Space and the Time-Space Continuum | [Scale mock-up of screen]
-- Analyzing something that takes time.
+- Time, Space and the Time-Space Continuum
+- Analyzing something that takes time. 
 
 [Notes from class](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2015-Week-1-Notes)
 
 ##### Homework: 
 - Set up a blog / site for your project (you may add a category to an existing blog). Each week, you should post documentation of project progress to your site. [Link to it from here.](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2015-Projects)
 - Set-up your dropbox folder (1 per team) and share it with mimi.yin@nyu.edu
-- Analyze something, post your analysis to your blog.
+- Analyze something, post your analysis to your blog. | [See guidelines](https://github.com/ITPNYU/BigScreens/wiki/Analysis-Assignment)
 
 ### Class 2: Improv Storyboarding @ITP Friday, Sep 11, 3:20-5:50PM
 - Present analyses.
