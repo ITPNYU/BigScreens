@@ -49,43 +49,36 @@
 - Set up a blog / site for your project (you may add a category to an existing blog). Each week, you should post documentation of project progress to your site. [Link to it from here.](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2015-Projects)
 - Set-up your dropbox folder (1 per team) and share it with mimi.yin@nyu.edu
 - Analyze something, post your analysis to your blog.
-- Come to class next week with 1 line of inquiry, 10 pieces of source material, 1 structure.
 
-### Class 2: Storygraphing @ITP Friday, Sep 11, 3:20-5:50PM
+### Class 2: Improv Storyboarding @ITP Friday, Sep 11, 3:20-5:50PM
 - Present analyses.
-- Storygraph something in class.
-- Tutorial: [Logging into Screens](http://itp.nyu.edu/varwiki/BigScreens/LoggingIntoScreens)
+- Improv storyboarding in class
 
 
 ##### Homework: 
-- Create a 3 minute storygraph. We will look at it on the wall at IAC the following week. 
+- Create a 3 minute piece. We will look at it on the wall at IAC the following week. 
+  - 1920x1080 is fine. Don't get hung up on going fullscreen!
   - Scaling the size of the video 2x isn't a problem. Remember the bottom 140 pixels will be cut-off. 
   - If it is under 2GB, upload it to your dropbox folder. Otherwise bring it on a USB stick.
-- [Technical Specs for IAC](http://itp.nyu.edu/varwiki/BigScreens/FirstTime-F12)
 - [Set up your Dropbox Folder and put your homework in it](http://itp.nyu.edu/varwiki/BigScreens/Dropbox)
 
-### Class 3: Tour @IAC Friday, Sep 18, 12:20-2:50PM
-- Short Tour of the space with Vincent Luciani @12:30PM
-- Present your storygraph.
+### Class 3: Three-Minute-Piece @IAC Friday, Sep 18, 12:20-2:50PM or 3:20-5:50PM
+- Present your 3 minute piece.
+
+### Class 4: Tutorials @ITP Friday Sep 25, 12:00-6PM
+- [Sign-up](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2015-Projects)
 
 ##### Homework: 
 - Prepare 100 11520x1080 images for IAC next week. Scaling up by 2x still looks fine.
-- Exploratory or as storyboard(s).
-- Come with a draft proposal for what range of technologies you're thinking of using.
 - [Tech Specs and Approaches To Consider](https://github.com/ITPNYU/BigScreens/wiki/100-Images:-Approaches-To-Consider)
 
-### Class 4: Test Visuals @IAC Thurs Sep 24, Friday Sep 25
+### Class 5: Test Visuals @IAC Thurs Sep 24, Friday Sep 25
 - [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2015-Projects)
 - Goal is to end up with the beginnings of a visual storyboard for your project, which you'll present in 2 weeks time.
 - Bring a camera and document the images you liked best and post them to your blog so you can reference them in your proposal.
 
-##### Homework: 
+##### Homework: First Draft
 - Post documentation of your visual tests to your blog.
-
-### Class 5: Tutorials @ITP Friday Oct 2, 3:20-5:50PM
-- [Sign-up]()
-
-#### Homework: First Draft
 - You're commissioned to create a piece for the IAC Video Wall. You have 1 week to cobble together a draft.
 
 ### Class 6: First Draft @IAC Thurs Oct 8, @IAC Friday, Oct 9
@@ -96,7 +89,7 @@
 - Prepare a 5 minute presentation of your Project Proposal | [Guidelines](https://github.com/ITPNYU/BigScreens/wiki/Guidelines-for-First-Draft)
 - What technologies are you thinking of using?
 
-### Class 7: Proposals @ITP Friday, Oct 16, 3:20-5:50PM
+### Class 7: Proposals @IAC Friday, Oct 16, 3:20-5:50PM
 - Present proposals
 
 ##### Homework:
