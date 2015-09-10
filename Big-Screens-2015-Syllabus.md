@@ -45,7 +45,7 @@
 ##### Homework: 
 - Set up a blog / site for your project (you may add a category to an existing blog). Each week, you should post documentation of project progress to your site. [Link to it from here.](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2015-Projects)
 - Set-up your dropbox folder (1 per team) and share it with mimi.yin@nyu.edu
-- Analyze something, post your analysis to your blog. | [See guidelines](https://github.com/ITPNYU/BigScreens/wiki/Analysis-Assignment)
+- Analyze something, post your analysis to your blog. | [See guidelines.](https://github.com/ITPNYU/BigScreens/wiki/Analysis-Assignment)
 
 ### Class 2: Improv Storyboarding @ITP Friday, Sep 11, 3:20-5:50PM
 - Present analyses.
