@@ -59,7 +59,7 @@
   - If it is under 2GB, upload it to your dropbox folder. Otherwise bring it on a USB stick.
 - [Set up your Dropbox Folder and put your homework in it](http://itp.nyu.edu/varwiki/BigScreens/Dropbox)
 
-### Class 3: Three-Minute-Piece @IAC Friday, Sep 18, 12:20-2:50PM or 3:20-5:50PM
+### Class 3: Three-Minute-Piece @IAC Friday, Sep 18, Time?
 - Present your 3 minute piece.
 
 ### Class 4: Tutorials @ITP Friday Sep 25, 12:00-6PM
