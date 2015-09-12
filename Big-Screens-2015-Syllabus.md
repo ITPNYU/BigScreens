@@ -50,6 +50,7 @@
 ### Class 2: Improv Storyboarding @ITP Friday, Sep 11, 3:20-5:50PM
 - Present analyses.
 - Improv storyboarding in class
+- [Notes from Class](https://github.com/ITPNYU/BigScreens/wiki/Structure-for-Improv-Storyboarding
 
 
 ##### Homework: 
