@@ -65,6 +65,7 @@
 
 ##### Homework: 
 - Prepare 100 11520x1080 images for IAC in 2 weeks. Scaling up by 2x still looks fine.
+- [Column Layout](http://itp.nyu.edu/varwiki/BigScreens/Columns)
 - [Tech Specs and Approaches To Consider](https://github.com/ITPNYU/BigScreens/wiki/100-Images:-Approaches-To-Consider)
 - [Visual Techniques](https://github.com/ITPNYU/BigScreens/wiki/VISUALS)
 - [Questions for your 100 Images](https://github.com/ITPNYU/BigScreens/wiki/Questions-For-Your-100-Images)
@@ -74,6 +75,7 @@
 
 ##### Homework: 
 - Prepare 100 11520x1080 images for IAC next week. Scaling up by 2x still looks fine.
+- [Column Layout](http://itp.nyu.edu/varwiki/BigScreens/Columns)
 - [Tech Specs and Approaches To Consider](https://github.com/ITPNYU/BigScreens/wiki/100-Images:-Approaches-To-Consider)
 - [Visual Techniques](https://github.com/ITPNYU/BigScreens/wiki/VISUALS)
 - [Questions for your 100 Images](https://github.com/ITPNYU/BigScreens/wiki/Questions-For-Your-100-Images)
