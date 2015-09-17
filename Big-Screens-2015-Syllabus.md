@@ -103,7 +103,7 @@
 ##### Homework:
 - Nail down your production plan for mid-terms: [Guidelines](https://github.com/ITPNYU/BigScreens/wiki/Midterm-Critique:-What's-the-Point).
 
-### Class 8: Mid-terms? @IAC Thurs Oct 22, Friday Oct 23 
+### Class 8: @IAC Thurs Oct 22, Friday Oct 23 
 - [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2015-Projects)
 
 ## Class 9: Mid-terms? @IAC Fri Oct 30, 10-2PM
