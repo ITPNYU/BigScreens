@@ -80,7 +80,7 @@
 - [Visual Techniques](https://github.com/ITPNYU/BigScreens/wiki/VISUALS)
 - [Questions for your 100 Images](https://github.com/ITPNYU/BigScreens/wiki/Questions-For-Your-100-Images)
 
-### Class 5: Test Visuals @IAC Thurs Sep 24, Friday Sep 25
+### Class 5: Test Visuals @IAC Thurs Oct 2, Friday Oct 3
 - [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2015-Projects)
 - Goal is to end up with the beginnings of a visual storyboard for your project, which you'll present in 2 weeks time.
 - Bring a camera and document the images you liked best and post them to your blog so you can reference them in your proposal.
