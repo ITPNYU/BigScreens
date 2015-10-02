@@ -97,7 +97,7 @@
 - Prepare a 5 minute presentation of your Project Proposal | [Guidelines](https://github.com/ITPNYU/BigScreens/wiki/Guidelines-for-First-Draft)
 - What technologies are you thinking of using?
 
-### Class 7: Proposals @IAC Friday, Oct 16, 3:20-5:50PM
+### Class 7: Proposals @IAC Friday, Oct 16, 2:30-4PM
 - Present proposals
 
 ##### Homework:
