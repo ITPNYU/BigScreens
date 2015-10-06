@@ -7,6 +7,7 @@
 ### [Projects](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2015-Projects)
 
 ### Resources
+- [Dropbox folder of templates and examples](https://www.dropbox.com/sh/jtz1u7xusqqgh8i/AADVtfi05gPY1uTJxscjpg6ca?dl=0)
 - Sign up for [Big Screens Google Group](https://groups.google.com/a/itp.nyu.edu/group/bigscreens/) (Mandatory)
 - [Logging into Screens](http://itp.nyu.edu/varwiki/BigScreens/LoggingIntoScreens)
 - [Video Specs](https://github.com/ITPNYU/BigScreens/wiki/Video-Specs)
