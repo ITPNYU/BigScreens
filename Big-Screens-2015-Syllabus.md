@@ -107,10 +107,10 @@
 ### Class 8: @IAC Thurs Oct 22, Friday Oct 23 
 - [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2015-Projects)
 
-## Class 9: Mid-terms? @IAC Fri Oct 30, 10-2PM
+## Class 9: Mid-terms @IAC Fri Oct 30, 10-2:30PM
 - [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2015-Projects)
 
-## Class 10: Mid-terms? @IAC Thurs Nov 5, Fri Nov 6, 3:20-5:50PM
+## Class 10: Work @IAC Thurs Nov 5, Fri Nov 6, 3:20-5:50PM
 - [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2015-Projects)
 
 ### Class 11: @IAC Thurs Nov 12, @IAC Friday, Nov 13
