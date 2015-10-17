@@ -7,19 +7,16 @@
 ### [Projects](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2015-Projects)
 
 ### Resources
-- [Dropbox folder of templates and examples](https://www.dropbox.com/sh/jtz1u7xusqqgh8i/AADVtfi05gPY1uTJxscjpg6ca?dl=0)
+- [Utils2015 Dropbox folder](https://www.dropbox.com/sh/jtz1u7xusqqgh8i/AADVtfi05gPY1uTJxscjpg6ca?dl=0)
+   - Rendering templates
+   - MoviePlayer
+   - Basic examples for Processing, OF and Cinder
+   - And more!
 - Sign up for [Big Screens Google Group](https://groups.google.com/a/itp.nyu.edu/group/bigscreens/) (Mandatory)
 - [Logging into Screens](http://itp.nyu.edu/varwiki/BigScreens/LoggingIntoScreens)
 - [Video Specs](https://github.com/ITPNYU/BigScreens/wiki/Video-Specs)
 - [Column Layout](http://itp.nyu.edu/varwiki/BigScreens/Columns)
 - [All other Big Screen wikis](http://itp.nyu.edu/varwiki/BigScreens/BigScreens)
-
-### Rendering Files, Code Examples & Libraries
-- [Processing with OSC](https://github.com/ITPNYU/BigScreens)
-- [OpenFrameworks with OSC](https://github.com/ITPNYU/BigScreens)
-- [Cinder with OSC](https://github.com/ITPNYU/BigScreens)
-- [Cinder Video Player](https://github.com/ITPNYU/BigScreens)
-- [After Effects Template]
 
 # Syllabus
 
