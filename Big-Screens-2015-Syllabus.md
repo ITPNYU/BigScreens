@@ -92,7 +92,7 @@
 - [Sign-up here](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2015-Projects) | All examples are in [this GitHub repo] (https://github.com/ITPNYU/BigScreens).
 
 #### Homework: Project Proposal
-- Prepare a 5 minute presentation of your Project Proposal | [Guidelines](https://github.com/ITPNYU/BigScreens/wiki/Guidelines-for-First-Draft)
+- Prepare a 5 minute presentation of your Project Proposal | [Guidelines](https://github.com/ITPNYU/BigScreens/wiki/Guidelines-for-Storyboarding-Your-Project-Proposal)
 - What technologies are you thinking of using?
 
 ### Class 7: Proposals @IAC Friday, Oct 16, 2:30-5PM
