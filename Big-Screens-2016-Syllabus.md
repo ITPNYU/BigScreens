@@ -92,13 +92,13 @@
 - Test 2nd Draft
 - [Sign-up here](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2016-Projects)
 
-### Class 8: Mid-term @IAC??? Thurs Oct 27???, Friday Oct 28 
+## Class 8: Mid-term @IAC??? Thurs Oct 27???, Friday Oct 28 
 - [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2016-Projects)
 
 ## Class 9: Mid-term @IAC??? Fri Nov 4
 - [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2016-Projects)
 
-### Class 10: @IAC Thurs Nov 10, @IAC Friday, Nov 11
+## Class 10: Mid-term @IAC??? Thurs Nov 10, @IAC Friday, Nov 11
 - [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2016-Projects)
 
 ### Class 11: @IAC Friday, Nov 18
