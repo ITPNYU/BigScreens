@@ -7,15 +7,15 @@
 ### [Projects](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2016-Projects)
 
 ### Resources
-- [Utils2015 Google Drive folder](https://www.dropbox.com/sh/jtz1u7xusqqgh8i/AADVtfi05gPY1uTJxscjpg6ca?dl=0)
+- [Utils2016 Google Drive folder]()
    - Rendering templates
    - MoviePlayer
    - Basic examples for Processing, OF and Cinder
    - And more!
 - Sign up for [Big Screens Google Group](https://groups.google.com/a/itp.nyu.edu/group/bigscreens/) (Mandatory)
 - [Logging into Screens](http://itp.nyu.edu/varwiki/BigScreens/LoggingIntoScreens)
-- [Video Specs](https://github.com/ITPNYU/BigScreens/wiki/Video-Specs)
 - [Column Layout](http://itp.nyu.edu/varwiki/BigScreens/Columns)
+- [Getting Started With Technology](https://github.com/ITPNYU/BigScreens/wiki/Get-Started-With-Technology)
 - [All other Big Screen wikis](http://itp.nyu.edu/varwiki/BigScreens/BigScreens)
 
 # Syllabus
