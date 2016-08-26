@@ -7,7 +7,7 @@
 ### [Projects](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2016-Projects)
 
 ### Resources
-- [Utils2016 Google Drive folder]()
+- Utils2016 Google Drive folder
    - Rendering templates
    - MoviePlayer
    - Basic examples for Processing, OF and Cinder
@@ -20,7 +20,7 @@
 
 # Syllabus
 
-### Class 1: Meet at IAC, Friday, Sep 9, 1:00-3:20PM
+### Class 1: @IAC, Friday, Sep 9, 1:00-3:20PM
 
 ####What is this class about?
 - Things that take up space. Big Screens as Architecture.
