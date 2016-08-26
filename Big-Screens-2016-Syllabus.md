@@ -95,7 +95,7 @@
 ## Class 8: Mid-term @IAC??? Thurs Oct 27???, Friday Oct 28 
 - [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2016-Projects)
 
-### Class 9: @IAC Fri Nov 4
+### Class 9: @IAC Thurs Nov 3, Fri Nov 4???
 - [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2016-Projects)
 
 ## Class 10: Mid-term @IAC??? Thurs Nov 10, @IAC Friday, Nov 11
