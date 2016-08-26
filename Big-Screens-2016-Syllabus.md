@@ -101,14 +101,13 @@
 ## Class 10: Mid-term @IAC??? Thurs Nov 10, @IAC Friday, Nov 11
 - [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2016-Projects)
 
-### Class 11: @IAC Friday, Nov 18
+### Class 11: @IAC Friday, Nov 18 
 - [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2016-Projects)
 
-### Class 12: @IAC Wed, Nov 30
-- [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2016-Projects)
+## Dress Rehearsal, Fri Nov 18 6:30-8PM
 
-## Dress Rehearsal, Wed Nov 30 6:30-8PM
-Projects are !!DONE!! at this point!. This is your LAST opportunity to work on the wall.
+### Class 12: Final Testing @IAC Wed Nov 23rd or Mon Nov 28th
+- [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2016-Projects)
 
 # The Show! Friday Dec 9
 The show will run twice through with speakers in between. Doors open at 6PM. 1st set usually starts 6:30PM.
