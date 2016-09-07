@@ -106,8 +106,7 @@
 
 ## Dress Rehearsal, Fri Nov 18 6:30-8PM
 
-### Class 12: Final Testing @IAC Wed Nov 23rd or Mon Nov 28th
-- [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2016-Projects)
+### Class 12: Field Trip to [Made in NY Media Center](http://nymediacenter.com/) Fri Nov 2 3:20PM
 
 # The Show! Friday Dec 9
 The show will run twice through with speakers in between. Doors open at 6PM. 1st set usually starts 6:30PM.
