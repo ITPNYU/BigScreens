@@ -88,7 +88,7 @@
 ##### Homework: 
 - Create second draft of your project to test at IAC next week.
 
-### Class 7: 2nd Draft @IAC Thurs Oct 20, @IAC Friday, Oct 21
+### Class 7: 2nd Draft @IAC Friday, Oct 21
 - Test 2nd Draft
 - [Sign-up here](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2016-Projects)
 
