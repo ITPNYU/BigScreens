@@ -42,7 +42,7 @@
 
 ##### Homework: 
 - Set up a blog / site for your project (you may add a category to an existing blog). Each week, you should post documentation of project progress to your site. [Link to it from here.](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2016-Projects)
-- Set-up your Google Drive folder (1 per team) and share it with mimi.yin@nyu.edu
+- Set-up your Google Drive folder (1 per team) and share it with bigscreensdrive@itp.nyu.edu
 - Prepare 100 11520x1080 images for IAC in 2 weeks. Scaling up by 2x still looks fine.
 - [Column Layout](http://itp.nyu.edu/varwiki/BigScreens/Columns)
 - [Tech Specs and Approaches To Consider](https://github.com/ITPNYU/BigScreens/wiki/100-Images:-Approaches-To-Consider)
