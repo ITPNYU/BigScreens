@@ -60,23 +60,20 @@
 - Improv storyboarding in class | [Guidelines](https://github.com/ITPNYU/BigScreens/wiki/Structure-for-Improv-Storyboarding)
 - Analyzing something that takes time. | [Guidelines](https://github.com/ITPNYU/BigScreens/wiki/Analysis-Assignment)
 
-
-##### Homework: 
-- Create a 3 minute piece @1920x1080
-- Analyze your 3 minute piece. Document on blog.
-
-### Class 4: 3-minutes @ITP Friday, Sep 30, 3:20-5:50PM
-- Present pieces + analysis.
-
 ##### Homework: 
 - [Getting Started with Technologies](https://github.com/ITPNYU/BigScreens/wiki/Get-Started-With-Technology)
 - Figure out what technologies you are thinking of using.
 - Go through tutorials, templates and examples on your own. 
 - Come prepared with questions.
+- Create a 3 minute piece to present in 2 weeks.
+- Analyze your 3 minute piece. Document on blog.
 
-### Class 5: Tutorials @ITP Friday Oct 7, 3:20-5:50PM
+### Class 4: Tutorials @ITP Friday Sep 30, 3:20-5:50PM
 - [Sign-up](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2016-Projects)
 - [Technologies](https://github.com/ITPNYU/BigScreens/wiki/Get-Started-With-Technology)
+
+### Class 5: 3-minutes @ITP Friday, Oct 7, 3:20-5:50PM
+- Present pieces + analysis.
 
 ##### Homework: 
 - Create 1st draft of your project to test at IAC next week.
