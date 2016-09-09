@@ -45,6 +45,7 @@
 - Set-up your Google Drive folder (1 per team) and share it with bigscreensdrive@itp.nyu.edu
 - Prepare 100 11520x1080 images for IAC in 2 weeks. Scaling up by 2x still looks fine.
 - [Column Layout](http://itp.nyu.edu/varwiki/BigScreens/Columns)
+- Photoshop Template in Google Drive: Layouts >> man_on_screen.psd
 - [Tech Specs and Approaches To Consider](https://github.com/ITPNYU/BigScreens/wiki/100-Images:-Approaches-To-Consider)
 - [Visual Techniques](https://github.com/ITPNYU/BigScreens/wiki/VISUALS)
 
