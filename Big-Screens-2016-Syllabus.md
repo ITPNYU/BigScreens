@@ -66,8 +66,7 @@
 - Figure out what technologies you are thinking of using.
 - Go through tutorials, templates and examples on your own. 
 - Come prepared with questions.
-- Create a 3 minute piece to present in 2 weeks.
-- Analyze your 3 minute piece. Document on blog.
+- Create a 3 minute Storygraph of your piece to present in 2 weeks. Document on blog. [Assignment Details](https://github.com/ITPNYU/BigScreens/wiki/Storygraph-Assignment)
 
 ### Class 4: Tutorials @ITP Friday Sep 30, 3:20-5:50PM
 - [Sign-up](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2016-Projects)
