@@ -59,7 +59,6 @@
 
 ### Class 3: Improv Storyboarding @ITP Friday, Sep 23, 3:20-5:50PM
 - Improv storyboarding in class | [Guidelines](https://github.com/ITPNYU/BigScreens/wiki/Structure-for-Improv-Storyboarding)
-- Analyzing something that takes time. | [Guidelines](https://github.com/ITPNYU/BigScreens/wiki/Analysis-Assignment)
 
 ##### Homework: 
 - [Getting Started with Technologies](https://github.com/ITPNYU/BigScreens/wiki/Get-Started-With-Technology)
