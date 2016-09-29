@@ -77,18 +77,16 @@
 ##### Homework: 
 - Create 1st draft of your project to test at IAC next week.
 
-### Class 6: 1st Draft @IAC Thurs Oct 13, @IAC Friday, Oct 14
-- Test 1st Draft
+### Class 6: @IAC Thurs Oct 13, @IAC Friday, Oct 14
 - [Sign-up here](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2016-Projects) | All examples are in [this GitHub repo] (https://github.com/ITPNYU/BigScreens).
 
 ##### Homework: 
 - Create second draft of your project to test at IAC next week.
 
-### Class 7: 2nd Draft @IAC Friday, Oct 21
-- Test 2nd Draft
+### Class 7: @IAC Friday, Oct 21
 - [Sign-up here](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2016-Projects)
 
-## Class 8: @IAC Friday Oct 28 
+### Class 8: @IAC Friday Oct 28 
 - [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2016-Projects)
 
 ## Class 9: Mid-terms @IAC Thurs Nov 3, Fri Nov 4
