@@ -72,7 +72,7 @@
 - [Technologies](https://github.com/ITPNYU/BigScreens/wiki/Get-Started-With-Technology)
 
 ##### Homework:
-- Prepare short presentation along with your 3 minute assignment. [See Guidelines](https://github.com/ITPNYU/BigScreens/wiki/Guidelines-for-Project-Proposal-v.1)
+- Prepare short presentation along with your 3 minute assignment. [See Guidelines](https://github.com/ITPNYU/BigScreens/wiki/Guidelines-for-Project-Proposal)
 
 ### Class 5: 3-minutes @ITP Friday, Oct 7, 3:20-5:50PM
 - Present pieces + analysis.
