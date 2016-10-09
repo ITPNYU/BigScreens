@@ -78,7 +78,7 @@
 - Present pieces + analysis.
 
 ##### Homework: 
-- Create 1st draft of your project to test at IAC next week.
+- Create 1st draft of your project to test at IAC next week. [See Guidelines](https://github.com/ITPNYU/BigScreens/wiki/Guidelines-for-Draft-1-@IAC)
 
 ### Class 6: @IAC Thurs Oct 13, @IAC Friday, Oct 14
 - [Sign-up here](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2016-Projects) | All examples are in [this GitHub repo] (https://github.com/ITPNYU/BigScreens).
