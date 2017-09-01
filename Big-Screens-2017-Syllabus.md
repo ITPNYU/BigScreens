@@ -1,4 +1,4 @@
-# Big Screens 2016 Syllabus - Dates Always Tentative
+# Big Screens 2017 Syllabus - Dates Always Tentative
 
 - Fall 2017, Fridays, 3:20-5:50PM
 - Mimi Yin, mimi.yin@nyu.edu
