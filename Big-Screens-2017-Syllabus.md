@@ -31,7 +31,7 @@
 - Syllabus and schedule.
 
 ##### Logistics
-- Set up a blog / site for your project (you may add a category to an existing blog). Each week, you should post documentation of project progress to your site. [Link to it from here.](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2016-Projects)
+- Set up a blog / site for your project (you may add a category to an existing blog). Each week, you should post documentation of project progress to your site. [Link to it from here.](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2017-Projects)
 - Set-up your Google Drive folder (1 per team).Name it with your names (e.g. JackJill) and share it with mimi.yin@nyu.edu
 
 ##### For next week: Prepare for Improv Storyboarding Exercise
