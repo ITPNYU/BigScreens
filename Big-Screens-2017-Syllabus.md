@@ -43,6 +43,14 @@
 - [Tech Specs and Approaches To Consider](https://github.com/ITPNYU/BigScreens/wiki/100-Images:-Approaches-To-Consider)
 - [Visual Techniques](https://github.com/ITPNYU/BigScreens/wiki/VISUALS)
 
+##### Spend time together. Go on a fieldtrip with your partner(s) to an immersive environment. Talk about it. Some ideas:
+- Louis Kahn Roosevelt Memorial (take the funicular from Manhattan) and [read this article first](https://mobile.nytimes.com/2012/09/13/arts/design/louis-kahns-franklin-d-roosevelt-four-freedoms-park-to-open.html).
+- [29 Rooms Pop-up Exhibit](https://www.nytimes.com/2017/09/06/arts/design/29rooms-is-a-creative-playhouse-for-the-instagram-set.html)
+- Take the Staten Island Ferry, it's free!
+- Go to Ground Zero.
+- [Floyd Benett Airfield](http://www.nydailynews.com/new-york/brooklyn/floyd-bennett-field-brooklyn-glorious-airfield-dilapidated-federal-park-article-1.189426).
+- Take Metro-North to [DIA Beacon](https://www.diaart.org/visit/visit/diabeacon-beacon-united-states). 
+
 ### Class 2: Improv Storyboarding @ITP Friday, Sep 15, 3:20-5:50PM
 - Improv storyboarding in class | [Guidelines](https://github.com/ITPNYU/BigScreens/wiki/Structure-for-Improv-Storyboarding)
 - Analyzing time. | [Guidelines](https://github.com/ITPNYU/BigScreens/wiki/Analysis-Assignment)
