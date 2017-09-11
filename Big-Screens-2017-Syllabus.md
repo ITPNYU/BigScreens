@@ -29,6 +29,7 @@
 - [Past projects and Other Video Walls](http://itp.nyu.edu/varwiki/BigScreens/TheOthers)
 - What have you been thinking about?
 - Syllabus and schedule.
+- [Week 1 Notes](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2017-Week-1-Notes)
 
 ##### Logistics
 - Set up a blog / site for your project (you may add a category to an existing blog). Each week, you should post documentation of project progress to your site. [Link to it from here.](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2017-Projects)
