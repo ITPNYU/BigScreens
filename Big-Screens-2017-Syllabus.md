@@ -37,6 +37,7 @@
 
 ##### For next week: Prepare for Improv Storyboarding Exercise
 - Collect at least 25 assets for your in-class collage. Aim for 50 and narrow it down to the 25 best ones. Go for a broad variety of media. (As in, don't make them all images.) Bring them in as physical objects you can glue and tape onto paper so if you do have images, print them out!
+- Where should I look for assets? $1 store. The Salvation Army thrift store. Your refrigerator. The garbage. In your closet. On the street for discarded toys, clothes, furniture, books. Draw stuff. Only when you’ve really run out of ideas, look on the internet as your last resort.
 
 ##### In 2 Weeks...
 - Prepare 100 11520x1080 images for IAC in 2 weeks. Scaling up by 2x still looks fine.
