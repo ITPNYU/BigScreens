@@ -36,7 +36,7 @@
 - Set-up your Google Drive folder (1 per team).Name it with your names (e.g. JackJill) and share it with mimi.yin@nyu.edu
 
 ##### For next week: Prepare for Improv Storyboarding Exercise
-- Collect at least 25 collage assets across for your project. (Don't make them all images.) Bring them in as physical objects so if you do have images, print them out!
+- Collect at least 25 assets for your in-class collage. Aim for 50 and narrow it down to the 25 best ones. Go for a broad variety of media. (As in, don't make them all images.) Bring them in as physical objects you can glue and tape onto paper so if you do have images, print them out!
 
 ##### In 2 Weeks...
 - Prepare 100 11520x1080 images for IAC in 2 weeks. Scaling up by 2x still looks fine.
