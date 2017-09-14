@@ -55,10 +55,14 @@
 
 ### Class 2: Improv Storyboarding @ITP Friday, Sep 15, 3:20-5:50PM
 - Improv storyboarding in class | [Guidelines](https://github.com/ITPNYU/BigScreens/wiki/Structure-for-Improv-Storyboarding)
-- Analyzing time. | [Guidelines](https://github.com/ITPNYU/BigScreens/wiki/Analysis-Assignment)
+- Analyzing time. | [Guidelines](https://github.com/ITPNYU/BigScreens/wiki/Storygraph-Assignment)
 
 ##### Homework:
-- Post documentation of your storyboard to your blog.
+- Post documentation of your improv storyboards to your blog.
+- Prepare 100 11520x1080 images for IAC in 2 weeks. Scaling up by 2x still looks fine.
+- [Column Layout](http://itp.nyu.edu/varwiki/BigScreens/Columns)
+- [Tech Specs and Approaches To Consider](https://github.com/ITPNYU/BigScreens/wiki/100-Images:-Approaches-To-Consider)
+- [Visual Techniques](https://github.com/ITPNYU/BigScreens/wiki/VISUALS)
 
 ### Class 3: Test Visuals @IAC Fri Sep 22
 - [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2017-Projects)
@@ -66,14 +70,9 @@
 
 ##### Homework: Show Don't Tell
 - Post documentation of your visual tests to your blog.
-- Create full resolution timed storyboard (3 minutes @11520x1080) to present next week.
-- Give it a title and a tagline.
-- Analyze your 3 minute piece. Document on blog.
-   - Demarcate sections. Name them. Time them.
-   - Foreshadowing? Detours? Repetition? Prologue? Epilogue? Flashback? Reverie?
-   - What is the arc of your piece? Points of inflection? Climax? Ending?
+- Create storygraph to present @IAC next Friday. [Guidelines](https://github.com/ITPNYU/BigScreens/wiki/Storygraph-Assignment)
 
-### Class 4: 3-minutes @IAC Friday, Sep 29
+### Class 4: Storygraph @IAC Friday, Sep 29
 - Present and discuss pieces.
 - [Sign-up](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2017-Projects)
 
@@ -90,16 +89,16 @@
 ##### Homework:
 - Create a draft of your mid-term to present at ITP next week.
 
-### Class 6: Show, Not Tell @ITP Friday, Oct 13, 3:20-5:50PM
+### Class 6: Project Proposals @ITP Friday, Oct 13, 3:20-5:50PM
 - [Sign-up here](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2016-Projects) | All examples are in [this GitHub repo] (https://github.com/ITPNYU/BigScreens).
 
-## Class 7: Mid-terms @IAC Thurs Oct 19, @IAC Friday, Oct 20
+## Class 7: @IAC Thurs Oct 19
 - [Sign-up here](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2017-Projects)
 
-### Class 8: @IAC Thurs Oct 26
+### Class 8: Project Proposals @ITP Friday, Oct 27, 3:20-5:50PM
 - [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2017-Projects)
 
-### Class 9: @IAC Fri Nov 3
+### Class 9: Mid-terms @IAC Fri Nov 3
 - [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2017-Projects)
 
 ## Class 10: Workshopping @ITP, Friday Nov 10 3:20-5:50PM
