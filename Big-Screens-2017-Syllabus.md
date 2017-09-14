@@ -61,7 +61,7 @@
    - [Column Layout](http://itp.nyu.edu/varwiki/BigScreens/Columns)
 
 ### Class 3: Test Visuals @IAC Fri Sep 22
-- [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2017-Projects)
+- [Sign up](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2017-Projects)
 - Document your tests!
 
 ##### Homework: Show Don't Tell
