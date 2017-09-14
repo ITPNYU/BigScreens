@@ -41,9 +41,6 @@
 
 ##### In 2 Weeks...
 - Prepare 100 11520x1080 images for IAC in 2 weeks. Scaling up by 2x still looks fine.
-- [Column Layout](http://itp.nyu.edu/varwiki/BigScreens/Columns)
-- [Tech Specs and Approaches To Consider](https://github.com/ITPNYU/BigScreens/wiki/100-Images:-Approaches-To-Consider)
-- [Visual Techniques](https://github.com/ITPNYU/BigScreens/wiki/VISUALS)
 
 ##### Spend time together. Go on a fieldtrip with your partner(s) to an immersive environment. Talk about it. Some ideas:
 - Louis Kahn Roosevelt Memorial (take the funicular from Manhattan) and [read this article first](https://mobile.nytimes.com/2012/09/13/arts/design/louis-kahns-franklin-d-roosevelt-four-freedoms-park-to-open.html).
@@ -60,9 +57,8 @@
 ##### Homework:
 - Post documentation of your improv storyboards to your blog.
 - Prepare 100 11520x1080 images for IAC in 2 weeks. Scaling up by 2x still looks fine.
-- [Column Layout](http://itp.nyu.edu/varwiki/BigScreens/Columns)
-- [Tech Specs and Approaches To Consider](https://github.com/ITPNYU/BigScreens/wiki/100-Images:-Approaches-To-Consider)
-- [Visual Techniques](https://github.com/ITPNYU/BigScreens/wiki/VISUALS)
+   - [Guidelines](https://github.com/ITPNYU/BigScreens/wiki/100-Images:-Approaches-To-Consider)
+   - [Column Layout](http://itp.nyu.edu/varwiki/BigScreens/Columns)
 
 ### Class 3: Test Visuals @IAC Fri Sep 22
 - [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2017-Projects)
