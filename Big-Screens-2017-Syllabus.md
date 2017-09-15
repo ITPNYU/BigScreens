@@ -88,13 +88,13 @@
 ### Class 6: Project Proposals @ITP Friday, Oct 13, 3:20-5:50PM
 - [Sign-up here](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2016-Projects) | All examples are in [this GitHub repo] (https://github.com/ITPNYU/BigScreens).
 
-## Class 7: @IAC Thurs Oct 19
+### Class 7: @IAC Thurs Oct 19
 - [Sign-up here](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2017-Projects)
 
 ### Class 8: Project Proposals @ITP Friday, Oct 27, 3:20-5:50PM
 - [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2017-Projects)
 
-### Class 9: Mid-terms @IAC Fri Nov 3
+## Class 9: Mid-terms @IAC Fri Nov 3
 - [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2017-Projects)
 
 ## Class 10: Workshopping @ITP, Friday Nov 10 3:20-5:50PM
