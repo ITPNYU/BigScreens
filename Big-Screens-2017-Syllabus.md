@@ -97,7 +97,7 @@
 ## Class 9: Mid-terms @IAC Fri Nov 3
 - [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2017-Projects)
 
-## Class 10: Workshopping @ITP, Friday Nov 10 3:20-5:50PM
+### Class 10: Workshopping @ITP, Friday Nov 10 3:20-5:50PM
 - [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2017-Projects)
 
 ### Class 11: Prep for Dress Rehearsal @IAC Friday, Nov 17
