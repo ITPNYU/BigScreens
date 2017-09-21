@@ -85,28 +85,30 @@
 ##### Homework:
 - Create a draft of your mid-term to present at ITP next week.
 
-### Class 6: Project Proposals @ITP Friday, Oct 13, 3:20-5:50PM
-- [Sign-up here](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2016-Projects) | All examples are in [this GitHub repo] (https://github.com/ITPNYU/BigScreens).
-
-### Class 7: @IAC Thurs Oct 19
+### Class 6: Project Proposals @IAC Thurs Oct 12, 12:30-3PM
 - [Sign-up here](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2017-Projects)
 
-### Class 8: Project Proposals @ITP Friday, Oct 27, 3:20-5:50PM
-- [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2017-Projects)
+### Class 7: Project Proposals @IAC Thurs Oct 19, 12:30-3PM
+- [Sign-up here](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2017-Projects)
 
-## Class 9: Mid-terms @IAC Fri Nov 3
-- [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2017-Projects)
+### Class 8: NO CLASS Friday, Oct 27, 3:20-5:50PM
+
+## Pre-Class 9: Test your project @ITP: 10-4PM
+- [Sign up here](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2017-Projects)
+
+## Class 9: Mid-terms @IAC Fri Nov 3 12-6PM
+- [Sign up here](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2017-Projects)
 
 ### Class 10: Workshopping @ITP, Friday Nov 10 3:20-5:50PM
-- [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2017-Projects)
+- [Sign up here](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2017-Projects)
 
 ### Class 11: Prep for Dress Rehearsal @IAC Friday, Nov 17
-- [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2017-Projects)
+- [Sign up here](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2017-Projects)
 
 ## Dress Rehearsal, Fri Nov 17 6:30-8PM
 
 ### Class 12: Final Testing @IAC Thurs Nov 30th
-- [Sign up here] (https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2017-Projects)
+- [Sign up here](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2017-Projects)
 
 # The Show! Friday Dec 8
 The show will run twice through with speakers in between. Doors open at 6PM. 1st set usually starts 6:30PM.
