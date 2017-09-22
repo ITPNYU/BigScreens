@@ -67,8 +67,9 @@
 ##### Homework: Show Don't Tell
 - Post documentation of your visual tests to your blog.
 - Create storygraph to present @IAC next Friday. [Guidelines](https://github.com/ITPNYU/BigScreens/wiki/Storygraph-Assignment)
+- Post your analyses to your blog.
 
-### Class 4: Storygraph @IAC Friday, Sep 29
+### Class 4: Storygraph @IAC Friday, Sep 29 11:00-5PM
 - Present and discuss pieces.
 - [Sign-up](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2017-Projects)
 
@@ -85,10 +86,10 @@
 ##### Homework:
 - Create a draft of your mid-term to present at ITP next week.
 
-### Class 6: Project Proposals @IAC Thurs Oct 12, 12:30-3PM
+### Class 6: Project Proposals @IAC Thurs Oct 12
 - [Sign-up here](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2017-Projects)
 
-### Class 7: Project Proposals @IAC Thurs Oct 19, 12:30-3PM
+### Class 7: Work @IAC Thurs Oct 19
 - [Sign-up here](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2017-Projects)
 
 ### Class 8: NO CLASS Friday, Oct 27, 3:20-5:50PM
