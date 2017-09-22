@@ -84,13 +84,14 @@
 - [Technologies](https://github.com/ITPNYU/BigScreens/wiki/Get-Started-With-Technology)
 
 ##### Homework:
-- Technical Proof of Concept: Get a demo-version of all the technical pieces of your project working @IAC next week.
-- Prepare a project proposal presentation.
+- At this point you are making your own production schedules.
+- Programmers: Build a technical Proof of Concept. Get a demo-version of all the technical pieces of your project working @IAC next week.
+- Pre-renderers: Create a series of short clips to test out ideas for different scenes, types of motion, camera angles, etc.
 
-### Class 6: Work / Project Proposals @IAC Thurs Oct 12, 10:30-4:30PM
+### Class 6: Work @IAC Thurs Oct 12, 10:30-4:30PM
 - [Sign-up here](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2017-Projects)
 
-### Class 7: Work / Project Proposals @IAC Thurs Oct 19, 10:30-4:30PM
+### Class 7: Work @IAC Thurs Oct 19, 10:30-4:30PM
 - [Sign-up here](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2017-Projects)
 
 ### Class 8: NO CLASS??? Friday, Oct 27, 3:20-5:50PM
