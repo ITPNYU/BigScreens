@@ -84,7 +84,7 @@
 - [Technologies](https://github.com/ITPNYU/BigScreens/wiki/Get-Started-With-Technology)
 
 ##### Homework:
-- Technical Proof of Concept: Try getting a demo-version of all the technical pieces of your project working @IAC next week.
+- Technical Proof of Concept: Get a demo-version of all the technical pieces of your project working @IAC next week.
 - Prepare a project proposal presentation.
 
 ### Class 6: Work / Project Proposals @IAC Thurs Oct 12, 10:30-4:30PM
