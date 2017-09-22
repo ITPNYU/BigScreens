@@ -93,7 +93,7 @@
 
 ### Class 8: NO CLASS Friday, Oct 27, 3:20-5:50PM
 
-## Pre-Class 9: Test your project @ITP: 10-4PM
+## Pre-Class 9: Test your project @ITP Thu Nov 2: 10-4PM
 - [Sign up here](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2017-Projects)
 
 ## Class 9: Mid-terms @IAC Fri Nov 3 12-6PM
