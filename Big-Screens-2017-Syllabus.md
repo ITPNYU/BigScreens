@@ -94,7 +94,7 @@
 ### Class 7: Work @IAC Thurs Oct 19, 10:30-4:30PM
 - [Sign-up here](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2017-Projects)
 
-### Class 8: NO CLASS??? Friday, Oct 27, 3:20-5:50PM
+### Class 8: Workshopping Taglines @ITP Friday, Oct 27, 3:20-5:50PM
 
 ## Pre-Class 9: Test your project @ITP Thu Nov 2 10-8PM
 - [Sign up here](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2017-Projects)
