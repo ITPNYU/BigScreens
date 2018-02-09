@@ -1,4 +1,4 @@
-# Big Screens 2015 Syllabus - Dates Still Tentative
+# Big Screens 2015 Syllabus - Dates Always Tentative
 
 - Fall 2015, Fridays, 3:20-5:50PM
 - Mimi Yin, mimi.yin@nyu.edu
