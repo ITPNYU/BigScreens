@@ -22,7 +22,7 @@
 
 ### Class 1: @IAC, Friday, Sep 8, 1:00-3:20PM
 
-####What is this class about?
+#### What is this class about?
 - Architecture. Performance. Party.
 - Project management. Iteration. 3-5 projects.
 - Walking the space. Hearing the space. Feeling the time.
