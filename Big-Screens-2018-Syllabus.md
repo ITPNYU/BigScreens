@@ -4,7 +4,7 @@
 - Mimi Yin, mimi.yin@nyu.edu
 - [Office Hours Signup](https://itp.nyu.edu/inwiki/Signup/Mimi)
 
-### [Projects](https://github.com/ITPNYU/BigScreens/wiki/Big-Screens-2018-Projects)
+### [Projects](https://github.com/ITPNYU/BigScreens/wiki/Projects-2018)
 
 ### Resources
 - Utils2018 Google Drive folder
