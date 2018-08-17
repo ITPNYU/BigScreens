@@ -88,10 +88,30 @@
 - [See guidelines](https://github.com/ITPNYU/BigScreens/wiki/Midterm-Critique:-What's-the-Point)
 - You will be asked to remain silent during the critique unless someone asks you a question.
 
-### Class 7: @IAC, Friday, Oct 26, Noon-6PM
+## Class 8: Mid-terms!!! @IAC, Friday, Oct 26, Noon-6PM
 - Project load in will be from 1-3PM.
 - Critique will be from 3:20-5:50PM.
 - Complete 360 Review #2.
+
+### Class 9: @IAC, Friday, Nov 2, 10-4PM
+- Test and present projects in small groups: 2 teams per group
+
+### Class 10: @IAC, Friday, Nov 9, 10-4PM
+- Test and present projects in small groups: 2 teams per group
+
+## Class 11: Dress Rehearsal!!! @IAC, Friday, Nov 16, Noon-8PM
+- Testing time will be available from Noon-5PM
+- Project load in will be from 5-6PM
+- Run-through begins promptly at 6PM
+- Complete 360 Review #3
+
+## Class 12: Show!!! @IAC, Friday, Nov 30, 9-9PM
+- Run-through at 1PM
+- Projects must be loaded in by 5PM
+- The show will run through 2x
+- Doors open at 6PM
+- First run through at 6:30PM
+- Second run through at 7:15PM
 
 ## Class description
 
