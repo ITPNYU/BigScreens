@@ -35,9 +35,10 @@
 - What have you been thinking about?
 - Syllabus and schedule.
 
-##### Logistics
+##### Set-up your team
 - Create a standing weekly 2-hour meeting for your team in Google Calendar. Invite everyone on the team as well as bigscreensdrive@itp.nyu.edu.
 - Set-up your Google Drive folder (1 per team). Name it with your names (e.g. JackJill) and share it with bigscreensdrive@itp.nyu.edu
+- Get together and write roles and responsibilities for each member of the team using [this template](https://docs.google.com/spreadsheets/d/1IEXwfsDmGrw9XyiPQl_tMOC3EcAV8AzmFb80ifQvE20/edit?usp=sharing)
 
 ##### For next week: Test Visuals
 - [Sign-up for a time at IAC next Friday](https://github.com/ITPNYU/BigScreens/wiki/Projects-2018)
@@ -63,6 +64,7 @@
 ### Class 4: @IAC, Friday, Sep 28, 10-4PM
 - Present storyboards in small groups: 2 teams per group.
 - Complete 360 Review #1.
+- Update your [roles and responsibilities]((https://docs.google.com/spreadsheets/d/1IEXwfsDmGrw9XyiPQl_tMOC3EcAV8AzmFb80ifQvE20/edit?usp=sharing)).
 
 ##### For next week: Pick a direction. Update the storyboard.
    * Prepare technical tests.
@@ -92,6 +94,8 @@
 - Project load in will be from 1-3PM.
 - Critique will be from 3:20-5:50PM.
 - Complete 360 Review #2.
+- Update your [roles and responsibilities]((https://docs.google.com/spreadsheets/d/1IEXwfsDmGrw9XyiPQl_tMOC3EcAV8AzmFb80ifQvE20/edit?usp=sharing)).
+
 
 ### Class 9: @IAC, Friday, Nov 2, 10-4PM
 - Test and present projects in small groups: 2 teams per group
@@ -104,6 +108,8 @@
 - Project load in will be from 5-6PM
 - Run-through begins promptly at 6PM
 - Complete 360 Review #3
+- Update your [roles and responsibilities]((https://docs.google.com/spreadsheets/d/1IEXwfsDmGrw9XyiPQl_tMOC3EcAV8AzmFb80ifQvE20/edit?usp=sharing)).
+
 
 ## Class 12: Show!!! @IAC, Friday, Nov 30, 9-9PM
 - Run-through at 1PM
