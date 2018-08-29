@@ -56,6 +56,7 @@
 
 ### Class 3: @ITP, Friday, Sep 21, 3:20-5:50PM
 - Collage Technique Storyboarding
+- Technical Workshops: *Depending on demand, we may hold additional technical workshops between Noon and 3PM.*
 
 ##### For next week: Pick 2 directions to storyboard for the Big Screen
 - [Sign-up for a time at IAC next Friday](https://github.com/ITPNYU/BigScreens/wiki/Projects-2018)
@@ -78,7 +79,6 @@
 
 ### Class 6: @ITP, Friday, Oct 12, 3:20-5:50PM
 - Storygraphing: Identifying events and shaping the arc of your project through timing and pacing.
-- Analyze:
 
 ##### For next week: Storygraph your project.
 - Each team member should select a time-based work as a model for your project's storygraph. Analyze it. Apply it to your project.
