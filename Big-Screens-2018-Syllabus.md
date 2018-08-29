@@ -54,7 +54,7 @@
 - Come up with 3 possible directions for your project. Name them. Write 3 sentences describing each idea. [Write them down here](https://github.com/ITPNYU/BigScreens/wiki/Projects-2018)
 - Each member of your team should collect 20 items per direction in preparation to storyboard each idea in class.
 
-### Class 3: @ITP, Friday, Sep 21, 3:20-5:50PM
+### Class 3: @ITP, Friday, Sep 21, (Noon-3PM) and 3:20-5:50PM
 - Collage Technique Storyboarding
 - Technical Workshops: *Depending on demand, we may hold additional technical workshops between Noon and 3PM.*
 
