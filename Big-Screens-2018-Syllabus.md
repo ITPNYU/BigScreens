@@ -22,7 +22,7 @@
 - 360 Review 3: Friday Nov 16, 2018
 - Show: Friday Nov 30, 2018
 
-### Class 1: @IAC, Friday, Sep 7, 3:20-5:50PM
+### Class 1: @IAC, Friday, Sep 7, 3:20-6:15PM
 
 #### What is this class about?
 - Architecture. Performance. Party.
@@ -54,7 +54,7 @@
 - Come up with 3 possible directions for your project. Name them. Write 3 sentences describing each idea. [Write them down here](https://github.com/ITPNYU/BigScreens/wiki/Projects-2018)
 - Each member of your team should collect 20 items per direction in preparation to storyboard each idea in class.
 
-### Class 3: @ITP, Friday, Sep 21, (Noon-3PM) and 3:20-5:50PM
+### Class 3: @ITP, Friday, Sep 21, (Noon-3PM) and 3:20-6:15PM
 - Collage Technique Storyboarding
 - Technical Workshops: *Depending on demand, we may hold additional technical workshops between Noon and 3PM.*
 
@@ -77,7 +77,7 @@
 
 ##### For next week: Work on your project.
 
-### Class 6: @ITP, Friday, Oct 12, 3:20-5:50PM
+### Class 6: @ITP, Friday, Oct 12, 3:20-6:15PM
 - Storygraphing: Identifying events and shaping the arc of your project through timing and pacing.
 
 ##### For next week: Storygraph your project.
