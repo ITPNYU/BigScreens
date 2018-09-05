@@ -90,9 +90,9 @@
 - [See guidelines](https://github.com/ITPNYU/BigScreens/wiki/Midterm-Critique:-What's-the-Point)
 - You will be asked to remain silent during the critique unless someone asks you a question.
 
-## Class 8: Mid-terms!!! @IAC, Friday, Oct 26, Noon-6PM
+## Class 8: Mid-terms!!! @IAC, Friday, Oct 26, Noon-6:30PM
 - Project load in will be from 1-3PM.
-- Critique will be from 3:20-5:50PM.
+- Critique will be from 3:20-6:15PM.
 - Complete 360 Review #2.
 - Update your [roles and responsibilities]((https://docs.google.com/spreadsheets/d/1IEXwfsDmGrw9XyiPQl_tMOC3EcAV8AzmFb80ifQvE20/edit?usp=sharing)).
 
