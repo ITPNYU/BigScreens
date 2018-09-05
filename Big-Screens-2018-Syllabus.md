@@ -1,6 +1,6 @@
 # Big Screens 2018 Syllabus - Dates Always Tentative
 
-- Fall 2018, Fridays, 3:20-5:50PM
+- Fall 2018, Fridays, 3:20-6:15PM
 - Mimi Yin, mimi.yin@nyu.edu
 - [Office Hours Signup](https://itp.nyu.edu/inwiki/Signup/Mimi)
 
