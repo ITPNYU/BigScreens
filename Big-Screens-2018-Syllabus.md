@@ -44,7 +44,7 @@
 - Take a field trip to an "immersive space." Create a 3 minute video tour of that space. Each person should have a turn directing the camera.
 - Each member of your team should collect 20 items in preparation for collage storyboarding in class 3.
 
-### Class 2: @IAC, Friday, Sep 14 3:20-6:15PM
+### Class 2: @ITP, Friday, Sep 14 3:20-6:15PM
 - Show 3 minute space tours.
 - Collage Technique Storyboarding
 - Photoshop template and using the screens at ITP
