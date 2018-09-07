@@ -40,27 +40,26 @@
 - Set-up your Google Drive folder (1 per team). Name it with your names (e.g. JackJill) and share it with bigscreensdrive@itp.nyu.edu
 - Get together and write roles and responsibilities for each member of the team using [this template](https://docs.google.com/spreadsheets/d/1IEXwfsDmGrw9XyiPQl_tMOC3EcAV8AzmFb80ifQvE20/edit?usp=sharing)
 
+##### For next week: Collect materials for Collage Technique Storyboards
+- Take a field trip to an "immersive space." Create a 3 minute video tour of that space. Each person should have a turn directing the camera.
+- Each member of your team should collect 20 items in preparation for collage storyboarding in class 3.
+
+### Class 2: @IAC, Friday, Sep 14 3:20-6:15PM
+- Show 3 minute space tours.
+- Collage Technique Storyboarding
+- Photoshop template and using the screens at ITP
+
 ##### For next week: Test Visuals
 - [Sign-up for a time at IAC next Friday](https://github.com/ITPNYU/BigScreens/wiki/Projects-2018)
 - Prepare 100 10240x922 images for IAC in 2 weeks. Scaling up by 2x still looks fine.
 - Test your images at ITP *before* coming to IAC
 
-### Class 2: @IAC, Friday, Sep 14, 10-4PM
+### Class 3: @IAC, Friday, Sep 21, 10-4PM
+- Testing visuals.
 
-#### Testing visuals
-- At IAC, you will need to [log into screens](http://itp.nyu.edu/varwiki/BigScreens/Remote_Desktop)
-
-##### For next week: Collect materials for Collage Technique Storyboards
-- Come up with 3 possible directions for your project. Name them. Write 3 sentences describing each idea. [Write them down here](https://github.com/ITPNYU/BigScreens/wiki/Projects-2018)
-- Each member of your team should collect 20 items per direction in preparation to storyboard each idea in class.
-
-### Class 3: @ITP, Friday, Sep 21, (Noon-3PM) and 3:20-6:15PM
-- Collage Technique Storyboarding
-- Technical Workshops: *Depending on demand, we may hold additional technical workshops between Noon and 3PM.*
-
-##### For next week: Pick 2 directions to storyboard for the Big Screen
-- [Sign-up for a time at IAC next Friday](https://github.com/ITPNYU/BigScreens/wiki/Projects-2018)
-- Each storyboard should have at least 12 frames
+##### For next week: Technical proof of concept.
+- Prepare some technical tests. Test them at ITP.
+- Prepare 3 fullscreen storyboards of your project.
 
 ### Class 4: @IAC, Friday, Sep 28, 10-4PM
 - Present storyboards in small groups: 2 teams per group.
@@ -68,23 +67,23 @@
 - Update your [roles and responsibilities]((https://docs.google.com/spreadsheets/d/1IEXwfsDmGrw9XyiPQl_tMOC3EcAV8AzmFb80ifQvE20/edit?usp=sharing)).
 
 ##### For next week: Pick a direction. Update the storyboard.
-   * Prepare technical tests.
+   * Update your storyboard.
+   * Bring a time-based work that lasts 5 minutes that has the timing and pacing you want for your project.
 
-### Class 5: @IAC, Friday, Oct 5, 10-4PM
-- Test updated storyboard.
-- Run technical tests.
-- Review 360 results with Mimi.
-
-##### For next week: Work on your project.
-
-### Class 6: @ITP, Friday, Oct 12, 3:20-6:15PM
+### Class 5: @ITP, Friday, Oct 5, 3:20-6:15PM
 - Storygraphing: Identifying events and shaping the arc of your project through timing and pacing.
 
 ##### For next week: Storygraph your project.
-- Each team member should select a time-based work as a model for your project's storygraph. Analyze it. Apply it to your project.
+- Pick 2 of your time-based work to analyze it and apply to your storyboard. (Pick the 2 that are most different from each other.)
+
+### Class 6: @IAC, Thursday, Oct 11, 10-4PM
+- Present storygraphs in small groups: 2 teams per group.
+- Review results of first 360 review with Mimi.
+
+##### For next week: Work on your project.
 
 ### Class 7: @IAC, Friday, Oct 19, 10-4PM
-- Present storygraphs in small groups: 2 teams per group.
+- Present your project in small groups: 2 teams per group.
 
 ##### For next week: Prepare a version of your project to present at mid-terms.
 - [See guidelines](https://github.com/ITPNYU/BigScreens/wiki/Midterm-Critique:-What's-the-Point)
@@ -99,6 +98,7 @@
 
 ### Class 9: @IAC, Friday, Nov 2, 10-4PM
 - Test and present projects in small groups: 2 teams per group
+- Review results of second 360 review with Mimi.
 
 ### Class 10: @IAC, Friday, Nov 9, 10-4PM
 - Test and present projects in small groups: 2 teams per group
