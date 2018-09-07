@@ -70,8 +70,9 @@
    * Update your storyboard.
    * Bring a time-based work that lasts 5 minutes that has the timing and pacing you want for your project.
 
-### Class 5: @ITP, Friday, Oct 5, 3:20-6:15PM
+### Class 5: @ITP, Friday, Oct 5, (Noon-3PM) and 3:20-6:15PM
 - Storygraphing: Identifying events and shaping the arc of your project through timing and pacing.
+- If needed, we will also run technical works from Noon-3PM.
 
 ##### For next week: Storygraph your project.
 - Pick 2 of your time-based work to analyze it and apply to your storyboard. (Pick the 2 that are most different from each other.)
