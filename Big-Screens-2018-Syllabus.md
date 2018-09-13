@@ -51,7 +51,7 @@
 
 ##### For next week: Test Visuals
 - [Sign-up for a time at IAC next Friday](https://github.com/ITPNYU/BigScreens/wiki/Projects-2018)
-- Prepare 100 10240x922 images for IAC in 2 weeks. Scaling up by 2x still looks fine.
+- Prepare 100 10240x922 images for IAC in 2 weeks. Scaling up by 2x still looks fine. | [Guidelines](https://github.com/ITPNYU/BigScreens/wiki/100-Images:-Approaches-To-Consider)
 - Test your images at ITP *before* coming to IAC
 
 ### Class 3: @IAC, Friday, Sep 21, 10-4PM
