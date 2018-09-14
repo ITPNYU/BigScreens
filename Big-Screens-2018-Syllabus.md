@@ -54,14 +54,14 @@
 - Prepare 100 10240x922 images for IAC in 2 weeks. Scaling up by 2x still looks fine. | [Guidelines](https://github.com/ITPNYU/BigScreens/wiki/100-Images:-Approaches-To-Consider)
 - Test your images at ITP *before* coming to IAC
 
-### Class 3: @IAC, Friday, Sep 21, 10-4PM
+### Class 3: @IAC, Friday, Sep 21, 11-5PM
 - Testing visuals.
 
 ##### For next week: Technical proof of concept.
 - Prepare some technical tests. Test them at ITP.
 - Prepare 3 fullscreen storyboards of your project.
 
-### Class 4: @IAC, Friday, Sep 28, 10-4PM
+### Class 4: @IAC, Friday, Sep 28, 11-5PM
 - Present storyboards in small groups: 2 teams per group.
 - Complete 360 Review #1.
 - Update your [roles and responsibilities]((https://docs.google.com/spreadsheets/d/1IEXwfsDmGrw9XyiPQl_tMOC3EcAV8AzmFb80ifQvE20/edit?usp=sharing)).
@@ -77,13 +77,13 @@
 ##### For next week: Storygraph your project.
 - Pick 2 of your time-based work to analyze it and apply to your storyboard. (Pick the 2 that are most different from each other.)
 
-### Class 6: @IAC, Thursday, Oct 11, 10-4PM
+### Class 6: @IAC, Thursday, Oct 11, 11-5PM
 - Present storygraphs in small groups: 2 teams per group.
 - Review results of first 360 review with Mimi.
 
 ##### For next week: Work on your project.
 
-### Class 7: @IAC, Friday, Oct 19, 10-4PM
+### Class 7: @IAC, Friday, Oct 19, 11-5PM
 - Present your project in small groups: 2 teams per group.
 
 ##### For next week: Prepare a version of your project to present at mid-terms.
@@ -97,11 +97,11 @@
 - Update your [roles and responsibilities]((https://docs.google.com/spreadsheets/d/1IEXwfsDmGrw9XyiPQl_tMOC3EcAV8AzmFb80ifQvE20/edit?usp=sharing)).
 
 
-### Class 9: @IAC, Friday, Nov 2, 10-4PM
+### Class 9: @IAC, Friday, Nov 2, 11-5PM
 - Test and present projects in small groups: 2 teams per group
 - Review results of second 360 review with Mimi.
 
-### Class 10: @IAC, Friday, Nov 9, 10-4PM
+### Class 10: @IAC, Friday, Nov 9, 11-5PM
 - Test and present projects in small groups: 2 teams per group
 
 ## Class 11: Dress Rehearsal!!! @IAC, Friday, Nov 16, Noon-8PM
