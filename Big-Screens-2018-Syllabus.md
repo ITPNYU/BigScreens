@@ -60,7 +60,7 @@
 ##### For next week: Technical proof of concept.
 - Prepare some technical tests. Test them at ITP.
 - Prepare 3 fullscreen, 10-frame storyboards of your project. Select 2 to present next week.
-- Prepare a technical proposal of what you will need for each storyboard. | Questions for technical proposal.
+- Prepare a technical proposal of what you will need for each storyboard. | [See questions for technical proposal](https://github.com/ITPNYU/BigScreens/wiki/Technical-Proposal-Questions).
 
 ### Class 4: @IAC, Friday, Sep 28, 11-5PM
 - Present storyboards in small groups: 2 teams per group.
