@@ -57,8 +57,10 @@
 ### Class 3: @IAC, Friday, Sep 21, 11-5PM
 - Testing visuals.
 
-##### For next week: Technical proof of concept.
+##### For next week: Storyboard Proposals.
 - Prepare 3 fullscreen, 10-frame storyboards of your project. Select 2 to present next week.
+   - Include every aspect of your concept, not just what is on the screen. (Audience, interaction, etc).
+   - If you have major burning questions, explore solutions by creating storyboards with different possible solutions.
 - Prepare a technical proposal of what you will need for each storyboard. | [See questions for technical proposal](https://github.com/ITPNYU/BigScreens/wiki/Technical-Proposal-Questions).
 
 ### Class 4: @IAC, Friday, Sep 28, 11-5PM
@@ -68,14 +70,15 @@
 
 ##### For next week: Pick a direction. Update the storyboard.
    * Update your storyboard.
+   * Explore technical solutions.
    * Bring a time-based work that lasts 5 minutes that has the timing and pacing you want for your project.
 
 ### Class 5: @ITP, Friday, Oct 5, (Noon-3PM) and 3:20-6:15PM
 - Storygraphing: Identifying events and shaping the arc of your project through timing and pacing.
 - If needed, we will also run technical works from Noon-3PM.
 
-##### For next week: Storygraph your project.
-- Pick 2 of your time-based work to analyze it and apply to your storyboard. (Pick the 2 that are most different from each other.)
+##### For next week: Technical Proof of Concept
+- Create technical tests to test at IAC next week.
 
 ### Class 6: @IAC, Thursday, Oct 11, 11-5PM
 - Present storygraphs in small groups: 2 teams per group.
