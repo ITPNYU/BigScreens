@@ -57,7 +57,8 @@
 ### Class 3: @IAC, Friday, Sep 21, 11-5PM
 - Testing visuals.
 
-##### For next week: Storyboard Proposals.
+##### For next week: Storyboard Proposals @IAC
+- [Sign-up for a time](https://github.com/ITPNYU/BigScreens/wiki/Projects-2018)
 - Prepare 3 fullscreen, 10-frame storyboards of your project. Select 2 to present next week.
    - Include every aspect of your concept, not just what is on the screen. (Audience, interaction, etc).
    - If you have major burning questions, explore solutions by creating storyboards with different possible solutions.
