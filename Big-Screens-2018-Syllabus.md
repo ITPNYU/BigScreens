@@ -66,13 +66,11 @@
 
 ### Class 4: @IAC, Friday, Sep 28, 11-5PM
 - Present storyboards in small groups: 2 teams per group.
-- Complete 360 Review #1.
 - Update your [roles and responsibilities]((https://docs.google.com/spreadsheets/d/1IEXwfsDmGrw9XyiPQl_tMOC3EcAV8AzmFb80ifQvE20/edit?usp=sharing)).
 
 ##### For next week: Pick a direction. Update the storyboard.
-   * Update your storyboard.
-   * Explore technical solutions.
-   * Bring a time-based work that lasts 5 minutes that has the timing and pacing you want for your project.
+   * Update your storyboard based on the feedback you received today.
+   * [Explore technical solutions](https://github.com/ITPNYU/BigScreens/wiki/Get-Started-With-Technology-PC)
 
 ### Class 5: @ITP, Friday, Oct 5, (Noon-3PM) and 3:20-6:15PM
 - Storygraphing: Identifying events and shaping the arc of your project through timing and pacing.
