@@ -78,9 +78,11 @@
 
 ##### For next week: Technical Proof of Concept
 - Create technical tests to test at IAC next week.
+- Use this opportunity to test fullscreen motion
+- Test @ITP before coming to IAC
 
 ### Class 6: @IAC, Thursday, Oct 11, 11-5PM
-- Present storygraphs in small groups: 2 teams per group.
+- Run motion tests
 - Review results of first 360 review with Mimi.
 
 ##### For next week: Work on your project.
