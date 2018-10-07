@@ -77,8 +77,7 @@
 - If needed, we will also run technical works from Noon-3PM.
 
 ##### For next week: Technical Proof of Concept
-- Create technical tests to test at IAC next week.
-- Use this opportunity to test fullscreen motion
+- Test motion at IAC next week. Each member of the team should have at least 1 thing to test. It can be pre-rendered or real-time.
 - Test @ITP before coming to IAC
 
 ### Class 6: @IAC, Thursday, Oct 11, 11-5PM
