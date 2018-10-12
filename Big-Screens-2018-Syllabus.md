@@ -82,12 +82,14 @@
 
 ### Class 6: @IAC, Thursday, Oct 11, 11-5PM
 - Run motion tests
-- Review results of first 360 review with Mimi.
 
-##### For next week: Work on your project.
+##### For next week: Create first draft of your Storygraph
+- Create 5 minutes of content out of video, animation, stills.
+- Time it out so.
 
 ### Class 7: @IAC, Friday, Oct 19, 11-5PM
 - Present your project in small groups: 2 teams per group.
+- Review results of first 360 review with Mimi.
 
 ##### For next week: Prepare a version of your project to present at mid-terms.
 - [See guidelines](https://github.com/ITPNYU/BigScreens/wiki/Midterm-Critique:-What's-the-Point)
